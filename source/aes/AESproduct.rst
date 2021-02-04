@@ -14,9 +14,9 @@ This provides several benefits:
 
 A guide for setting up AES for Business can be found :ref:`here <aes-setup>`.
 
-For more information about AES for Business, see our factsheet_.
+For more information about AES for Business, see here_.
 
-.. _factsheet: https://www.skribble.com/identification/aes-for-business/
+.. _here: https://www.skribble.com/en/identification-aes-for-business/
 
 For more information about SES, AES, and QES standards for signatures, see this page_.
 
