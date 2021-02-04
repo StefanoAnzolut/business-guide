@@ -5,66 +5,55 @@ Setting up signing with Skribble from OneDrive and SharePoint
 =============================================================
 
 .. NOTE::
- This is a beta feature available to a limited group of Skribble Business customers.
+ Skribble Electronic Signature plug-in is only available with Microsoft OneDrive for Business and Skribble Business.
 
-Skribble integrates easily with Google Drive and enables companies, departments, and teams to sign and get documents signed electronically directly from their favourite tools.
+Skribble integrates easily with **Microsoft OneDrive for Business** and enables companies to sign and get documents signed electronically directly from OneDrive and SharePoint.
 
-If you use Google Drive and Skribble Business, you can connect them in just a few easy steps. To do so, you’ll need:
+If you already use **OneDrive for Business** and **Skribble Business**, you can connect them in just a few easy steps. To do so, you’ll need:
 
-•	**Admin access to your company’s Google Drive**
+•	**Admin access to OneDrive for Business**
 •	**Skribble API credentials**
-•	**Skribble – Electronic Signature plug-in**
+•	**Skribble Electronic Signature plug-in**
 
-We recommend that the Google Drive admin does the setup of the Skribble – Electronic Signature plug-in. Skribble Business admins might not have all the necessary rights to finish the setup on Google Drive.
+We recommend that your OneDrive admin carries out the setup of the Skribble Electronic Signature plug-in. Skribble Business admins might not have all the necessary rights to finish the setup.
 
 
-**Step-by-step guide for Google Drive admins to connect Google Drive with Skribble**
+**Step-by-step guide for OneDrive admins to connect OneDrive and SharePoint with Skribble**
 
 .. NOTE::
  Before you get started, make sure you have your Skribble API credentials ready.
 
-You can get these from the person in charge of Skribble Business in your company. Skribble Business admins: `click here for guidance`_.
+You can get these from your company's Skribble Business admin. Skribble Business admins: `click here for guidance`_.
 
   .. _click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
 
-- Go to `G Suite Marketplace`_ and search for **Skribble – Electronic Signature**
+- Go to `Microsoft AppSource`_ and search for **Skribble Electronic Signature**
   
-  .. _G Suite Marketplace: https://gsuite.google.com/marketplace
+  .. _Microsoft AppSource: https://appsource.microsoft.com/
   
-- Click **Install**
+- Click **Get it now** and follow the isntructions
   
-- Carefully read the information displayed, accept the terms of service and privacy policy if you agree with them and click **Continue**
+- Click **Let’s get started** if you’re ready
   
-- You’ll be asked to allow access to complete installation
+- Log in with your **Microsoft admin account**
 
-- Click **Allow** if you agree
-  
-Once the plug-in is installed, you’ll have to finish the setup to connect Google Drive with Skribble. Follow the instructions on the screen. **You’ll need Google Drive admin rights for this.**
-  
-- Go to **Google Admin Console**
-  
-- Log in using your **Admin account**
+- You’ll be asked to grant permissions on behalf of your organisation to proceed
 
-- Navigate to **Apps**
-  
-- Go to **Google Workspace Marketplace apps**
+- Click **Accept** if you agree
 
-- Go to **Skribble – Electronic Signature**
-  
-- Scroll down to **Go to Skribble – Electronic Signature for configuration**
-  
-- Select your **Admin account** from the list
-  
-Google Drive admins will need Skribble API credentials (username and API key) to proceed. You can get these from the person in charge of Skribble Business in your company. Skribble Business admins: `click here for guidance`_
+OneDrive admins will need Skribble API credentials (username and API key) to proceed. You can get these from your company’s Skribble Business admin. Skribble Business admins: `click here for guidance`_.
 
-  .. _Click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
+  .. _click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
   
-- Enter **Skribble API credentials** (username and API key)
-  
-- That’s it, you’ve successfully connected Google Drive with Skribble
-  
-Everyone in your company can now sign and invite others to sign directly from Google Drive. We recommend that you inform them about it. Here’s a `quick guide`_ if they need a hand with signing from Google Drive.
+- Enter **Skribble API credentials** (username and API key) to finish the setup
 
-  .. _quick guide: http://docs.skribble.com/business-admin/integrations/sign-google-drive
+- That’s it; you’ve successfully connected OneDrive and SharePoint with Skribble
   
-
+.. NOTE::
+ It may take up to 48 hours before everyone can sign with Skribble from OneDrive and SharePoint.
+ 
+ In the meantime, we recommend sharing our `quick guide on signing with Skribble`_ with everyone in your company. After 48 hours have passed, you can notify all employees.
+ 
+   .. _quick guide on signing with Skribble: https://docs.skribble.com/business-admin/integrations/sign-onedrive-sharepoint
+   
+ 
