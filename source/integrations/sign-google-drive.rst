@@ -5,19 +5,17 @@ Signing documents from Google Drive
 ===================================
 
 .. NOTE::
-  This is a beta feature available to a limited group of Skribble Business customers.
+  This feature is available to Skribble Business customers.
   
-Once your Google Drive admin connects your company's Skribble Business with Google Drive, you'll be able to sign with Skribble directly from your Google Drive Web App (not the local version on your computer).
+Once your Google Drive admin has connected your company's Skribble Business with Google Drive, you'll be able to sign with Skribble directly from your Google Drive Web App.
 
 To sign a document from Google Drive (video tutorial available `here`_):
 
 .. _here: https://youtu.be/zKqAU9ke46I
 
-- Go to Google Drive Web App at `drive.google.com/drive`_
+- Go to Google Drive Web App at `drive.google.com/drive`_ (not the local version on your computer)
 
 .. _drive.google.com/drive: https://drive.google.com/drive
-
-If you're not logged in yet, please make sure to log in with the same e-mail address you use to log in to your Skribble account.
 
 - **Right-click** on the document you want to sign
 
@@ -39,6 +37,8 @@ If you don't see Skribble Electronic Signature after right-clicking on the docum
 
 - **Log in** with your **Skribble account** and sign the document or invite others to sign the usual way
 
+Your Skribble and Google Drive e-mail address must match.
+
 
 .. image:: 3_log_in.png
     :alt: pointer to menu button
@@ -52,4 +52,6 @@ If you don't see Skribble Electronic Signature after right-clicking on the docum
     :alt: pointer to menu button
     :class: with-shadow
     
+ 
+You don't see the signed document next to the original document? Check the folder **Signed with Skribble Electronic Signature**. This is where we'll save signed documents if you don't have access rights to the folder where the document is when the last signature is made.
     
