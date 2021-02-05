@@ -13,7 +13,7 @@ To sign a document from Google Drive (video tutorial available `here`_):
 
 .. _here: https://youtu.be/zKqAU9ke46I
 
-- Go to Google Drive Web App at `drive.google.com/drive`_ (not the local version on your computer).
+- Go to Google Drive Web App at `drive.google.com/drive`_ (not the local version on your computer)
 
 .. _drive.google.com/drive: https://drive.google.com/drive
 
@@ -53,5 +53,5 @@ Your Skribble and Google Drive e-mail address must match.
     :class: with-shadow
     
  
-You don't see the signed document next to the original document? Please check the folder **Signed with Skribble Electronic Signature**. This is where we'll save signed documents if you don't have access rights to the folder where the document is when the last signature is made.
+You don't see the signed document next to the original document? Check the folder **Signed with Skribble Electronic Signature**. This is where we'll save signed documents if you don't have access rights to the folder where the document is when the last signature is made.
     
