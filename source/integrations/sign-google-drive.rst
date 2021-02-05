@@ -37,7 +37,7 @@ If you don't see Skribble Electronic Signature after right-clicking on the docum
 
 - **Log in** with your **Skribble account** and sign the document or invite others to sign the usual way
 
-*Your Skribble and Google Drive e-mail address must match.
+Your Skribble and Google Drive e-mail address must match.
 
 
 .. image:: 3_log_in.png
@@ -53,5 +53,5 @@ If you don't see Skribble Electronic Signature after right-clicking on the docum
     :class: with-shadow
     
  
- You don't see the signed document next to the original document? Please check the folder **Signed with Skribble Electronic Signature**. This is where we'll save signed documents if you don't have access rights to the folder where the document is when the last signature is made.
+You don't see the signed document next to the original document? Please check the folder **Signed with Skribble Electronic Signature**. This is where we'll save signed documents if you don't have access rights to the folder where the document is when the last signature is made.
     
