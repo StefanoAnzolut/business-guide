@@ -29,27 +29,27 @@ You can get these from the person in charge of Skribble Business in your company
 
   .. _click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
 
-- Go to `G Suite Marketplace`_ and search for **Skribble Electronic Signature**
+- Go to `G Suite Marketplace`_ and search for **Skribble Electronic Signature** or click `here`_ to download the plug-in directly
   
   .. _G Suite Marketplace: https://gsuite.google.com/marketplace
+  
+  .. _here: https://workspace.google.com/marketplace/app/skribble_electronic_signature/313457989260
   
 - Click **Install**
   
 - Carefully read the information displayed, accept the terms of service and privacy policy if you agree with them and click **Continue**
   
-- You’ll be asked to allow access to complete installation
+You’ll be asked to allow access to finish installation.
 
 - Click **Allow** if you agree
 
-- Once the plug-in is installed, finish the setup to connect Google Drive with Skribble. You’ll need Google Drive admin rights for this.
+Once the plug-in is installed, finish the setup to connect Google Drive with Skribble. You’ll need Google Drive admin rights for this.
   
 - Go to **Google Admin Console**
   
 - Log in using your **Admin account**
 
-- Navigate to **Apps**
-  
-- Go to **Google Workspace Marketplace apps**
+- Navigate to **Apps**, then **Google Workspace Marketplace apps**
 
 - Go to **Skribble Electronic Signature**
   
@@ -59,9 +59,9 @@ You can get these from the person in charge of Skribble Business in your company
   
 - Enter **Skribble API credentials** (username and API key)
   
-- That’s it, you’ve successfully connected Google Drive with Skribble
+- That’s it; you’ve successfully connected Google Drive with Skribble
   
-Everyone in your company can now sign and invite others to sign directly from Google Drive. We recommend that you inform them about it. Here’s a `quick guide`_ if they need a hand with signing from Google Drive.
+Everyone in your company can now sign with Skribble directly from Google Drive. We recommend that you inform them about it. Here’s a `quick guide`_ if they need a hand with signing from Google Drive.
 
   .. _quick guide: http://docs.skribble.com/business-admin/integrations/sign-google-drive
   
