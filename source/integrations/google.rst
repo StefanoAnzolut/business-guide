@@ -5,15 +5,13 @@ Setting up signing with Skribble from Google Drive
 ==================================================
 
 .. NOTE::
- Skribble Electronic Signature plug-in is only available with Skribble Business.
- 
-If you haven’t set up Skribble Business yet, you can do it on my.skribble.com. Check our `guide`_ for help.
+ **Skribble Electronic Signature plug-in is available with Skribble Business.** If you haven’t set up Skribble Business yet, you can do it on my.skribble.com. Check our `guide`_ for help.
 
   .. _guide: https://docs.skribble.com/business-admin/quickstart/upgrade
 
 Skribble integrates easily with Google Drive and enables companies, departments, and teams to sign and get documents signed electronically directly from their favourite tools.
 
-If you use Google Drive and Skribble Business, you can connect them in just a few easy steps. To do so, you’ll need:
+To connect Google Drive and Skribble Business, you’ll need:
 
 •	**Admin access to your company’s Google Drive**
 •	**Skribble API credentials**
@@ -42,8 +40,8 @@ You can get these from the person in charge of Skribble Business in your company
 - You’ll be asked to allow access to complete installation
 
 - Click **Allow** if you agree
-  
-Once the plug-in is installed, you’ll have to finish the setup to connect Google Drive with Skribble. Follow the instructions on the screen. **You’ll need Google Drive admin rights for this.**
+
+- Once the plug-in is installed, finish the setup to connect Google Drive with Skribble. You’ll need Google Drive admin rights for this.
   
 - Go to **Google Admin Console**
   
@@ -58,10 +56,6 @@ Once the plug-in is installed, you’ll have to finish the setup to connect Goog
 - Scroll down to **Go to Skribble Electronic Signature for configuration**
   
 - Select your **Admin account** from the list
-  
-Google Drive admins will need Skribble API credentials (username and API key) to proceed. You can get these from the person in charge of Skribble Business in your company. Skribble Business admins: `click here for guidance`_
-
-  .. _Click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
   
 - Enter **Skribble API credentials** (username and API key)
   
