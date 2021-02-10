@@ -21,7 +21,7 @@ To sign a document:
 
 If you don't see Skribble Electronic Signature after right-clicking on the document, please contact your OneDrive admin.
     
-- You'll have to activate signing with Skribble if you're signing for the first time or if you haven't been signing for a long time
+- You'll have to activate signing with Skribble if you're signing for the first time or if you haven't signed for a long time
 
 - Click **Activate and continue with signing**
 
