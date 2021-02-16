@@ -5,9 +5,14 @@ Setting a Document Deletion Period
 ==================================
 
 .. NOTE::
-   This article describes a feature that is only available to Skribble Enterprise customers.
+   This feature is only available to Skribble Enterprise customers.
 
-Documents that have been signed or declined by all parties will automatically and irrevocably be deleted from Skribble after 30 days (unless otherwise specified). As an administrator, you can customise document deletion period for your company and set it to 5, 10, 30, 60 or 90 days. Setting a new deletion period will apply it to all Skribble accounts and members associated with your Skribble Business.
+Skribble Business admins can select a uniform document deletion period for all Skribble Business members. After this time, their documents will be automatically deleted from Skribble.
+
+As an admin, you can select a document deletion period for:
+
+•	**all documents** (only available to Skribble Enterprise customers who became customers after 17 February 2020)
+•	**finalised documents** (documents that have been signed by all parties or declined by at least one person)
 
 To set a new deletion period:
 
@@ -33,15 +38,18 @@ You'll be able to choose between 5, 10, 30, 60 and 90 days.
     
 - Click **Save** to confirm
 
+We highly recommend that you inform all employees about the selected document deletion period to make sure they can download their documents before they're automatically deleted from Skribble. 
+
+
 .. image:: deletion_period_click_save4.png
     :class: with-shadow
     
     
 **E-mail notifications**
 
-We will send an e-mail reminder to all members associated with your Skribble Business one week before the deletion period of a specific document expires. Additionally, we will send a final e-mail reminder on the day of deletion. We highly recommend that you inform all members when you set a new deletion period to ensure they can download their documents in good time.
+We'll send an e-mail reminder to the affected Skribble Business members one week before the document is deleted. They will receive another e-mail on the day of deletion.
 
-If the document deletion period is set to **5 days**, we will send an e-mail reminder in the morning of the expiration date.
+If the document deletion period is set to **5 days**, we'll only send an e-mail on the day of deletion.
 
 Should you have any questions or require further assistance, please drop us an e-mail at `support@skribble.com`_.
    
