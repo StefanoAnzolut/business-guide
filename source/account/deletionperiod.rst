@@ -13,7 +13,7 @@ You can select a document deletion period for:
 
 •	**all documents regardless of their state** (only available to Enterprise customers who became customers after 17 February 2020)
 
-•	**completed and declined documents** (documents that have been signed by all parties or declined by at least one person)
+•	**signed and declined documents** (documents that have been signed by all parties or declined by at least one person)
 
 To select a document deletion period:
 
