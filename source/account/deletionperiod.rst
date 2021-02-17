@@ -7,12 +7,13 @@ Setting a Document Deletion Period
 .. NOTE::
    This feature is only available to Skribble Enterprise customers.
 
-Skribble Business admins can select a uniform document deletion period for all Skribble Business members. After this period, their documents will be automatically deleted from Skribble.
+As a Skribble Business admin, you can select a uniform document deletion period for all members. After this period, their documents will be automatically deleted from Skribble.
 
-As an admin, you can select a document deletion period for:
-
-•	**all documents** (only available to Enterprise customers who became customers after 17 February 2020)
-•	**finalised documents** (documents that have been signed by all parties or declined by at least one person)
+You can select a document deletion period for:
+•	**all documents regardless of their state**
+(only available to Enterprise customers who became customers after 17 February 2020)
+•	**completed and declined documents**
+(documents that have been signed by all parties or declined by at least one person)
 
 To set a document deletion period:
 
@@ -38,8 +39,7 @@ You'll be able to choose between 5, 10, 30, 60 and 90 days.
     
 - Click **Save** to confirm
 
-We highly recommend that you inform all employees about the selected deletion period to make sure they can download their documents before they're automatically deleted from Skribble. 
-
+We recommend informing all employees about the selected deletion period. They might need to download their documents before they're deleted from Skribble. 
 
 .. image:: deletion_period_click_save4.png
     :class: with-shadow
@@ -47,10 +47,10 @@ We highly recommend that you inform all employees about the selected deletion pe
     
 **E-mail reminders to download affected documents**
 
-We'll send an e-mail reminder to the affected Skribble Business members one week before the document is deleted. They'll receive another e-mail on the day of deletion.
+We'll send an e-mail reminder to the affected members one week before the document is deleted. They'll receive another e-mail on the day of deletion.
 
 If the document deletion period is set to **5 days**, they'll only receive one e-mail on the day of deletion.
 
-Should you have any questions or require further assistance, please drop us an e-mail at `support@skribble.com`_.
+Got a question or need a hand? Drop us an e-mail at `support@skribble.com`_. We'll be happy to help you.
    
    .. _support@skribble.com: support@skribble.com
