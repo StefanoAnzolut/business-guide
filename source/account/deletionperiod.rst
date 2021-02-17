@@ -7,15 +7,12 @@ Setting a Document Deletion Period
 .. NOTE::
    This feature is only available to Skribble Enterprise customers.
 
-As a Skribble Business admin, you can select a uniform document deletion period for all employees. After this period, their documents will be automatically deleted from Skribble.
+As a Skribble Business admin, you can set a document deletion period for all documents regardless of their state. After this period, documents of your Skribble Business members will be automatically deleted from Skribble.
 
-You can select a document deletion period for:
+**Note for Enterprise customers who became customers before 17 February 2020.** Deletion period only affects signed and declined documents (documents signed by all parties or declined by at least one person).
 
-•	**all documents regardless of their state** (only available to Enterprise customers who became customers after 17 February 2020)
 
-•	**signed and declined documents** (documents that have been signed by all parties or declined by at least one person)
-
-To select a document deletion period:
+To set a document deletion period:
 
 - Click **Business profile** if you're not already there
 
