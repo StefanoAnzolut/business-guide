@@ -11,11 +11,9 @@ As a Skribble Business admin, you can select a uniform document deletion period 
 
 You can select a document deletion period for:
 
-•	**all documents regardless of their state**
-(only available to Enterprise customers who became customers after 17 February 2020)
+•	**all documents regardless of their state** (only available to Enterprise customers who became customers after 17 February 2020)
 
-•	**completed and declined documents**
-(documents that have been signed by all parties or declined by at least one person)
+•	**completed and declined documents** (documents that have been signed by all parties or declined by at least one person)
 
 To set a document deletion period:
 
@@ -31,7 +29,7 @@ To set a document deletion period:
     :class: with-shadow
     
 
-- Click the pen icon on the right and select the new deletion period from the drop-down menu
+- Click the **pen icon** on the right and select the new deletion period from the drop-down menu
 
 You'll be able to choose between 5, 10, 30, 60 and 90 days.
 
@@ -41,7 +39,7 @@ You'll be able to choose between 5, 10, 30, 60 and 90 days.
     
 - Click **Save** to confirm
 
-We recommend informing all employees about the selected deletion period. They might need to download their documents before they're deleted from Skribble. 
+We recommend informing all employees about the selected deletion period. They might need to download their documents before they're deleted from Skribble.
 
 .. image:: deletion_period_click_save4.png
     :class: with-shadow
