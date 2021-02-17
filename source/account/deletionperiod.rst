@@ -7,7 +7,7 @@ Setting a Document Deletion Period
 .. NOTE::
    This feature is only available to Skribble Enterprise customers.
 
-As a Skribble Business admin, you can select a uniform document deletion period for all members. After this period, their documents will be automatically deleted from Skribble.
+As a Skribble Business admin, you can select a uniform document deletion period for all employees. After this period, their documents will be automatically deleted from Skribble.
 
 You can select a document deletion period for:
 
@@ -15,7 +15,7 @@ You can select a document deletion period for:
 
 •	**completed and declined documents** (documents that have been signed by all parties or declined by at least one person)
 
-To set a document deletion period:
+To select a document deletion period:
 
 - Click **Business profile** if you're not already there
 
@@ -39,17 +39,15 @@ You'll be able to choose between 5, 10, 30, 60 and 90 days.
     
 - Click **Save** to confirm
 
-We recommend informing all employees about the selected deletion period. They might need to download their documents before they're deleted from Skribble.
+We recommend informing all employees about the new deletion period selected. They may need to download their documents before they're deleted from Skribble.
 
 .. image:: deletion_period_click_save4.png
     :class: with-shadow
     
     
-**E-mail reminders to download affected documents**
+- **E-mail reminders to download affected documents**
 
-We'll send an e-mail reminder to the affected members one week before the document is deleted. They'll receive another e-mail on the day of deletion.
-
-If the document deletion period is set to **5 days**, they'll only receive one e-mail on the day of deletion.
+We'll send an e-mail reminder to the affected members one week before the document is deleted. They'll receive another e-mail on the day of deletion. If the document deletion period is set to **5 days**, they'll only receive one e-mail on the day of deletion.
 
 Got a question or need a hand? Drop us an e-mail at `support@skribble.com`_. We'll be happy to help you.
    
