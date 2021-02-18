@@ -44,7 +44,7 @@ We recommend informing all employees about the new deletion period. They may nee
     
 - **E-mail reminders to download documents**
 
-We'll remind your employees to download the affected documents 7 days before they're deleted. They'll receive another e-mail on the day of deletion. If the document deletion period is set to **5 days**, they'll only receive one e-mail on the day of deletion.
+We'll remind your employees to download the affected documents **7 days** before they're deleted. They'll receive another e-mail on the day of deletion. If the document deletion period is set to **5 days**, they'll only receive one e-mail on the **day of deletion**.
 
 Got a question or need a hand? Drop us an e-mail at `support@skribble.com`_. We'll be happy to help you.
    
