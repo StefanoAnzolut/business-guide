@@ -9,13 +9,12 @@ Setting a Document Deletion Period
 
 Skribble Business admins can set a document deletion period for all documents regardless of their status. After a set time, the affected documents will be automatically deleted from Skribble.
 
-**Did you become Enterprise customers before 17 February 2021?**
-Deletion period only applies to signed and declined documents — documents signed by all parties or declined by at least one person.
+**Note for customers who became customers before 17 February 2021:** As a standard, the deletion period only applies to **signed and declined documents** — documents signed by all parties or declined by at least one person.
 
 
 To set a document deletion period:
 
-- Click **Business profile** if you're not already there
+- Click **Business profile** in the lower-left
 
 .. image:: deletion_period_click_profile1.png
     :class: with-shadow
@@ -27,7 +26,7 @@ To set a document deletion period:
     :class: with-shadow
     
 
-- Click the **pen icon** on the right and select the new deletion period from the drop-down menu
+- Click the **pen symbol** on the right and select the new deletion period
 
 You'll be able to choose between 5, 10, 30, 60 and 90 days.
 
@@ -37,13 +36,13 @@ You'll be able to choose between 5, 10, 30, 60 and 90 days.
     
 - Click **Save** to confirm
 
-We recommend informing all employees about the new deletion period selected. They may need to download their documents before they're deleted from Skribble.
+We recommend informing all employees about the new deletion period. They may need to download their documents before they're deleted from Skribble.
 
 .. image:: deletion_period_click_save4.png
     :class: with-shadow
     
     
-- **E-mail reminders to download affected documents**
+- **E-mail reminders to download documents**
 
 We'll remind your employees to download the affected documents 7 days before they're deleted. They'll receive another e-mail on the day of deletion. If the document deletion period is set to **5 days**, they'll only receive one e-mail on the day of deletion.
 
