@@ -4,10 +4,7 @@
 Adding Company Branding
 =======================
 
-.. NOTE::
-   This article describes a feature that is only available to Skribble Enterprise customers.
-
-With the custom branding feature, Skribble Enterprise customers can customise their account with company branding (logo and address) to enhance brand recognition. Company branding will appear in the header of your Skribble Business on the Skribble e-signing platform, in e-mail notifications and the document viewer. This way, you can convey trust and reliability with internal and external stakeholders alike, and reassure them that signing invitations come from your organisation.
+With the custom branding feature, Skribble Business and Enterprise customers can customise their account with company branding (logo and address) to enhance brand recognition. Company branding will appear in the header of your Skribble Business on the Skribble e-signing platform, in e-mail notifications and the document viewer. This way, you can convey trust and reliability with internal and external stakeholders alike, and reassure them that signing invitations come from your organisation.
 
 To request custom branding for your Skribble Business, we kindly ask you to reach out to our team at support@skribble.com. We will be happy to assist you.
 
