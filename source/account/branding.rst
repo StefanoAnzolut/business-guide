@@ -5,17 +5,22 @@ Adding Company Branding
 =======================
 
 .. NOTE::
-   This article describes a feature that is only available to Skribble Enterprise customers.
+  To request company branding, please contact our team at support@skribble.com. We'll be happy to assist you.
 
-With the custom branding feature, Skribble Enterprise customers can customise their account with company branding (logo and address) to enhance brand recognition. Company branding will appear in the header of your Skribble Business on the Skribble e-signing platform, in e-mail notifications and the document viewer. This way, you can convey trust and reliability with internal and external stakeholders alike, and reassure them that signing invitations come from your organisation.
+As a Business and Enterprise customer, you can customise your members' accounts with the company logo and address. This is a great way to convey trust and reliability to both your employees and customers. It also helps them recognise signing invitations that come from your company. For more information, please see our `Pricing page`_.
 
-To request custom branding for your Skribble Business, we kindly ask you to reach out to our team at support@skribble.com. We will be happy to assist you.
+.. _Pricing page: https://www.skribble.com/en/pricing/
 
-**Where will company branding appear?**
+Company branding will be displayed:
+  - in the header (top-left) of your members' accounts
+  - in e-mail notifications and
+  - in the sidebar of a document
+
+Below you will find examples of company branding.
 
 - **Account header**
 
-On the Skribble e-signing platform, your company logo will replace the logo of Skribble and will be displayed in the account header of your Skribble Business members.
+Your company logo replaces the logo of Skribble and is displayed in the header of your members' accounts.
 
 .. image:: brand_account_preview.png
     :class: with-shadow
@@ -23,16 +28,16 @@ On the Skribble e-signing platform, your company logo will replace the logo of S
     
 - **E-Mail notifications**
 
-When members of your Skribble Business invite someone to sign a document with Skribble, the invitee will receive a signing invitation by e-mail. Your company logo will appear in the footer of the e-mail invitation along with the company address.
+When you invite someone to sign or when someone signs a document, they receive an e-mail notification. Your company logo will be displayed in the e-mail footer along with the company address.
 
 
 .. image:: brand_mail_preview.png
     :class: with-shadow
     
 
-- **Document viewer**
+- **Document sidebar**
 
-Your company logo will appear in the document viewer when a person invited to sign opens a document.
+Your company logo will be also displayed in the sidebar of a document.
 
 
 .. image:: brand_doc_preview.png
