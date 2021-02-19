@@ -12,7 +12,7 @@ As a Business and Enterprise customer, you can customise your members' accounts 
 .. _Pricing page: https://www.skribble.com/en/pricing/
 
 Company branding will be displayed:
-  - in the header (top-left) of members' account
+  - in the header (top-left) of your members' accounts
   - in e-mail notifications and
   - in the sidebar of a document
 
@@ -20,7 +20,7 @@ Below you will find examples of company branding.
 
 - **Account header**
 
-Your company logo will be displayed in the header of the members' account. It replaces the logo of Skribble that we show by default.
+Your company logo replaces the logo of Skribble and is displayed in the header of your members' accounts.
 
 .. image:: brand_account_preview.png
     :class: with-shadow
