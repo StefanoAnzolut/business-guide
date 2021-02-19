@@ -5,17 +5,18 @@ Adding Company Branding
 =======================
 
 .. NOTE::
-  To request custom branding, we kindly ask you to contact our team at support@skribble.com. We'll be happy to assist you.
+  To request company branding, please contact our team at support@skribble.com. We'll be happy to assist you.
 
-Skribble Business and Enterprise customers can customise their account with company branding (logo and address). Adding your company logo and address is a great way to convey trust and reliability to both your employees and customers. It also helps them recognise that signing invitations come from your company.
+Business and Enterprise customers can customise their account appearance to match the look and feel of your company branding. Adding your company logo and address is a great way to convey trust and reliability to both your employees and customers. It also helps them recognise that signing invitations come from your company. For more information, see our `Pricing page`_.
+
+.. _Pricing page: https://www.skribble.com/en/pricing/
 
 Company branding will be displayed:
+  - in the header (top-left) of members' account
+  - in e-mail notifications and
+  - the document sidebar
 
-• in the header (top-left) of every member's account
-• in e-mail notifications and 
-• the document sidebar
-
-**Below you will find some examples of company branding**
+- Below you will find examples of company branding.
 
 - **Account header**
 
