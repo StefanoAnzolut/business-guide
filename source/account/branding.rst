@@ -7,7 +7,7 @@ Adding Company Branding
 .. NOTE::
   To request company branding, please contact our team at support@skribble.com. We'll be happy to assist you.
 
-Skribble Business and Enterprise customers can customise their account with the company logo and address. This is a great way to convey trust and reliability to both your employees and customers. It also helps them recognise signing invitations that come from your company. For more information, see our `Pricing page`_.
+Skribble Business and Enterprise customers can customise their account with the company logo and address. This is a great way to convey trust and reliability to both your employees and customers. It also helps them recognise signing invitations that come from your company. For more information, please see our `Pricing page`_.
 
 .. _Pricing page: https://www.skribble.com/en/pricing/
 
