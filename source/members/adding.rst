@@ -49,9 +49,9 @@ We'll activate the domain once we've checked that it belongs to your company. Us
 
 - After adding a domain, you'll see its status next to the domain name:
 
-•	**Activated** — your domain has been succesfully activated
-•	**Requested** — we'll check the domain manually and inform you once it's done (this can take up to 48 hours)
-•	**Declined** — the domain has been declined either because its invalid or already taken
+  •	**Activated** — your domain has been succesfully activated
+  •	**Requested** — we'll check the domain manually and inform you once it's done (this can take up to 48 hours)
+  •	**Declined** — the domain has been declined either because its invalid or already taken
 
 
 .. image:: adding_requested.png
@@ -61,6 +61,7 @@ We'll activate the domain once we've checked that it belongs to your company. Us
 Questions or need a hand? Contact our support team at `support@skribble.com`_.  
 
   .. _support@skribble.com: support@skribble.com
+  
 
 
 Adding members by e-mail
