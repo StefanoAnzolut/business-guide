@@ -9,11 +9,10 @@ There are two ways to add members to your Skribble Business:
 - By domain 
 - By e-mail
 
-The simplest way to add multiple members to your Skribble Business is by registering your company domain (@example.org). Once this is complete, anyone who creates a new Skribble account using your company domain will automatically become a member of your Skribble Business.
+The simplest way to add multiple members to your Skribble Business is by adding your company domain (@example.org) to Skribble. Once this is complete, anyone who creates a **new** Skribble account using your company domain will automatically become a member of your Skribble Business.
 
 .. NOTE::
-  Employees of your company who created a Skribble account *before* your domain was registered with your Skribble Business will not be added automatically to your account. You will need to add them by e-mail invite, described in the next section.
-  
+  Employees of your company who created a Skribble account *before* your domain was added will not be added automatically to your account. You will need to add them by e-mail. Please see **Adding members by e-mail**, described below.
   
 Adding members by domain
 -------------------------
@@ -41,18 +40,27 @@ Adding members by domain
 
 - Enter the domain and click **Add**
 
+We'll activate the domain once we've checked that it belongs to your company. Usually, it happens immediately. In some cases, we'll need to check the domain manually. This can take up to 48 hours.
+
 
 .. image:: adding_add.png
     :class: with-shadow
 
 
-We'll activate the domain automatically once we've checked that it belongs to your company. Usually, it only takes a moment. In some cases, it may take up to 48 hours.
+- After adding a domain, you'll see its status next to the domain name:
 
-- After adding a domain, you'll see the current status next to the domain name. 
+•	**Activated** — your domain has been succesfully activated
+•	**Requested** — we'll check the domain manually and inform you once it's done (this can take up to 48 hours)
+•	**Declined** — the domain has been declined either because its invalid or already taken
+
 
 .. image:: adding_requested.png
     :class: with-shadow
 
+
+Questions or need a hand? Contact our support team at `support@skribble.com`_.  
+
+  .. _support@skribble.com: support@skribble.com
 
 
 Adding members by e-mail
