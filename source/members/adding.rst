@@ -9,10 +9,10 @@ There are two ways to add members to your Skribble Business:
 - By domain 
 - By e-mail
 
-The simplest way to add multiple members to your Skribble Business is by adding your company domain (@example.org) to Skribble. Once this is complete, anyone who creates a **new** Skribble account using your company domain will automatically become a member of your Skribble Business.
+The simplest way to add members to your Skribble Business is by registering your company domain (@example.org) with Skribble. Once done, anyone who creates a **new** Skribble account using your company domain will become a member of your Skribble Business.
 
 .. NOTE::
-  Employees of your company who created a Skribble account *before* your domain was added will not be added automatically to your account. You will need to add them by e-mail. Please see **Adding members by e-mail**, described below.
+  Employees of your company who created a Skribble account *before* you registered the domain will not be added automatically to your account. You will need to add them by e-mail. Please see Adding members by e-mail, described below.
   
 Adding members by domain
 -------------------------
@@ -49,9 +49,9 @@ We'll activate the domain once we've checked that it belongs to your company. Us
 
 - After adding a domain, you'll see its status next to the domain name:
 
-  •	**Activated** — your domain has been succesfully activated
+  •	**Activated** — your domain has been activated
   •	**Requested** — we'll check the domain manually and inform you once it's done (this can take up to 48 hours)
-  •	**Declined** — the domain has been declined either because its invalid or already taken
+  •	**Declined** — we couldn't activate the domain because it's invalid or already taken
 
 
 .. image:: adding_requested.png
@@ -87,11 +87,11 @@ The other way to add members to your Skribble Business is by e-mail:
     :class: with-shadow
 
 
-- Type the e-mail address of the person you wish to add to your Skribble Business. You can add multiple e-mails by separating them with a comma. Once you are finished adding e-mails to the text box, click **Add**.
+- Type the e-mail address of the person you wish to add to your Skribble Business. To add several e-mails at once, separate them with a comma. Once you're finished adding e-mails to the text box, click **Add**.
 
 
 .. image:: adding_address.png
     :class: with-shadow
 
 
-If the recipient has a Skribble account, they will now be added to your Skribble Business.
+If the recipient has a Skribble account, they're now added to your Skribble Business.
