@@ -33,6 +33,6 @@ Your Skribble and Microsoft e-mail address must match.
     
 - After all invited parties have signed the document, the signed copy will be saved next to the original document
 
-Can't find the signed document next to the original? Please look for the folder **Signed with Skribble Electronic Signature**. It is located in your personal OneDrive. 
+Can't find the signed document next to the original? Look for the folder **Signed with Skribble Electronic Signature**. It is located in your personal OneDrive. 
 
 You can also download signed documents in your Skribble account on my.skribble.com.
