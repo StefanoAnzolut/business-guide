@@ -23,7 +23,7 @@ We recommend that the Google Drive admin sets up the Skribble Electronic Signatu
 **Step-by-step guide for Google Drive admins to connect Google Drive with Skribble**
 
 .. NOTE::
- Before you get started, make sure you have Skribble API credentials ready.
+ Before you get started, make sure you have Skribble API credentials ready (username an API key).
 
 You can get these from your company's Skribble Business admin. Skribble Business admins: `click here for guidance`_.
 
