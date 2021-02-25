@@ -1,13 +1,13 @@
 .. _sign-onedrive-sharepoint:
 
-==============================================
-Signing documents from OneDrive and SharePoint
-==============================================
+========================================
+How to sign from OneDrive and SharePoint
+========================================
 
 .. NOTE::
-  This feature is available to Skribble Business customers.
+  Signing from OneDrive and SharePoint Online is only available to Skribble Business customers.
   
-Once your company's admin has connected OneDrive for Business with Skribble Business, you'll be able to sign directly from OneDrive and SharePoint Online.
+Has your admin connected OneDrive for Business with Skribble Business? Then you can sign from OneDrive and SharePoint Online.
 
 To sign a document:
 
@@ -19,20 +19,18 @@ To sign a document:
 
 - Select **Skribble Electronic Signature** and follow the instructions
 
-If you don't see Skribble Electronic Signature after right-clicking on the document, please contact your OneDrive admin.
+You don't see Skribble Electronic Signature after right-clicking on the document? Please contact your OneDrive admin.
     
-- You'll have to activate signing with Skribble if you're signing for the first time or if you haven't signed for a long time
+- Activate signing with Skribble if you're signing for the first time or if you haven't signed for a long time
 
 - Click **Activate and continue with signing**
 
-- **Log in** with your **Skribble account**
-
-Your Skribble and Microsoft e-mail address must match.
+- **Log in** with your **Skribble account** (your Skribble and Microsoft e-mail address must match)
 
 - **Sign** the document or **invite** others to sign the usual way
     
-- After all invited parties have signed the document, it will be automatically saved next to the original document.
+- After all invited parties have signed the document, the signed copy will be saved next to the original document.
 
-If you don't see the signed document next to the original, please look for the folder **Signed with Skribble Electronic Signature**. It's located in your personal OneDrive. 
+Can't find the signed document next to the original? Please look for the folder **Signed with Skribble Electronic Signature** It is located in your personal OneDrive. 
 
-Signed documents are also available for download in your Skribble account on my.skribble.com.
+You can also download signed documents in your Skribble account on my.skribble.com.
