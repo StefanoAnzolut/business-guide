@@ -53,5 +53,5 @@ Your Skribble and Google Drive e-mail address must match.
     :class: with-shadow
     
  
-You can't find the signed document next to the original document? Check the folder **Signed with Skribble Electronic Signature**. This is where we'll save signed documents if you don't have access rights to the folder where the document is when the last signature is made.
+You can't find the signed document next to the original document? Look for the folder **Signed with Skribble Electronic Signature**. This is where signed documents will be saved if you don't have access to the folder where the document is when the last signature is made.
     
