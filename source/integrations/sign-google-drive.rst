@@ -11,7 +11,7 @@ Has your Google Drive admin connected your company's Skribble Business with Goog
 
 To sign a document from Google Drive (video tutorial available `here`_):
 
-.. _here: https://youtu.be/zKqAU9ke46I
+.. _here: https://www.youtube.com/watch?v=BYMBYMwClHc&feature=youtu.be
 
 - Go to **Google Drive Web App** at `drive.google.com/drive`_ (not the local version on your computer)
 
