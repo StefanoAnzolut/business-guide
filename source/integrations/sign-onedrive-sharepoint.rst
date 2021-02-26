@@ -9,7 +9,9 @@ How to sign from OneDrive and SharePoint
   
 Has your admin connected OneDrive for Business with Skribble Business? Then you can sign from OneDrive and SharePoint Online.
 
-To sign a document:
+To sign a document (video tutorial available `here`_):
+
+.. _here: https://www.youtube.com/watch?v=-uVeFsl2hmA&feature=youtu.be
 
 - Go to `OneDrive`_ or SharePoint Online
 
