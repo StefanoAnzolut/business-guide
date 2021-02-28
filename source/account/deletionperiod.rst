@@ -15,32 +15,16 @@ Skribble Business admins can set a uniform document deletion period for all empl
 To set a document deletion period:
 
 - Click **Business profile** in the lower-left
-
-.. image:: deletion_period_click_profile1.png
-    :class: with-shadow
-    
     
 - Go to **Deletion period**
-
-.. image:: deletion_period_click_deletion_period2.png
-    :class: with-shadow
-    
 
 - Click the **pen symbol** on the right and select the new deletion period
 
 You'll be able to choose between 5, 10, 30, 60 and 90 days.
-
-.. image:: deletion_period_click_pencil2.png
-    :class: with-shadow
-    
     
 - Click **Save** to confirm
 
-We recommend informing all employees about the new deletion period. They may need to download their documents before they're deleted from Skribble.
-
-.. image:: deletion_period_click_save4.png
-    :class: with-shadow
-    
+We recommend informing all employees about the new deletion period. They may need to download their documents before they're deleted from Skribble.   
     
 - **E-mail reminders to download documents**
 
