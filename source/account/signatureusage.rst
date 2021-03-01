@@ -7,7 +7,7 @@ Downloading Signature Usage Report
 As an admin, you can download a monthly signature usage report as CSV for more cost transparency. Signature reports help keep track of signatures used by your members.
   
 .. NOTE::
-  Signature reports show all Skribble Business members regardless of whether they've signed or not.
+  Signature reports will show all Skribble Business members regardless of whether they've signed or not.
   
 To download the report:
 
@@ -43,7 +43,7 @@ To download the report:
 
 The CSV document will contain the following information:
   - **User** – member's e-mail address or an API
-  - **Cost centre** –  cost centre within your organisation (Available only to Skribble Enterprise customers with an active single sign-on. If not specified, this column will be left empty).
+  - **Cost centre** –  cost centre within your organisation (available only to Skribble Enterprise customers with an active single sign-on). If not specified, this column will be left empty.
   - **Self SES, AES and QES** – number of signatures made by members
   - **Invited SES, AES and QES** – number of signatures made by people who were invited to sign by your Skribble Business members
 
