@@ -39,7 +39,6 @@ To download the report:
     :class: with-shadow
 
 
-
 **Understanding the signature report**
 
 The CSV document will contain the following information:
