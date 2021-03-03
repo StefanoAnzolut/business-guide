@@ -31,7 +31,6 @@ We'll automatically check whether the domain belongs to you company and activate
 
   •	**Activated** — your domain has been activated
   •	**Requested** — we'll check the domain manually and inform you once it's done (**Note: this can take up to 48 hours**)
-  •	**Declined** — the domain you added couldn't be activated
   
 Questions or need a hand? Contact our support team at `support@skribble.com`_.  
 
