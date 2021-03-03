@@ -6,52 +6,36 @@ Adding Members to your Skribble Business
 
 There are two ways to add members to your Skribble Business:
 
-- By domain (whitelisting)
+- By domain 
 - By e-mail
 
-The simplest way to add multiple members to your Skribble Business is by registering your company domain (@example.org). Once this is complete, anyone who creates a new Skribble account using your company domain will automatically become a member of your Skribble Business.
+The simplest way to add members is by registering your company domain (@company.com) with Skribble. Employees who create a **new Skribble account** using your company domain will automatically become your Skribble Business members.
 
 .. NOTE::
-  Employees of your company who created a Skribble account *before* your domain was registered with your Skribble Business will not be added automatically to your account. You will need to add them by e-mail invite, described in the next section.
-  
+  If an employee created a Skribble account *before* the domain was registered, you'll need to add them to your Skribble Business by e-mail. Please see *Adding members by e-mail*, described below.
   
 Adding members by domain
 -------------------------
 
-- Click **Members** if you aren't already there
+- Click **Members**
 
-
-.. image:: adding_members.png
-    :class: with-shadow
-
-
-- Click **Domains**
-
-
-.. image:: adding_home.png
-    :class: with-shadow
-
+- Go to **Domains**
 
 - Click **Add domain**
 
+- Enter the domain and click **Add**
 
-.. image:: adding_domains.png
-    :class: with-shadow
+We'll activate your domain once we've checked that it belongs to your company. You'll find the current status of the added domain next to its name:
 
+  •	**Activated** — your domain is active
+  •	**Requested** — we'll need to check the domain manually (**this can take up to 48 hours**)
+  
+We'll inform you by e-mail once it's done.
+  
+Questions or need a hand? Contact our support team at `support@skribble.com`_.  
 
-- Enter your domain in the text field and click **Add**
-
-
-.. image:: adding_add.png
-    :class: with-shadow
-
-
-Now you can see the status of the domain you've requested.
-
-
-.. image:: adding_requested.png
-    :class: with-shadow
-
+  .. _support@skribble.com: support@skribble.com
+  
 
 
 Adding members by e-mail
@@ -62,26 +46,12 @@ The other way to add members to your Skribble Business is by e-mail:
 .. NOTE::
    The person must already have a Skribble account before they can be added to your Skribble Business.
 
-- Click **Members** if you aren't already there
-
-
-.. image:: adding_members.png
-    :class: with-shadow
-
-
+- Go to **Members** if you aren't already there
 
 - Click **Add Member**
 
+- Enter the e-mail address and click **Add**
 
-.. image:: adding_email.png
-    :class: with-shadow
+To add several e-mails at once, separate them with a comma. 
 
-
-- Type the e-mail address of the person you wish to add to your Skribble Business. You can add multiple e-mails by separating them with a comma. Once you are finished adding e-mails to the text box, click **Add**.
-
-
-.. image:: adding_address.png
-    :class: with-shadow
-
-
-If the recipient has a Skribble account, they will now be added to your Skribble Business.
+If the recipient has a Skribble account, they're now added to your Skribble Business.
