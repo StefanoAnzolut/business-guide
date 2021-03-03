@@ -19,45 +19,20 @@ Adding members by domain
 
 - Click **Members** if you aren't already there
 
-
-.. image:: adding_members.png
-    :class: with-shadow
-
-
 - Click **Domains**
-
-
-.. image:: adding_home.png
-    :class: with-shadow
-
 
 - Click **Add domain**
 
-
-.. image:: adding_domains.png
-    :class: with-shadow
-
-
 - Enter the domain and click **Add**
 
-We'll activate the domain once we've checked that it belongs to your company. Usually, it happens immediately. In some cases, we'll need to check the domain manually. This can take up to 48 hours.
+We'll automatically check whether the domain belongs to you company and activate it instantly if no manual check is needed.
 
-
-.. image:: adding_add.png
-    :class: with-shadow
-
-
-- After adding a domain, you'll see its status next to the domain name:
+- After adding a domain, you'll find its status next to the domain name:
 
   •	**Activated** — your domain has been activated
   •	**Requested** — we'll check the domain manually and inform you once it's done (this can take up to 48 hours)
-  •	**Declined** — we couldn't activate the domain because it's invalid or already taken
-
-
-.. image:: adding_requested.png
-    :class: with-shadow
-
-
+  •	**Declined** — the domain you added was declined
+  
 Questions or need a hand? Contact our support team at `support@skribble.com`_.  
 
   .. _support@skribble.com: support@skribble.com
@@ -74,24 +49,10 @@ The other way to add members to your Skribble Business is by e-mail:
 
 - Click **Members** if you aren't already there
 
-
-.. image:: adding_members.png
-    :class: with-shadow
-
-
-
 - Click **Add Member**
 
+- Enter the e-mail address of the person you wish to add to your Skribble Business and click **Add** once done
 
-.. image:: adding_email.png
-    :class: with-shadow
-
-
-- Type the e-mail address of the person you wish to add to your Skribble Business. To add several e-mails at once, separate them with a comma. Once you're finished adding e-mails to the text box, click **Add**.
-
-
-.. image:: adding_address.png
-    :class: with-shadow
-
+To add several e-mails at once, separate them with a comma. 
 
 If the recipient has a Skribble account, they're now added to your Skribble Business.
