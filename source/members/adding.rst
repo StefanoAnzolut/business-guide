@@ -30,8 +30,8 @@ We'll automatically check whether the domain belongs to you company and activate
 - After adding a domain, you'll find its status next to the domain name:
 
   •	**Activated** — your domain has been activated
-  •	**Requested** — we'll check the domain manually and inform you once it's done (this can take up to 48 hours)
-  •	**Declined** — the domain you added was declined
+  •	**Requested** — we'll check the domain manually and inform you once it's done (**Note: this can take up to 48 hours**)
+  •	**Declined** — the domain you added couldn't be activated
   
 Questions or need a hand? Contact our support team at `support@skribble.com`_.  
 
@@ -51,7 +51,7 @@ The other way to add members to your Skribble Business is by e-mail:
 
 - Click **Add Member**
 
-- Enter the e-mail address of the person you wish to add to your Skribble Business and click **Add** once done
+- Enter the e-mail address of the person you wish to add to your Skribble Business and click **Add** once your'e finished
 
 To add several e-mails at once, separate them with a comma. 
 
