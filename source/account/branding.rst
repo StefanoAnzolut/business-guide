@@ -5,7 +5,7 @@ Adding Company Branding
 =======================
 
 .. NOTE::
-  To add company branding to your Skribble Business, please contact our team at support@skribble.com. For more information, see our `Pricing page`_.
+  Would you like to add company branding to your Skribble Business? Contact us at support@skribble.com. To see if Company branding is included in your plan, check our `Pricing page`_.
 
 .. _Pricing page: https://www.skribble.com/en/pricing/
 
