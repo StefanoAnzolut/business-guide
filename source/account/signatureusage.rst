@@ -4,15 +4,14 @@
 Downloading Signature Usage Report
 ==================================
   
-Admins of Skribble Business and Skribble Enterprise can download a monthly signature usage report. Signature reports are available in CSV format and help keep track of signatures used by the members of your business for each calendar month. 
+As an admin, you can download a monthly signature usage report as CSV for more cost transparency. Signature reports help keep track of signatures used by your members.
   
 .. NOTE::
-  Please be aware that the monthly report will show all users of your Skribble Business regardless of whether they've signed or not.
+  Signature reports will show all Skribble Business members regardless of whether they've signed or not.
   
+To download the report:
 
-From your **Business profile**:
-
-- Click **Invoices** on the left-hand side
+- Click **Invoices** from your Business profile
 
 
 .. image:: signature_usage_invoices_step1.png
@@ -40,16 +39,14 @@ From your **Business profile**:
     :class: with-shadow
 
 
-
 **Understanding the signature report**
 
 The CSV document will contain the following information:
   - **User** – member's e-mail address or an API
-  - **Cost centre** –  cost centre within your business (available only to Skribble Enterprise customers with an active single sign-on). This column will be empty if not specified by your company).
+  - **Cost centre** –  cost centre within your organisation (available only to Skribble Enterprise customers with an active single sign-on). If not specified, this column will be left empty.
   - **Self SES, AES and QES** – number of signatures made by members
-  - **Invited SES, AES and QES** – number of signatures made by the signatories who were invited to sign by the members of your Skribble Business
-
+  - **Invited SES, AES and QES** – number of signatures made by people who were invited to sign by your Skribble Business members
 
 .. NOTE::
-  If you want to assign a cost centre to a member of your business and display it in a CSV document, we kindly ask you to get in touch with our team at support@skribble.com. We will be happy to assist you.
+  Would you like to assign a cost centre to a member of your business and display it in a CSV? Please contact our team at support@skribble.com. We will be happy to help.
   
