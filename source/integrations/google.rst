@@ -28,8 +28,8 @@ We recommend that the Google Drive admin sets up the Skribble Electronic Signatu
 You can get these from your company's Skribble Business admin. Skribble Business admins: `click here for guidance`_.
 
   .. _click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
-
-- `**Click here**`_ to get the plug-in from **G Suite Marketplace**
+  
+- `Click here`_ to get the plug-in from **G Suite Marketplace**
   
   .. _Click here: https://workspace.google.com/marketplace/app/skribble_electronic_signature/313457989260
   
