@@ -27,9 +27,9 @@ You can get these from your company's Skribble Business admin. Skribble Business
 
   .. _click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
 
-- `Click here`_ to download the plug-in from Microsoft AppSource
+- Go to **Microsoft AppSource** and search for **Skribble Electronic Signature** or `click here`_
   
-  .. _Click here: https://appsource.microsoft.com/en/product/web-apps/skribbleag1597856521198.skribble-electronic-signature?tab=Overview
+  .. _click here: https://appsource.microsoft.com/en/product/web-apps/skribbleag1597856521198.skribble-electronic-signature?tab=Overview
   
 - Click **Get it now** and follow the instructions
   
