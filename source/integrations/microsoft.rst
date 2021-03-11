@@ -1,7 +1,7 @@
 .. _microsoft:
 
 ===============================================
-Setting up signing from OneDrive and SharePoint
+Set up signing from OneDrive and SharePoint 🆕
 ===============================================
 
 .. NOTE::
