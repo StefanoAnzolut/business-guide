@@ -1,23 +1,15 @@
 .. _account-visualsignature:
 
-=============================
-Customising Visual Signatures
-=============================
- 
-Members of Skribble Enterprise and Skribble Business can customise the appearance of their visual signature to suit individual needs. 
+=================================
+Customising Visual Signatures 🆕
+================================= 
 
 .. NOTE::
-   The visual signature serves as an optional element and doesn't affect the legal weight of the electronic signature. It is up to members to decide whether they want to add their visual signature to a document in addition to the electronic signature or not.
- 
+   As an admin, you can set a uniform visual signature for all employees to ensure a consistent look and feel across the company. Contact us at info@skribble.com for more information. This feature is only available to Skribble Enterprise customers.
+   
+Visual signatures serve as an optional element and don’t affect the legal weight of the electronic signature. It is up to members to decide whether they want to add the visual signature to a document next to the electronic signature.
 
-To customise the visual signature:
-
-- Click the **My Skribble** icon from the Skribble Business dashboard (for admins)
-
-
-.. image:: 1-biz_dashboard.png
-    :class: with-shadow
-
+**A step-by-step guide for your members to customise their visual signature:**
 
 - Click **Profile** in the lower-left
 
@@ -36,10 +28,7 @@ To customise the visual signature:
 From here, you can customise the following details:
   - **Name**: Your first and last name
   - **Optional line** and **City**: Optional lines for any additional information (e.g. organisation, function or name)
-  - **Date**: The date when the document was signed
-  
-  *Available to Skribble Enterprise and Skribble Business customers only:*
-  
+  - **Date**: The date when the document was signed  
   - **QR code**: Leads to the `website`_ that briefly explains the e-signature standards
   - **Claim and label**: "Signed with Skribble.com" claim along with an icon of the e-signature standard used
   
@@ -65,5 +54,3 @@ Not sure how to create your personal visual signature? Have a look at our `Help 
 
 .. NOTE::
    If any of these customisation options are not available to you, your current plan might not support it. Please contact our support team for assistance: support@skribble.com.
-   
-   
