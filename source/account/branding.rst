@@ -1,8 +1,8 @@
 .. _account-branding:
 
-=======================
-Adding Company Branding
-=======================
+===========================
+Adding Company Branding 🆕
+===========================
 
 .. NOTE::
   Would you like to add company branding to your Skribble Business? Contact our team at support@skribble.com. To see if company branding is included in your plan, check our `Pricing page`_.
