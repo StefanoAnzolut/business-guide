@@ -27,9 +27,9 @@ Visual signatures serve as an optional element and don’t affect the legal weig
 
 From here, you can customise the following details:
   - **Name**: Your first and last name
-  - **Optional line** and **City**: Optional lines for any additional information (e.g. organisation, function or name)
+  - **Optional line** and **City**: Optional lines for extra information (e.g. organisation, function or name)
   - **Date**: The date when the document was signed  
-  - **QR code**: Leads to the `website`_ that briefly explains the e-signature standards
+  - **QR code**: Leads to the `website`_ that explains the e-signature standards
   - **Claim and label**: "Signed with Skribble.com" claim along with an icon of the e-signature standard used
   
   
@@ -53,4 +53,4 @@ Not sure how to create your personal visual signature? Have a look at our `Help 
    
 
 .. NOTE::
-   If any of these customisation options are not available to you, your current plan might not support it. Please contact our support team for assistance: support@skribble.com.
+   If any of these customisation options are not available to you, your current plan might not support it. Please contact our support team at support@skribble.com.
