@@ -30,6 +30,7 @@ This guide is intended to help company administrators set up and manage Skribble
    account/usage
    account/signatureusage
    account/contact
+   account/inhouuse-support
    account/branding
    account/deletionperiod
    account/visualsignature
