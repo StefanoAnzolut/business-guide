@@ -1,15 +1,15 @@
 .. _account-branding:
 
-=======================
-Adding Company Branding
-=======================
+===========================
+Adding Company Branding 🆕
+===========================
 
 .. NOTE::
   Would you like to add company branding to your Skribble Business? Contact our team at support@skribble.com. To see if company branding is included in your plan, check our `Pricing page`_.
 
 .. _Pricing page: https://www.skribble.com/en/pricing/
 
-As a Business and Enterprise customer, you can customise your members' accounts with the company logo and address. This is a great way to convey trust and reliability to both your employees and customers. It also helps them recognise signing invitations that come from your company. 
+As an admin, you can customise your members' accounts with the company logo and address. This is a great way to convey trust and reliability to both your employees and customers. Seeing your company logo and address also helps them recognise signing invitations that come from your company. 
 
 Company branding will be displayed:
   - in the header (top-left) of your members' accounts
