@@ -15,7 +15,7 @@ To add an in-house support contact:
 
 - Go to **In-house support** and click on the pencil icon
 
-- Add an **e-mail address and a phone number** you want your members to contact if they need help (this can be your in-house first-level support, for example)
+- Add an **e-mail address and a phone number** that your members can contact if they need help (this can be your in-house first-level support, for example)
 
 - Click **Save** to confirm 
 
