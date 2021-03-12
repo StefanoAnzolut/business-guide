@@ -5,7 +5,7 @@ Customising Visual Signatures 🆕
 ================================= 
 
 .. NOTE::
-   As an admin, you can set a uniform visual signature for all employees to ensure a consistent look and feel across the company. Contact us at info@skribble.com for more information. This feature is only available to Skribble Enterprise customers.
+  Skribble Enterprise customers can set a uniform visual signature for all employees to ensure a consistent look and feel across the company. Contact us at info@skribble.com for more information.
    
 Visual signatures serve as an optional element and don’t affect the legal weight of the electronic signature. It is up to members to decide whether they want to add the visual signature to a document next to the electronic signature.
 
