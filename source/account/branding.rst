@@ -9,7 +9,7 @@ Adding Company Branding 🆕
 
 .. _Pricing page: https://www.skribble.com/en/pricing/
 
-As a Business and Enterprise customer, you can customise your members' accounts with the company logo and address. This is a great way to convey trust and reliability to both your employees and customers. It also helps them recognise signing invitations that come from your company. 
+As an admin, you can customise your members' accounts with the company logo and address. This is a great way to convey trust and reliability to both your employees and customers. Seeing your company logo and address also helps them recognise signing invitations that come from your company. 
 
 Company branding will be displayed:
   - in the header (top-left) of your members' accounts
