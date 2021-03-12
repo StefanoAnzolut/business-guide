@@ -17,6 +17,6 @@ To add an in-house support contact:
 
 - Add an **e-mail address and a phone number** that your members can contact if they need help (this can be your in-house first-level support, for example)
 
-- Click **Save** to confirm 
+- **Please be aware that your members will see these contact details in the help section in their Skribble profile**
 
-- Your members will see these contact details in the help section in their Skribble profile
+- Click **Save** to confirm 
