@@ -37,9 +37,9 @@ You can get these from your company's Skribble Business admin. Skribble Business
   
 - Log in with your **Microsoft admin account**
 
-- You’ll be asked to allow access on behalf of your organisation to proceed
+- You’ll be asked to allow installing the plug-in for all users on behalf of your organisation
 
-- Click **Accept** if you agree
+- Select the checkbox **Consent on behalf of your organisation** and click **Accept** if you agree
   
 - Enter **Skribble API credentials** (username and API key) to finish the setup
 
@@ -52,4 +52,5 @@ In the meantime, we recommend sharing our `quick guide on signing with Skribble`
  
    .. _quick guide on signing with Skribble: https://docs.skribble.com/business-admin/integrations/sign-onedrive-sharepoint
    
+ 
  
