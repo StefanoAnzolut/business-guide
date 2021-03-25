@@ -1,8 +1,8 @@
 .. _inhouse-support:
 
-========================================================
-Adding an in-house support contact (first-level support)
-========================================================
+============================================================
+Adding an in-house support contact (first-level support) 🆕
+============================================================
 
 .. NOTE::
   Only Skribble Enterprise customers can add in-house support contact for their members. Your members will see these contact details in the help section in their Skribble profile. 
