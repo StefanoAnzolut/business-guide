@@ -7,7 +7,7 @@ Setting a Document Deletion Period
 .. NOTE::
    This feature is only available to Skribble Enterprise customers.
 
-Skribble Business admins can set a uniform document deletion period for all employees. After a set period, your employees' documents will be deleted from Skribble. The deletion period applies to all documents regardless of their status. It starts on the day the document is uploaded to Skribble.
+As an admin, you can set a uniform document deletion period for all employees. After a set period, your employees' documents will be deleted from Skribble. The deletion period applies to all documents regardless of their status. It starts on the day the document is uploaded to Skribble.
 
 .. NOTE::
    For Enterprise customers who joined before 17 February 2021: The deletion period only applies to signed and declined documents unless you've already introduced the new deletion period for all documents in your organisation.
