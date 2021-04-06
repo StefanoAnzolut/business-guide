@@ -29,7 +29,7 @@ Cancelling free trial
 ---------------------
 
 .. NOTE::
-  Cancelling your free trial will automatically delete Skribble Business and transfer all members to the **Skribble Free** plan.
+  Cancelling your free trial will automatically delete Skribble Business and transfer all members to the **Skribble Free** plan. Your members will keep seeing their documents in their personal Skribble account.
 
 To cancel your free trial:
 
