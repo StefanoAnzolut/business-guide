@@ -4,7 +4,8 @@
 Cancelling Skribble Business
 ============================
   
-You can cancel your Skribble Business at any time. If you cancel, your Skribble Business will be automatically deleted at the end of your current billing period. All members will be transferred to the Skribble Free plan.
+.. NOTE::
+  If you cancel your Skribble Business, it will be automatically deleted at the end of your current billing period. All members will be transferred to the Skribble Free plan.
 
 
 To cancel your Skribble Business:
@@ -38,7 +39,7 @@ To cancel your Skribble Business:
 
 - Click **Cancel**
  
-In the next step, you will have to confirm that you really want to cancel Skribble Business.
+In the next step, you will have to confirm that you want to cancel Skribble Business.
  
 
  .. image:: step4_cancel_business2.png
@@ -54,7 +55,9 @@ In the next step, you will have to confirm that you really want to cancel Skribb
     :class: with-shadow
     
     
-    
+
+Once confirmed, all members will be transferred to the Skribble Free plan. Their documents will be available in their personal Skribble account.
+
 If you change your mind, you can revoke the deletion of your Skribble Business.
 
 To do so:
