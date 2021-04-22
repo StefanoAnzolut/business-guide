@@ -1,8 +1,8 @@
 .. _removing-members:
 
-=======================================
-Removing Members from Skribble Business
-=======================================
+================
+Removing Members
+================
 
 .. NOTE::
    Removing a member from Skribble Business will downgrade the member's plan to **Skribble Free**. 
