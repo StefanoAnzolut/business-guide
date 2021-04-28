@@ -5,7 +5,7 @@ Setting up AES for Business
 ===========================
 
 .. NOTE::
-  Please be aware that setting up AES for Business may take up to 4-6 weeks. For more pricing information, visit our `Pricing page`_.
+  Please be aware that AES for Business setup may take up to 4-6 weeks. For more pricing information, visit our `Pricing page`_.
 
 .. _Pricing page: https://www.skribble.com/en/pricing/
   
