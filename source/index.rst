@@ -61,8 +61,7 @@ This guide is intended to help company administrators set up and manage Skribble
    :maxdepth: 2
    :caption: AES for Business:
 
-   aes/AESproduct
-   aes/AESsetup
+   aes/setup
 
 
 .. toctree::
