@@ -4,12 +4,6 @@
 Setting up AES for Business
 ===========================
 
-.. _aes-setup:
-
-===========================
-Setting up AES for Business
-===========================
-
 .. NOTE::
   Please be aware that setting up AES for Business may take up to 4-6 weeks. For more information on pricing, visit our `Pricing page`_.
 
@@ -22,13 +16,7 @@ To set up AES for Business for your company, we'll need the following informatio
 
 You can request AES for Business from your Business profile.
 
-
 - Click **Business profile** in the lower left
-
-
-.. image:: AES_for_Business_Profile.png
-    :class: with-shadow
-
 
 - Go to **AES for Business** and click **Start registration**
 
