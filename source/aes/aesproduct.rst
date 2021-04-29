@@ -16,7 +16,7 @@ With AES for Business, your company domain (e.g. yourcompany.com) enables signin
 
 Would you like to set up AES for Business? `This is how it works`_.
 
-.. _This is how it works: https://www.skribble.com/en/identification-aes-for-business/
+.. _This is how it works: https://docs.skribble.com/business-admin/aes/aessetup.html
 
 For more information about AES for Business, see `here`_.
 
