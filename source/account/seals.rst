@@ -7,9 +7,9 @@ Managing electronic seals
 .. NOTE::
    This feature is only available to Enterprise customers. To request an electronic seal for your company, contact your Account executive at Skribble.
 
-Electronic seals are used to sign documents on behalf of your company as a legal entity. To enable your Skribble Business members to seal documents, you will have to unlock the seal for each member.
+Electronic seals are used to sign documents on behalf of your company as a legal entity. To enable your Skribble Business members to seal documents, you'll have to unlock the seal for each member.
 
-After you’ve requested to use your company’s seal on our e-signing platform, we’ll set it up for you. Once this is done, you’ll see the seal in your Skribble Business. As an admin, you will be able to:
+After you've requested to use your company's seal on our e-signing platform, we'll set it up for you. Once this is done, you'll see the seal in your Skribble Business. As an admin, you can:
 
 •	Activate the seal (must be done for each seal)
 •	Manage API keys and members allowed to use the seal
@@ -21,13 +21,13 @@ After you’ve requested to use your company’s seal on our e-signing platform,
 
 - From your **Business profile**, go to **Seals**
 
-- Next to the seal you want to activate, click on the **Pencil**
+- Click on the **Pencil icon** next to the seal
 
 - Navigate to **API keys** or **Members** and click **Add**
 
 - If you're adding **API keys**, select the key from the list and click **Add**
 
-- If you're adding **Members**, enter member’s e-mail address and click **Add**
+- If you're adding **Members**, enter the member’s e-mail address and click **Add**
 
 - After this, the seal is ready to use
 
@@ -43,11 +43,11 @@ After you’ve requested to use your company’s seal on our e-signing platform,
 
 **Adding a visual seal (optional)**
 
-You can upload an image to customise the visual appearance of your seal. It will show on the sealed documents, just like the visual signature. If you decide to omit it, make sure you inform your Skribble Business members accordingly.
+You can upload an image to customise the visual appearance of your seal. It will show on the sealed documents, just like the visual signature.
 
 - Go to **Seals**
 
-- Click on the **Pencil** on the right
+- Click on the **Pencil icon** on the right
 
 - Upload your seal image and click **Save**
 
