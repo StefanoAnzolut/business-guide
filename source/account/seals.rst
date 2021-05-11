@@ -9,14 +9,13 @@ Managing electronic seals
 
 Electronic seals are used to sign documents on behalf of your company as a legal entity. To enable your Skribble Business members to seal documents, you will have to unlock the seal for each member.
 
-After you've requested to use your company's seal on our e-signing platform, we'll set it up for you. Once this is done, you'll see the seal in your Skribble Business. As an admin, you will be able to:
+After you’ve requested to use your company’s seal on our e-signing platform, we’ll set it up for you. Once this is done, you’ll see the seal in your Skribble Business. As an admin, you will be able to:
 
-•	Activate the seal (**must be done for each seal**)
-•	Manage API keys and members allowed to seal
-•	Add a visual seal (optional)
-•	Specify a display name for members
+•	Activate the seal (must be done for each seal)
+•	Manage API keys and members allowed to use the seal
+•	Add an image as a visual representation of the seal (optional)
+•	Specify the display name of the seal for your members
 
-Before your members can use the seal, you must activate it by adding at least one member or an API key. Activation is a one-time thing.
 
 **Adding members or API keys**
 
@@ -28,14 +27,11 @@ Before your members can use the seal, you must activate it by adding at least on
 
 - If you're adding **API keys**, select the key from the list and click **Add**
 
-- If you're adding **Members**, enter the e-mail address of the member and click **Add**
+- If you're adding **Members**, enter member’s e-mail address and click **Add**
 
-- After this, the seal is activated, ad ready to use
+- After this, the seal is ready to use
 
 **Removing members or API keys**
-
-.. NOTE::
-   If you remove a member or an API key, they will no longer be able to use the seal.
 
 - Go to **Seals** and click on the **Pencil**
 
@@ -45,7 +41,7 @@ Before your members can use the seal, you must activate it by adding at least on
 
 - Click **Remove** to confirm
 
-**Visual seals (optional)**
+**Adding a visual seal (optional)**
 
 You can upload an image to customise the visual appearance of your seal. It will show on the sealed documents, just like the visual signature. If you decide to omit it, make sure you inform your Skribble Business members accordingly.
 
@@ -55,7 +51,7 @@ You can upload an image to customise the visual appearance of your seal. It will
 
 - Upload your seal image and click **Save**
 
-**Display name**
+**Specifying a display name**
 
 We recommend adding a display name (e.g. department, team) for your seal. It will be shown to your members and helps them select the right seal if they use multiple ones.
 
