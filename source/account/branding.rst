@@ -1,8 +1,8 @@
 .. _account-branding:
 
-===========================
-Adding Company Branding 🆕
-===========================
+=======================
+Adding Company Branding
+=======================
 
 .. NOTE::
    Please `contact our support team`_ to add company branding to your Skribble Business. It can take up to 7 business days. To see if company branding is included in your plan, check our `Pricing page`_.
