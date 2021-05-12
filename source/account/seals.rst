@@ -11,7 +11,7 @@ Electronic seals enable you to sign documents on behalf of your company as a leg
 
 •	**Activate the seal** (must be done for each seal)
 •	**Manage API keys and members** allowed to use the seal
-•	**Add an image as a visual representation** of the seal (optional)
+•	**Add an image** as a visual representation of the seal (optional)
 •	**Specify the display name** of the seal for your members
 
 To enable your Skribble Business members to seal documents, you will have to unlock the seal for each member.
