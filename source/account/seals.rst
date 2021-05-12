@@ -7,9 +7,7 @@ Managing electronic seals 🆕
 .. NOTE::
    This feature is only available to Enterprise customers. To request an electronic seal for your company, contact your Account executive at Skribble or drop us a message at info@skribble.com.
 
-Electronic seals are used to sign documents on behalf of your company as a legal and not natural person.
-
-After you've requested to use your company's seal on our e-signing platform, we'll set it up for you. Once this is done, you'll see the seal in your Skribble Business. As an admin, you can:
+Electronic seals enable you to sign documents on behalf of your company as a legal and not natural person. After you've requested to use your company's seal on our e-signing platform, we'll set it up for you. Once this is done, you'll see the seal in your Skribble Business. As an admin, you can:
 
 •	Activate the seal (must be done for each seal)
 •	Manage API keys and members allowed to use the seal
