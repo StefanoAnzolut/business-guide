@@ -42,6 +42,7 @@ After you've requested to use your company's seal on our e-signing platform, we'
 - Click **Remove** to confirm
 
 **Adding a visual seal (optional)**
+
 .. NOTE::
    A visual seal is optional and doesn't affect its legal validity.
 
