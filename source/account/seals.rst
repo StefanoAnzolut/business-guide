@@ -5,9 +5,9 @@ Managing electronic seals
 =========================
 
 .. NOTE::
-   This feature is only available to Enterprise customers. To request an electronic seal for your company, contact your Account executive at Skribble.
+   This feature is only available to Enterprise customers. To request an electronic seal for your company, contact your Account executive at Skribble or drop us a message at info@skribble.com.
 
-Electronic seals are used to sign documents on behalf of your company as a legal entity. To enable your Skribble Business members to seal documents, you'll have to unlock the seal for each member.
+Electronic seals are used to sign documents on behalf of your company as a legal and not natural person. To enable your Skribble Business members to seal documents, you will have to unlock the seal for each member.
 
 After you've requested to use your company's seal on our e-signing platform, we'll set it up for you. Once this is done, you'll see the seal in your Skribble Business. As an admin, you can:
 
@@ -29,11 +29,11 @@ After you've requested to use your company's seal on our e-signing platform, we'
 
 - If you're adding **Members**, enter the member’s e-mail address and click **Add**
 
-- After this, the seal is ready to use
+- That's it! The seal is ready to use.
 
 **Removing members or API keys**
 
-- Go to **Seals** and click on the **Pencil**
+- Go to **Seals** and click on the **Pencil icon**
 
 - Navigate to **Members** or **API keys**
 
@@ -59,7 +59,7 @@ To add a display name:
 
 - Go to **Seals**
 
-- Click on the **Pencil** on the right
+- Click on the **Pencil icon** on the right
 
 - Enter the **Display name** and click **Save** to confirm 
 
