@@ -1,8 +1,8 @@
 .. _account-seals:
 
-=========================
-Managing electronic seals
-=========================
+============================
+Managing electronic seals 🆕
+============================
 
 .. NOTE::
    This feature is only available to Enterprise customers. To request an electronic seal for your company, contact your Account executive at Skribble or drop us a message at info@skribble.com.
