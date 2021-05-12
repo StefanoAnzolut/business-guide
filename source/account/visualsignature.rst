@@ -1,8 +1,8 @@
 .. _account-visualsignature:
 
-=================================
-Customising Visual Signatures 🆕
-================================= 
+=============================
+Customising Visual Signatures
+=============================
 
 .. NOTE::
   Skribble Enterprise customers can set a uniform visual signature for all employees to ensure a consistent look and feel across the company. Contact us at info@skribble.com for more information.
