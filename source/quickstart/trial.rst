@@ -1,7 +1,7 @@
 .. _trial:
 
 ============================
-Starting a free 30-day trial
+Starting a Free 30-day Trial
 ============================
 
 Skribble offers a free trial month to new customers. You won’t be charged during the free trial, and you can cancel at any time.
