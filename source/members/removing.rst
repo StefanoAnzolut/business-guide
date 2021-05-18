@@ -1,7 +1,7 @@
 .. _removing-members:
 
 ================
-Removing members
+Removing Members
 ================
 
 .. NOTE::
