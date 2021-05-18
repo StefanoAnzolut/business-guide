@@ -66,9 +66,9 @@ html_context = {
   'github_version': 'master/source/'
 }
 
+html_baseurl = "https://docs.skribble.com/business-admin/"
+
 html_theme_options = {
-    # Makes it very dark so disabled for now
-    # "style_nav_header_background": "#293D66",
 }
 
 # Don't include the reST sources HTML build as _sources
