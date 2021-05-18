@@ -1,7 +1,7 @@
 .. _revoke-admin:
 
 ===================
-Revoking Admin Role
+Revoking admin role
 ===================
 
 - Click **Members** if you aren't already there
