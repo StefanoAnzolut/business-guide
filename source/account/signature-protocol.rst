@@ -1,13 +1,13 @@
 .. _signature-protocol:
 
 =================================
-Downloading signature protocol 🆕
+Downloading Signature Protocol 🆕
 =================================
 
 .. NOTE::
    This feature is only available to Skribble Enterprise customers.
 
-The signature protocol gives you quick access to the compliance-relevant information about signers (e.g. who viewed the document or who signed when with which e-signature standard). Instead of checking every single document for the information required by your compliance team, you can download a PDF and archive it together with the signed document.
+The signature protocol gives you quick access to the compliance-relevant information about who viewed or signed the document with which e-signature standard. Instead of checking every single document for the information required by your compliance team, you can download a PDF and archive it together with the signed document.
 
 To download a signature protocol:
 
@@ -15,7 +15,6 @@ To download a signature protocol:
 - Click on the **3 dots** at the top-right
 - Click on **Signature protocol**
 - Alternative: Hover over the document and click on the tooltip **i**. Then click on the **Signature protocol** icon on the right.
-- The protocol will be downloaded to your computer
 - Open the protocol 
 
 Depending on the e-signature standard used and the identification method of the signer, the protocol may contain the following information:
