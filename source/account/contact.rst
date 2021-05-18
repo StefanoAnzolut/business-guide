@@ -1,7 +1,7 @@
 .. _change-contact:
 
 =================================
-Changing the Contact for Invoices
+Changing the contact for invoices
 =================================
 
 Invoices are sent to the e-mail contact in your Business profile. 
