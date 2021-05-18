@@ -1,7 +1,7 @@
 .. _account-signatureusage:
 
 ==================================
-Downloading signature usage report
+Downloading Signature Usage Report
 ==================================
   
 As an admin, you can download a monthly signature usage report as CSV for more cost transparency. Signature reports help keep track of signatures used by your members.
