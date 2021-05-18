@@ -1,7 +1,7 @@
 .. _monitor-account:
 
 ===================
-Monitoring activity
+Monitoring Activity
 ===================
 
 -  Click **Activity** on the left-side menu
