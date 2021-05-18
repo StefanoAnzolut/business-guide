@@ -1,7 +1,7 @@
 .. _account-deletionperiod:
 
 ==================================
-Setting a document deletion pTTeriod
+Setting a document deletion period
 ==================================
 
 .. NOTE::
