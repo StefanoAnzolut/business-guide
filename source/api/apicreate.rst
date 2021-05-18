@@ -1,7 +1,7 @@
 .. _api-create:
 
 ==============================
-Creating and Managing API Keys
+Creating and managing API keys
 ==============================
 
 As a company, you can integrate Skribble with your existing infrastructure (e.g. CRM or SAP) via API. The API connection enables employees in your company to request and manage electronic signatures and documents directly from the systems they already use. They can invite external stakeholders or contracting parties to sign documents without creating a Skribble account. 
