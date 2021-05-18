@@ -1,7 +1,7 @@
 .. _sign-onedrive-sharepoint:
 
 ========================================
-How to sign from OneDrive and SharePoint
+How To Sign From OneDrive and SharePoint
 ========================================
 
 .. NOTE::
