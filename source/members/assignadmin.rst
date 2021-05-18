@@ -1,7 +1,7 @@
 .. _adding-admins:
 
 ===================
-Granting Admin Role
+Granting admin role
 ===================
 
 - Click **Members** if you aren't already there
