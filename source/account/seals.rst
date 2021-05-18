@@ -1,7 +1,7 @@
 .. _account-seals:
 
 ============================
-Managing electronic seals 🆕
+Managing Electronic Seals 🆕
 ============================
 
 .. NOTE::
