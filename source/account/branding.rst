@@ -1,7 +1,7 @@
 .. _account-branding:
 
 =======================
-Adding company branding
+Adding Company Branding
 =======================
 
 .. NOTE::
