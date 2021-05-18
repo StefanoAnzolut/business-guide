@@ -1,8 +1,8 @@
 .. _admin:
 
-===============================================
-Admin Access
-===============================================
+============
+Admin access
+============
 
 Skribble makes it easy to switch back-and-forth between signing documents and managing your Skribble Business as an admin. The admin area is your central hub for visibility and control that allows you to:
 
