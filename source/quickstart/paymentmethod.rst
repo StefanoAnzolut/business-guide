@@ -1,7 +1,7 @@
 .. _quickstart-paymentmethod:
 
 =======================
-Updating Payment Method
+Updating payment method
 =======================
  
  
