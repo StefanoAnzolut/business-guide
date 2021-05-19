@@ -4,13 +4,11 @@
 Changing Billing Period
 =======================
  
- 
-.. NOTE::
-   Please contact us at info@skribble.com to change your billing period.
+To change the billing period of your Skribble Business, please contact us at info@skribble.com.
    
 •	**Monthly billing** 
 
-If you originally selected the monthly billing, you can switch to annual billing at any time. 
+If you initially selected the monthly billing, you can switch to annual billing at any time. 
 
 
 •	**Yearly billing**
