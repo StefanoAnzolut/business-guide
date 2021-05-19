@@ -25,7 +25,7 @@ Would you like to test Skribble for free for 30 days? Follow `this guide`_ to st
 .. _this guide: https://docs.skribble.com/business-admin/quickstart/upgrade.html
 
 
-Cancelling free trial
+Cancelling Free Trial
 ---------------------
 
 .. NOTE::
