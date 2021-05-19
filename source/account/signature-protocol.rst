@@ -14,7 +14,7 @@ To download a signature protocol:
 - Open the document
 - Click on the **3 dots** at the top-right
 - Click on **Signature protocol**
-- **Alternative:** Hover over the document and click on the tooltip **i**. Then click on the **Signature protocol** icon on the right.
+- **Alternative:** From the document overview page, hover over the document and click on the tooltip **i**. Then click on the **Signature protocol** icon on the right.
 - Open the protocol 
 
 Depending on the e-signature standard used and the identification method of the signer, the protocol may contain the following information:
