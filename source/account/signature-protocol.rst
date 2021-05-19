@@ -14,7 +14,7 @@ To download a signature protocol:
 - Open the document
 - Click on the **3 dots** at the top-right
 - Click on **Signature protocol**
-- Alternative: Hover over the document and click on the tooltip **i**. Then click on the **Signature protocol** icon on the right.
+- **Alternative:** Hover over the document and click on the tooltip **i**. Then click on the **Signature protocol** icon on the right.
 - Open the protocol 
 
 Depending on the e-signature standard used and the identification method of the signer, the protocol may contain the following information:
@@ -25,8 +25,8 @@ Depending on the e-signature standard used and the identification method of the 
 •	Signature status (signed, declined, open)
 •	Participants incl. API users
 •	Participant’s name, e-mail address, phone number, user ID, and business they belong to
-•	Date, and time and IP address for every activity (uploaded, viewed, signed, sealed, downloaded, delegated, declined, updated)·   
+•	Date, time and IP address for every activity (uploaded, viewed, signed, sealed, downloaded, delegated, declined, updated)
 •	Visual signature (optional)
 •	Signature ID
-•	E-signature standard (e.g. QES) used and legislation (eIDAS, ZertES)
+•	E-signature standard used such as QES and legislation (eIDAS, ZertES)
 •	Certificate (subject, serial number, pseudonym, issuer)
