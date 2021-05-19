@@ -39,7 +39,6 @@ This guide is intended to help company administrators set up and manage Skribble
    account/cancel
   
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Managing Members:
@@ -50,6 +49,13 @@ This guide is intended to help company administrators set up and manage Skribble
    members/revokeadmin
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Billing and Payment:
+
+   billing/change
+   
+   
 .. toctree::
    :maxdepth: 2
    :caption: Integrations:
