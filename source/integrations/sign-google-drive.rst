@@ -1,7 +1,7 @@
 .. _sign-google-drive:
 
 =============================
-How to sign from Google Drive
+How To Sign From Google Drive
 =============================
 
 .. NOTE::

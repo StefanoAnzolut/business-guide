@@ -1,8 +1,8 @@
 .. _change-contact:
 
-=================================
-Changing the Contact for Invoices
-=================================
+================================
+Changing Invoicing Email Address
+================================
 
 Invoices are sent to the e-mail contact in your Business profile. 
 
@@ -22,5 +22,4 @@ To change the contact for invoices:
 
 .. image:: contact3.png
     :class: with-shadow
-
 

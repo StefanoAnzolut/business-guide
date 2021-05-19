@@ -1,7 +1,7 @@
 .. _google:
 
 ====================================
-Set up signing from Google Drive 🆕
+Set Up Signing From Google Drive 🆕
 ====================================
 
 .. NOTE::

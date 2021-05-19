@@ -29,3 +29,22 @@ To request AES for Business:
 - You'll be taken to a form to provide your company details
 
 - Once you submit the form, the AES for Business registration will start
+
+Next, you'll receive 2 documents to sign:
+  - **Customer Digital Signing Service Acknowledgement and Agreement** (must be signed with the advanced (AES) or qualified (QES) electronic signature)
+  - **GlobalSign Terms of Use** (simple electronic signature (SES) is enough)
+  
+If you aren't authorised to sign these documents, please send them to the authorised signer in your company.
+ 
+- Once both documents are signed, we'll send them for verification to our partner GlobalSign
+
+- GlobalSign will contact you to verify your company details and whether you have full control of your company domain. This process might take a few more days. 
+
+**You must reply to GlobalSign to prove that you fully control your domain.** If you don't respond, we won't be able to start setting up AES for Business.
+
+- After GlobalSign has successfully verified your company details, we'll carry out the setup
+
+- To check that everything works correctly, we'll send you a test document to sign
+
+- Once you've successfully signed it, AES for Business will be available to your Skribble Business members
+

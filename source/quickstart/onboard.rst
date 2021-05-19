@@ -1,7 +1,7 @@
 .. quickstart-onboard:
 
 ===============
-Getting started
+Getting Started
 ===============
 
 Now that you’ve set up Skribble Business for your company, we recommend that you start with adding your team members to enable them to sign electronically. Here’s a quick guide on how to do it.

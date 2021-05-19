@@ -1,7 +1,7 @@
 .. _account-seals:
 
 ============================
-Managing electronic seals 🆕
+Managing Electronic Seals 🆕
 ============================
 
 .. NOTE::
@@ -9,7 +9,6 @@ Managing electronic seals 🆕
 
 Electronic seals enable you to sign documents on behalf of your company as a legal and not natural person. After you've requested to use your company's seal on our e-signing platform, we'll set it up for you. Once this is done, you'll see the seal in your Skribble Business. As an admin, you can:
 
-•	**Activate the seal** (must be done for each seal)
 •	**Manage API keys and members** allowed to use the seal
 •	**Add an image** as a visual representation of the seal (optional)
 •	**Specify the display name** of the seal for your members
@@ -25,6 +24,10 @@ To enable your Skribble Business members to seal documents, you will have to unl
 - Navigate to **API keys** or **Members** and click **Add**
 
 - If you're adding **API keys**, select the key from the list and click **Add**
+
+**Note:** Please be aware that you can only use seals with production keys. Learn more about API keys `here`_.
+
+.. _here: https://docs.skribble.com/business-admin/api/apicreate.html#
 
 - If you're adding **Members**, enter the member’s e-mail address and click **Add**
 

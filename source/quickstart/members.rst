@@ -1,7 +1,7 @@
 .. _members:
 
 ========================================
-Adding Members to your Skribble Business
+Adding Members to Your Skribble Business
 ========================================
 
 There are two ways to add members to your Skribble Business:

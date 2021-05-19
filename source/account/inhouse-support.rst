@@ -1,7 +1,7 @@
 .. _inhouse-support:
 
 ============================================================
-Adding an in-house support contact (first-level support) 🆕
+Adding an In-House Support Contact (First-Level Support) 🆕
 ============================================================
 
 .. NOTE::
