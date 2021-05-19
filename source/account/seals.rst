@@ -25,7 +25,7 @@ To enable your Skribble Business members to seal documents, you will have to unl
 
 - If you're adding **API keys**, select the key from the list and click **Add**
 
-**Note:** Please be aware that you can only add production keys to use seals. Learn more about API keys `here`_.
+**Note:** Please be aware that you can only use seals with production keys. Learn more about API keys `here`_.
 
 .. _here: https://docs.skribble.com/business-admin/api/apicreate.html#
 
