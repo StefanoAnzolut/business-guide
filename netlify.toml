@@ -6,3 +6,23 @@
   from = "/"
   to = "/business-admin"
   status = 302
+
+[[redirects]]
+  from = "/business-admin/quickstart/paymentmethod.html"
+  to = "/business-admin/billing/payment-method.html"
+  status = 302
+
+[[redirects]]
+  from = "/business-admin/account/contact.html"
+  to = "/business-admin/billing/invoice-contact.html"
+  status = 302
+
+[[redirects]]
+  from = "/business-admin/aes/aessetup.html"
+  to = "/business-admin/aes/setup.html"
+  status = 302
+
+[[redirects]]
+  from = "/business-admin/aes/aesproduct.html"
+  to = "/business-admin/aes/setup.html"
+  status = 302
