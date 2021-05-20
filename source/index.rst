@@ -72,7 +72,7 @@ This guide is intended to help company administrators set up and manage Skribble
    :caption: AES for Business:
 
    aes/aesproduct
-   aes/aessetup
+   aes/setup
 
 
 .. toctree::
