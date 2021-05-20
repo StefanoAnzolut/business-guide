@@ -54,6 +54,7 @@ This guide is intended to help company administrators set up and manage Skribble
    :caption: Billing and Payment:
 
    billing/change
+   billing/invoice-contact
    
    
 .. toctree::
