@@ -26,3 +26,23 @@
   from = "/business-admin/aes/aesproduct.html"
   to = "/business-admin/aes/setup.html"
   status = 302
+
+[[redirects]]
+  from = "/business-admin/quickstart/paymentmethod"
+  to = "/business-admin/billing/payment-method.html"
+  status = 302
+
+[[redirects]]
+  from = "/business-admin/account/contact"
+  to = "/business-admin/billing/invoice-contact.html"
+  status = 302
+
+[[redirects]]
+  from = "/business-admin/aes/aessetup"
+  to = "/business-admin/aes/setup.html"
+  status = 302
+
+[[redirects]]
+  from = "/business-admin/aes/aesproduct"
+  to = "/business-admin/aes/setup.html"
+  status = 302
