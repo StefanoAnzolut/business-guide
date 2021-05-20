@@ -1,8 +1,8 @@
 .. _invoice-contact:
 
-================================
-Changing Invoicing Email Address
-================================
+==============================
+Changing Billing Email Address
+==============================
 
 Invoices are sent to the e-mail contact in your Business profile. 
 
