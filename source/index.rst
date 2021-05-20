@@ -19,8 +19,6 @@ This guide is intended to help company administrators set up and manage Skribble
    quickstart/onboard
    quickstart/members
    quickstart/trial
-   quickstart/paymentmethod
-
 
 
 .. toctree::
@@ -29,7 +27,6 @@ This guide is intended to help company administrators set up and manage Skribble
 
    account/usage
    account/signatureusage
-   account/contact
    account/inhouse-support
    account/branding
    account/deletionperiod
