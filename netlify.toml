@@ -26,6 +26,11 @@
   from = "/business-admin/aes/aesproduct.html"
   to = "/business-admin/aes/setup.html"
   status = 302
+  
+  [[redirects]]
+  from = "/business-admin/account/cancel.html"
+  to = "/business-admin/quickstart/cancel.html"
+  status = 302
 
 [[redirects]]
   from = "/business-admin/quickstart/paymentmethod"
@@ -46,3 +51,9 @@
   from = "/business-admin/aes/aesproduct"
   to = "/business-admin/aes/setup.html"
   status = 302
+  
+    [[redirects]]
+  from = "/business-admin/account/cancel"
+  to = "/business-admin/quickstart/cancel.html"
+  status = 302
+  
