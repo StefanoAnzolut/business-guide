@@ -55,7 +55,7 @@ This guide is intended to help company administrators set up and manage Skribble
 
    billing/change
    billing/invoice-contact
-   
+   billing/payment-method
    
 .. toctree::
    :maxdepth: 2
