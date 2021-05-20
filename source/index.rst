@@ -15,10 +15,11 @@ This guide is intended to help company administrators set up and manage Skribble
    :caption: Quick Start:
 
    quickstart/admin
+   quickstart/trial
    quickstart/upgrade
+   quickstart/cancel
    quickstart/onboard
    quickstart/members
-   quickstart/trial
 
 
 .. toctree::
@@ -33,7 +34,6 @@ This guide is intended to help company administrators set up and manage Skribble
    account/visualsignature
    account/signature-protocol
    account/seals
-   account/cancel
   
 
 .. toctree::
