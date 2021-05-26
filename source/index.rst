@@ -15,12 +15,11 @@ This guide is intended to help company administrators set up and manage Skribble
    :caption: Quick Start:
 
    quickstart/admin
+   quickstart/trial
    quickstart/upgrade
+   quickstart/cancel
    quickstart/onboard
    quickstart/members
-   quickstart/trial
-   quickstart/paymentmethod
-
 
 
 .. toctree::
@@ -29,16 +28,13 @@ This guide is intended to help company administrators set up and manage Skribble
 
    account/usage
    account/signatureusage
-   account/contact
    account/inhouse-support
    account/branding
    account/deletionperiod
    account/visualsignature
    account/signature-protocol
    account/seals
-   account/cancel
   
-
 
 .. toctree::
    :maxdepth: 2
@@ -50,6 +46,14 @@ This guide is intended to help company administrators set up and manage Skribble
    members/revokeadmin
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Billing and Payment:
+
+   billing/change
+   billing/invoice-contact
+   billing/payment-method
+   
 .. toctree::
    :maxdepth: 2
    :caption: Integrations:
@@ -64,8 +68,7 @@ This guide is intended to help company administrators set up and manage Skribble
    :maxdepth: 2
    :caption: AES for Business:
 
-   aes/aesproduct
-   aes/aessetup
+   aes/setup
 
 
 .. toctree::

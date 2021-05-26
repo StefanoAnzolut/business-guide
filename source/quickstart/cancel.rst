@@ -1,4 +1,4 @@
-.. _account-cancel:
+.. _quickstart-cancel:
 
 ============================
 Cancelling Skribble Business
@@ -12,49 +12,15 @@ To cancel your Skribble Business:
 
 - Go to **Skribble Business** if you aren’t already there
 
-
- .. image:: step_1_go_business.png
-    :class: with-shadow
-    
-    
-    
 - Click **Billing**
 
-
- .. image:: step_2_billing.png
-    :class: with-shadow
-
-
-
-
 - Navigate to **Current plan** and click the pencil icon
-
-
-
- .. image:: step3_current_cancel2.png
-    :class: with-shadow
-    
-    
-    
 
 - Click **Cancel**
  
 In the next step, you will have to confirm that you want to cancel Skribble Business.
- 
-
- .. image:: step4_cancel_business2.png
-    :class: with-shadow
-    
-    
     
 - Click **Yes, cancel** to confirm
-  
-  
-
- .. image:: step5_confirm_deletion2.png
-    :class: with-shadow
-    
-    
 
 Once confirmed, all members will be transferred to the Skribble Free plan. Their documents will be available in their personal Skribble account.
 
@@ -63,9 +29,3 @@ If you change your mind, you can revoke the deletion of your Skribble Business.
 To do so:
  
 - Navigate to **Current plan** and click **Revoke deletion**
-        
-
- .. image:: step6_revoke_deletion2.png
-    :class: with-shadow
-    
-    
