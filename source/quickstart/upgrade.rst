@@ -81,5 +81,5 @@ You can set up Skribble for your company straight from your profile. This will m
 
 **Note:** Your credit card won't be charged until the 30-day trial period expires. We need your card details for future billing after the trial period.
 
-Congratulations, you can now test Skribble Business for free for 30 days. What’s next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
+Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
 
