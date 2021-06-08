@@ -22,24 +22,6 @@ Setting up Skribble for your company will make you an admin. Don't worry, you ca
 - Enter your **business e-mail address** and read our Terms of Use
 
 
-.. image:: step1_setup_biz.png
-    :alt: pointer to menu button
-    :class: with-shadow
-
-
-New to Skribble? This is how to set up Skribble Business for your company.
---------------------------------------------------------------------------
-
-
-To set up Skribble Business and start your free trial:
-
-- Log in to your Skribble account at `my.skribble.com`_
-
-.. _my.skribble.com: https://my.skribble.com/
-
-- Go to **Billing** 
-
-
 .. image:: step1_skribble_business_no_account.png
     :alt: pointer to menu button
     :class: with-shadow
