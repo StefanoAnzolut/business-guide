@@ -40,7 +40,7 @@ To set up Skribble Business and start your free trial:
 - Go to **Billing** 
 
 
-.. image:: step1_skribble_business_no_accountz.png
+.. image:: step1_skribble_business_no_account.png
     :alt: pointer to menu button
     :class: with-shadow
 
