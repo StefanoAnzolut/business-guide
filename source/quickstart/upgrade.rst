@@ -13,7 +13,7 @@ Skribble offers a free trial month to new Business customers. You won't be charg
 New to Skribble? This is how it works.
 --------------------------------------
 
-Setting up Skribble Business for your company will make you the admin. Don't worry, you can add more admins later if you need.
+Setting up Skribble Business for your company will make you the admin. You can add more admins later if you need.
 
 - Go to `my.skribble.com/business/signup`_
 
@@ -57,7 +57,7 @@ Congratulations, you can now test Skribble Business for free for 30 days. What's
 Already have an account? This is how it works.
 ----------------------------------------------
 
-If you already use Skribble with your **business email address**, you can set up Skribble Business for your company directly from your Skribble account. This will make you the admin. Don't worry, you can add more admins later if you need.
+If you already use Skribble with your **business email address**, you can set up Skribble Business for your company directly from your Skribble account. This will make you the admin. You can add more admins later if you need.
 
 - Click **Billing** on the left in your Skribble account
 
