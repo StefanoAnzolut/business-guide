@@ -5,7 +5,7 @@ Setting up Skribble Business
 ============================
 
 .. NOTE::
-  Depending on whether you already have a Skribble account or not, there're 2 ways to set up Skribble for your company and start a free 30-day trial. Read on to find out how it works.
+ Whether you already have a Skribble account or not, there are 2 ways to set up Skribble for your company and start a free 30-day trial. Read on to find out how it works.
 
 
 Skribble offers a free trial month to new Business customers. You won't be charged during the trial period, and you can cancel at any time.
