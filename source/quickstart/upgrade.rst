@@ -47,9 +47,10 @@ We'll send you a confirmation link by e-mail to make sure we got your e-mail add
 
 - Choose your preferred **billing period** (monthly or yearly) for payments after the trial
 
-**Note:** Your credit card won't be charged until the 30-day trial period expires. We need your card details for future payments after the trial period.
-
 - Enter your **credit card details** and click **Start your free 30-day trial**
+
+.. NOTE::
+Your credit card won't be charged until the 30-day trial period expires. We need your card details for future payments after the trial period.
 
 **Note for Enterprise customers with an access code:** Click *Enterprise customer?* to get started with your free 30-day trial.
 
@@ -79,9 +80,10 @@ If you already have a Skribble account with your **business email address**, you
 
 - Choose your preferred **billing period** (monthly or yearly) for payments after the trial
 
-**Note:** Your credit card won't be charged until the 30-day trial period expires. We need your card details for future payments after the trial period.
-
 - Enter your **credit card details** and click **Start your free 30-day trial**
+
+.. NOTE::
+Your credit card won't be charged until the 30-day trial period expires. We need your card details for future payments after the trial period.
 
 **Note for Enterprise customers with an access code:** Click *Enterprise customer?* to get started with your free 30-day trial.
 
