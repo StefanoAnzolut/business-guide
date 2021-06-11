@@ -51,7 +51,7 @@ We'll send you a confirmation link by e-mail to make sure we got your e-mail add
 
 - Enter your **credit card details** and click **Start your free 30-day trial**
 
-**Note for Enterprise customers with an acces code:** Click *Enterprise customer?* to get started with your free 30-day trial.
+**Note for Enterprise customers with an access code:** Click *Enterprise customer?* to get started with your free 30-day trial.
 
 - Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
 
@@ -83,7 +83,7 @@ If you already have a Skribble account with your **business email address**, you
 
 - Enter your **credit card details** and click **Start your free 30-day trial**
 
-**Note for Enterprise customers with an acces code:** Click *Enterprise customer?* to get started with your free 30-day trial.
+**Note for Enterprise customers with an access code:** Click *Enterprise customer?* to get started with your free 30-day trial.
 
 Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
 
