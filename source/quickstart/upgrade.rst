@@ -17,7 +17,7 @@ Setting up Skribble Business for your company will make you the admin. You can a
 
 - Go to `my.skribble.com/business/signup`_
 
-.. _my.skribble.com/business/signup: my.skribble.com/business/signup
+.. _my.skribble.com/business/signup: https://my.skribble.com/business/signup/
 
 - Enter your **business e-mail address** and read our **Terms of Use**
 
