@@ -21,7 +21,8 @@ To add in-house support as the primary support contact:
 
 - Click **Save** to confirm 
 
-**Questions or need help?** As an admin, you can contact our support team from your Business profile by clicking on **Contact support** in the lower left or by goinng directly to our `contact form`_.
+**Questions or need help?**
+As an admin, you can contact our support team from your **Business profile** by clicking on **Contact support** in the lower left. Or you can go directly to our  `contact form`_.
 
 .. _contact form: https://share.hsforms.com/1Giw-SJMiTka_fbNiQUS8Zg309ws
 
