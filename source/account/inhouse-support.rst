@@ -17,6 +17,11 @@ To add in-house support as the primary support contact:
 
 - Add an **e-mail address and a phone number**
 
-**Please be aware that your members will see these contact details in the help section of their Skribble profile.**
+**Be aware that your members will see these contact details in the help section of their Skribble profile.**
 
 - Click **Save** to confirm 
+
+**Questions or need help?** As an admin, you can contact our support team from your Business profile by clicking on **Contact support** in the lower left or by goinng directly to our `contact form`_.
+
+.. _contact form: https://share.hsforms.com/1Giw-SJMiTka_fbNiQUS8Zg309ws
+
