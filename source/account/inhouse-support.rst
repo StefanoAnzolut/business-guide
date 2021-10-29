@@ -11,9 +11,6 @@ As an admin, you can add an e-mail address and a phone number that your Skribble
 
 To add in-house support as the primary support contact:
 
-.. NOTE::
-  Be aware that your members will see this contact detail in the help section of their Skribble profile.
-
 - Click **Business profile** in the lower left
 
 - Go to **In-house support** and click on the pencil icon
@@ -21,6 +18,10 @@ To add in-house support as the primary support contact:
 - Add an **e-mail address and a phone number**
 
 - Click **Save** to confirm 
+
+.. NOTE::
+  Be aware that your members will see this contact in the help section of their Skribble profile.
+
 
 
 **Need help with your member's question?**
