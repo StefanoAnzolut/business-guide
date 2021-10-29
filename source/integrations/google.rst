@@ -31,9 +31,9 @@ You can get these from your company's Skribble Business admin. Skribble Business
 
   .. _click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
   
-- `Click here`_ to get the plug-in from **G Suite Marketplace**
+- Go to **`G Suite Marketplace`_** to get the plug-in
 
-  .. _Click here: https://workspace.google.com/marketplace/app/skribble_electronic_signature/313457989260
+  .. _G Suite Marketplace: https://workspace.google.com/marketplace/app/skribble_electronic_signature/313457989260
   
 - Click **Install**
   
