@@ -11,9 +11,11 @@ Set Up Signing From Google Drive 🆕
 
 With the Skribble Electronic Signature plug-in, companies, departments, and teams can sign and get documents signed from within their favourite tools.
 
+You can set up signing for yourself only or for the whole company. However, we recommend company-wide implementation, which we describe below. 
+
 To connect Google Drive with Skribble Business, you’ll need:
 
-•	**Admin access to your company’s Google Drive**
+•	**Google Drive admin access**
 •	**Skribble API credentials**
 •	**Skribble Electronic Signature plug-in**
 
@@ -23,7 +25,7 @@ We recommend that the Google Drive admin sets up the Skribble Electronic Signatu
 **Step-by-step guide for Google Drive admins to connect Google Drive with Skribble**
 
 .. NOTE::
- Before you get started, make sure you have Skribble API credentials ready (username and API key).
+ Before starting, make sure you have Skribble API credentials ready (username and API key).
 
 You can get these from your company's Skribble Business admin. Skribble Business admins: `click here for guidance`_.
 
@@ -41,7 +43,7 @@ You’ll be asked to allow access to finish installation.
 
 - Click **Allow** if you agree
 
-Once the plug-in is installed, finish the setup to connect Google Drive with Skribble. You’ll need Google Drive admin rights for this.
+After installing the plug-in, finish the setup to connect Google Drive with Skribble. You’ll need Google Drive admin rights for this.
   
 - Go to **Google Admin Console**
   
