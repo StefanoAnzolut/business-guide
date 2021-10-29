@@ -26,6 +26,6 @@ To add in-house support as the primary support contact:
 - Contact our support team by clicking on **Contact support** in the lower left of your **Business profile**
 
 
-.. image:: 2nd_level_support.png
+.. image:: 2nd_level_support_contact.png
     :class: with-shadow
 
