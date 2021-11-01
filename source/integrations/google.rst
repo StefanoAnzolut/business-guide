@@ -66,7 +66,7 @@ Everyone in your company can now sign with Skribble from Google Drive. We recomm
   .. _quick guide: http://docs.skribble.com/business-admin/integrations/sign-google-drive
   
   
-  **Uninstalling the plug-in**
+**Uninstalling the plug-in**
   
 To uninstall the plug-in from your admin account:
 
