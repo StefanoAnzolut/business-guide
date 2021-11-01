@@ -39,7 +39,7 @@ You can get these from your company's Skribble Business admin. Skribble Business
   
 - Read the information displayed, accept the terms of service and privacy policy if you agree with them and click **Continue**
   
-You’ll be asked to allow access to finish installation.
+You’ll need to allow access to finish installation.
 
 - Click **Allow** if you agree
 
@@ -72,7 +72,7 @@ To uninstall the plug-in from your Google Drive admin account:
 
 - Click on **Settings** in the upper right
 
-- Go to **Manage Apps** and navigate to the plug-in
+- Go to **Manage Apps** and navigate to **Skribble Electronic Signature** plug-in
 
-- Click on **Options** and selec **Disconnect from Drive**
+- Click on **Options** and select **Disconnect from Drive**
 
