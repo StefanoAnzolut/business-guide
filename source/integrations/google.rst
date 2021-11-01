@@ -25,7 +25,7 @@ We recommend that the Google Drive admin sets up the Skribble Electronic Signatu
 **Step-by-step guide for Google Drive admins to connect Google Drive with Skribble**
 
 .. NOTE::
- Before starting, make sure you have Skribble API credentials ready (username and API key).
+ Before starting, make sure you have Skribble API credentials (username and API key) ready.
 
 You can get these from your company's Skribble Business admin. Skribble Business admins: `click here for guidance`_.
 
@@ -65,3 +65,14 @@ Everyone in your company can now sign with Skribble from Google Drive. We recomm
 
   .. _quick guide: http://docs.skribble.com/business-admin/integrations/sign-google-drive
   
+  
+  **Uninstalling the plug-in**
+  
+To uninstall the plug-in from your admin account:
+
+- Click on **Settings** in the upper right
+
+- Go to **Manage Apps** and navigate to the plug-in
+
+- Click on **Options** and selec **Disconnect from Drive**
+
