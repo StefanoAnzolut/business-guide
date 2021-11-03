@@ -19,9 +19,9 @@ Skribble makes it easy to switch back-and-forth between signing documents and ma
 
 **To access your Business profile:**
 
-- Log in to your Skribble account at https://my.skribble.com/
+- Log in to your Skribble account at my.skribble.com
 
-- From your profile, click **Skribble Business**
+- Click **Skribble Business** in the lower left
 
 
 .. image:: toggle_biz.png
