@@ -5,11 +5,11 @@ Set Up Signing From Google Drive 🆕
 ====================================
 
 .. NOTE::
- Skribble Electronic Signature plug-in is available to Skribble Business customers. If you haven't set up Skribble for your company yet, check this `guide`_.
+ Signing directly from Google Drive is available to Skribble Business customers. If you haven't set up Skribble for your company yet, check this `guide`_.
 
   .. _guide: https://docs.skribble.com/business-admin/quickstart/upgrade
 
-With the Skribble Electronic Signature plug-in, companies, departments, and teams can sign and get documents signed from within their favourite tools.
+With the Skribble Electronic Signature plug-in, companies, departments, and teams can sign and get documents signed directly from their favourite tools.
 
 You can set up the plug-in just for yourself or for the entire company. However, we recommend company-wide implementation, which we describe below. 
 
