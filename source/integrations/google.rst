@@ -72,7 +72,7 @@ To uninstall the plug-in from your Google Drive admin account:
 
 - Click on **Settings** in the upper right
 
-- Go to **Manage Apps** and navigate to **Skribble Electronic Signature** plug-in
+- Go to **Manage Apps** and navigate to the **Skribble Electronic Signature** plug-in
 
 - Click on **Options** and select **Disconnect from Drive**
 
