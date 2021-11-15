@@ -5,7 +5,7 @@ Set Up Signing From OneDrive and SharePoint 🆕
 ===============================================
 
 .. NOTE::
- Skribble Electronic Signature plug-in is only available with **Microsoft OneDrive for Business and Skribble Business**.
+ Skribble Electronic Signature plug-in is available with **Microsoft OneDrive for Business and Skribble Business**.
 
 Skribble integrates with Microsoft OneDrive for Business and enables companies to sign and get documents signed directly from OneDrive and SharePoint Online.
 
@@ -50,6 +50,6 @@ That’s it; you’ve connected OneDrive for Business with Skribble.
 .. NOTE::
  It may take up to **48 hours** before everyone can sign from OneDrive and SharePoint.
  
-In the meantime, we recommend sharing our `quick guide on signing with Skribble`_ with everyone in your company.
+In the meantime, we recommend sharing the `guide on signing with Skribble`_ with everyone in your company.
  
-   .. _quick guide on signing with Skribble: https://docs.skribble.com/business-admin/integrations/sign-onedrive-sharepoint
+   .. _guide on signing with Skribble: https://docs.skribble.com/business-admin/integrations/sign-onedrive-sharepoint
