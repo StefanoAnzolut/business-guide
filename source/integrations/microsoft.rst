@@ -21,9 +21,9 @@ We recommend that your OneDrive admin carries out the setup of the Skribble Elec
 **Step-by-step guide for OneDrive admins to connect OneDrive for Business with Skribble:**
 
 .. NOTE::
- Before you get started, make sure you have your Skribble API credentials ready (username an API key).
+ Before you get started, make sure you have your Skribble API credentials ready (username an API key). You only need 1 API key to set up signing for the whole company.
 
-You can get these from your company's Skribble Business admin. Skribble Business admins: `click here for guidance`_.
+You can get your API credentials from your company's Skribble Business admin. Skribble Business admins: `click here for guidance`_.
 
   .. _click here for guidance: https://docs.skribble.com/business-admin/api/apicreate.html
 
@@ -37,15 +37,17 @@ You can get these from your company's Skribble Business admin. Skribble Business
   
 - Log in with your **Microsoft admin account**
 
-- You’ll be asked to allow installing the plug-in for all users on behalf of your organisation
+You’ll be asked to allow installing the plug-in for all users on behalf of your company.
 
 - Select the checkbox **Consent on behalf of your organisation** and click **Accept** if you agree
 
-If you don’t select the checkbox, only you (and not all users) will see the plug-in.
+If you don’t select the checkbox, only you, and not all members of your Skribble Business, will see the plug-in.
   
 - Enter **Skribble API credentials** (username and API key) to finish the setup
 
-- That’s it; you’ve connected OneDrive for Business with Skribble
+You only need 1 API key to set up signing for the whole company.
+
+That’s it; you’ve connected OneDrive for Business with Skribble
   
 .. NOTE::
  It may take up to **48 hours** before everyone can sign from OneDrive and SharePoint.
