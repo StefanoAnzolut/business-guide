@@ -9,7 +9,7 @@ Is there a standard deletion period for documents in your company? As an admin, 
 Whether your company uses Skribble or is about to switch to e-signatures, the deletion period applies to one of the below:
 
 •	**all documents** (whether they’re signed or not) – existing and new customers
-•	**completed documents only** (signed, declined, withdrawn) – some Enterprise customers. Learn more
+•	**completed documents only** (signed, declined, withdrawn) – some Enterprise customers. :ref:`Learn more<completed-documents>`
 
 Questions or need a hand? Write us a message at support@skribble.com. We'll be happy to help.
 
@@ -69,6 +69,8 @@ We'll remind your team members to download the affected documents:
 • **on the day of deletion**
 
 If your set the document deletion period to **5 days or choose a shorter period than your current one**, your team members will only receive **one e-mail on the day of deletion**.
+
+.. _completed-documents:
 
 **Deletion period for completed documents**
 
