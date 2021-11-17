@@ -68,7 +68,7 @@ We'll remind your team members to download the affected documents:
 
 If your set the document deletion period to **5 days or choose a shorter period than your current one**, your team members will only receive **one e-mail on the day of deletion**.
 
-[create an anchor](#deletion-period-for-completed-documents)
+(#deletion-period-for-completed-documents)
 
 .. NOTE::
    This information is only relevant for some of our Enterprise customers who haven’t yet activated the deletion period for all documents.
