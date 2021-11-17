@@ -6,17 +6,17 @@ Setting a Document Deletion Period 🆕
 
 Is there a standard deletion period for documents in your company? As an admin, you can activate and set a deletion period for your team members’ documents on Skribble. After this period ends, their documents will be automatically deleted.
 
-Whether your company uses Skribble or is about to switch to e-signatures, the deletion period applies to one of the below:
+Whether your company uses Skribble or is about to switch to e-signatures, the deletion period applies to one of the below cases:
 
 •	**all documents** (whether they’re signed or not) – existing and new customers
 •	**completed documents only** (signed, declined, withdrawn) – some Enterprise customers. :ref:`Learn more<completed-documents>`
 
-**How do I know which documents are affected?** You’ll find this information in your Business profile.
+**How do I know which documents are affected?** The description in your Business profile tells whether the deletion period applies to all documents or only completed ones.
 
 **Tip!** Before you activate the deletion period for your team, be sure to:
 
-•	Inform your team members about the deletion period.
-•	Remind them to download any affected documents before they're deleted.
+•	Inform your employees about the deletion period that applies in your company.
+•	Remind them to download the affected documents before they're deleted.
 
 
 **Activating deletion period**
@@ -64,7 +64,7 @@ We'll remind your team members to download the affected documents:
 • **7 days before they're deleted**
 • **on the day of deletion**
 
-If your set the document deletion period to **5 days** or choose a **shorter deletion period** than the current one, your team members will only receive one e-mail on the **day of deletion**.
+Let's say you set the deletion period to **5 days** or choose a **shorter deletion period** than your current one. In that case, your team members will only receive one e-mail on the day of deletion for documents that are longer on Skribble than the new deletion period.
 
 .. _completed-documents:
 
@@ -73,13 +73,13 @@ If your set the document deletion period to **5 days** or choose a **shorter del
 .. NOTE::
    This information is only relevant for Enterprise customers who haven’t yet activated the deletion period for all documents.
    
-The deletion period only applies to completed (signed, declined, withdrawn) documents. It starts on the day the document is uploaded to Skribble.
+The deletion period only applies to completed (signed, declined, withdrawn) documents. It starts on the day your team members upload a document to Skribble.
 
 Would you like to introduce the deletion period for all documents? Write us a message at support@skribble.com.
 
 **Setting or changing deletion period**
 
-By default, the deletion period is set to 30 days. You can set a deletion period that better fits your company in a few easy steps. From your Business profile:
+By default, the deletion period is 30 days. You can choose a deletion period that better fits your company in a few easy steps. From your Business profile:
 
 - Go to **Deletion period** 
 - Click on the **Pen symbol**
