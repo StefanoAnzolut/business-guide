@@ -11,9 +11,7 @@ Whether your company uses Skribble or is about to switch to e-signatures, the de
 •	**all documents** (whether they’re signed or not) – existing and new customers
 •	**completed documents only** (signed, declined, withdrawn) – some Enterprise customers. :ref:`Learn more<completed-documents>`
 
-Questions or need a hand? Write us a message at support@skribble.com. We'll be happy to help.
-
-**How do I know which documents are affected in my company?** You’ll find this information in your Business profile.
+**How do I know which documents are affected?** You’ll find this information in your Business profile.
 
 **Tip!** Before you activate the deletion period for your team, be sure to:
 
@@ -24,9 +22,7 @@ Questions or need a hand? Write us a message at support@skribble.com. We'll be h
 **Activating deletion period**
 
 .. NOTE::
-   You’ll have 7 days to inform your team before the deletion period is activated.
-
-Here's how it works:
+   The deletion period for your company starts 7 days after you activate it.
 
 - Click **Business profile** in the lower left
     
@@ -36,12 +32,9 @@ Here's how it works:
 
 - Choose a deletion period and click **Activate** to confirm
     
-Did you inform your team members yet? They may need to download the affected documents before they're deleted.
+Have you informed your team members yet? They may need to download the affected documents before they're deleted.
 
 **Changing deletion period**
-
-.. NOTE::
-   Is the new deletion period shorter than the one you had before? Be sure to inform your team members. Documents that are older than the new period will be deleted the very next day. Your team members will only receive one e-mail reminder on the day of deletion.
 
 Let's say the deletion period has been activated for some time. Now that your company's policy changed, you need to set a new deletion period for your team. You can do this in your Business profile:
 
@@ -53,7 +46,10 @@ Let's say the deletion period has been activated for some time. Now that your co
 
 - Click **Save** to confirm
 
-The new deletion period is valid immediately unless you've picked a shorter period (see the note above).
+The new deletion period is valid immediately unless you've picked a shorter period (see the note below).
+
+.. NOTE::
+   Documents that are older than the new deletion period will be deleted the very next day. Your team members will only receive one e-mail reminder on the day of deletion. Be sure to inform your team members about it.
 
 **What happens to the pending signatures?**
 
@@ -68,16 +64,18 @@ We'll remind your team members to download the affected documents:
 • **7 days before they're deleted**
 • **on the day of deletion**
 
-If your set the document deletion period to **5 days or choose a shorter period than your current one**, your team members will only receive **one e-mail on the day of deletion**.
+If your set the document deletion period to **5 days** or choose a **shorter deletion period** than the current one, your team members will only receive one e-mail on the **day of deletion**.
 
 .. _completed-documents:
 
 **Deletion period for completed documents**
 
 .. NOTE::
-   This information is only relevant for some of our Enterprise customers who haven’t yet activated the deletion period for all documents.
+   This information is only relevant for Enterprise customers who haven’t yet activated the deletion period for all documents.
    
-The deletion period only applies to completed (signed, declined, withdrawn) documents. It starts on the day the document is uploaded to Skribble. Would you like to introduce the deletion period for all documents? Write us a message at support@skribble.com.
+The deletion period only applies to completed (signed, declined, withdrawn) documents. It starts on the day the document is uploaded to Skribble.
+
+Would you like to introduce the deletion period for all documents? Write us a message at support@skribble.com.
 
 **Setting or changing deletion period**
 
