@@ -66,9 +66,9 @@ We'll remind your team members to download the affected documents:
 • **7 days before they're deleted**
 • **on the day of deletion**
 
-If your set the document deletion period to **5 days or choose a shorter period than your current one**, they'll only get **1 e-mail on the day of deletion**.
+If your set the document deletion period to **5 days or choose a shorter period than your current one**, your team members will only receive **one e-mail on the day of deletion**.
 
-**Deletion period for completed documents**
+[create an anchor](#deletion-period-for-completed-documents)
 
 .. NOTE::
    This information is only relevant for some of our Enterprise customers who haven’t yet activated the deletion period for all documents.
@@ -77,7 +77,7 @@ The deletion period only applies to completed (signed, declined, withdrawn) docu
 
 **Setting or changing deletion period**
 
-By default, the deletion period is 30 days. You can set a deletion period that better fits your company in a few easy steps. From your Business profile:
+By default, the deletion period is set to 30 days. You can set a deletion period that better fits your company in a few easy steps. From your Business profile:
 
 - Go to **Deletion period** 
 - Click on the **Pen symbol**
