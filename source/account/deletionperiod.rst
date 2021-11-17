@@ -22,7 +22,7 @@ Whether your company uses Skribble or is about to switch to e-signatures, the de
 **Activating deletion period**
 
 .. NOTE::
-   The deletion period for your company starts 7 days after you activate it.
+   The deletion period starts 7 days after you activate it.
 
 - Click **Business profile** in the lower left
     
@@ -36,7 +36,7 @@ Have you informed your team members yet? They may need to download the affected 
 
 **Changing deletion period**
 
-Let's say the deletion period has been activated for some time. Now that your company's policy changed, you need to set a new deletion period for your team. You can do this in your Business profile:
+Let's say the deletion period has been activated for some time. Now that your company's policy changed, you need to set a new deletion period for your team. From your Business profile:
 
 - Go to **Deletion period**
     
@@ -46,10 +46,10 @@ Let's say the deletion period has been activated for some time. Now that your co
 
 - Click **Save** to confirm
 
-The new deletion period is valid immediately unless you've picked a shorter period (see the note below).
+The new deletion period starts immediately unless you've picked a shorter period (see the note below).
 
 .. NOTE::
-   Documents that are older than the new deletion period will be deleted the very next day. Your team members will only receive one e-mail reminder on the day of deletion. Be sure to inform your team members about it.
+   Documents that are older than the new deletion period will be deleted the very next day. Your team members will only receive one e-mail reminder on the day of deletion.
 
 **What happens to the pending signatures?**
 
@@ -59,12 +59,12 @@ Let's say the deletion period expires before all recipients have signed the docu
 
 **E-mail reminders for your team members**
 
-We'll remind your team members to download the affected documents:
+We'll remind your team members that their documents will be deleted:
 
 • **7 days before they're deleted**
 • **on the day of deletion**
 
-Let's say you set the deletion period to **5 days** or choose a **shorter deletion period** than your current one. In that case, your team members will only receive one e-mail on the day of deletion for documents that are longer on Skribble than the new deletion period.
+Let's say you set the deletion period to **5 days** or choose a **shorter deletion period** than your current one. In that case, your team members will only receive one e-mail on the day of deletion (for documents that have been longer on Skribble than the new deletion period).
 
 .. _completed-documents:
 
