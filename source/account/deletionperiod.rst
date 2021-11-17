@@ -11,14 +11,14 @@ Whether your company uses Skribble or is about to switch to e-signatures, the de
 •	**all documents** (whether they’re signed or not) – existing and new customers
 •	**completed documents only** (signed, declined, withdrawn) – some Enterprise customers. [Learn more](#deletion-period-for-completed-documents)
 
-**Questions or need a hand?** Write us a message at support@skribble.com. We'll be happy to help.
+Questions or need a hand? Write us a message at support@skribble.com. We'll be happy to help.
 
 **How do I know which documents are affected in my company?** You’ll find this information in your Business profile.
 
 **Tip!** Before you activate the deletion period for your team, be sure to:
 
-•	Inform your team members about the chosen deletion period.
-•	Remind them to download their documents before they're deleted.
+•	Inform your team members about the deletion period.
+•	Remind them to download any affected documents before they're deleted.
 
 
 **Activating deletion period**
