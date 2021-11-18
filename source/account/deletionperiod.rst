@@ -11,7 +11,7 @@ Whether your company signs with Skribble or is about to switch to e-signatures, 
 •	**all documents**, no matter whether they are signed or not – existing and new customers
 •	**completed documents**, such as signed, declined, withdrawn – selected Enterprise customers. :ref:`Learn more<completed-documents>`
 
-**Goog to know** 
+**Good to know:** 
 
 **How do I know which documents deletion period applies to?**
 Check the description in your Business profile. It tells whether all or only completed documents are affected.
@@ -31,7 +31,7 @@ Let's say the deletion period expires before all recipients have signed the docu
 **Activating deletion period**
 
 .. NOTE::
-   The deletion period starts 7 days after activation. If you change an existing deletion period, the new one applies immediately.
+   Are you activating the deletion period for the first time or after it has been deactivated in the past? Then it will apply after 7 days. 
 
 - Click **Business profile** in the lower left
     
@@ -57,10 +57,8 @@ Let's say you activated the deletion period some time ago. Now that your company
 
 - Click **Save** to confirm
 
-The new deletion period applies as of now unless you've picked a shorter one (see note below).
-
 .. NOTE::
-   Documents that have been longer on Skribble than the new deletion period will be deleted the very next day. Your team members will only receive one e-mail reminder on the day of deletion.
+   Documents that have been on Skribble longer than the new deletion period will be deleted the next day. Your team members will only receive an e-mail reminder on the day of deletion.
 
 **E-mail reminders for your team members**
 
