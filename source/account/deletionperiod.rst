@@ -78,9 +78,9 @@ The deletion period only applies to completed documents, such as signed, decline
 
 Would you like to introduce the deletion period for all documents? Write us a message at support@skribble.com.
 
-**Setting or changing deletion period**
+**Setting deletion period**
 
-By default, the deletion period is 30 days. You can choose a deletion period that better fits your company in a few easy steps. From your Business profile:
+By default, the deletion period is 30 days. You can set a deletion period that fits your company needs in a few easy steps. From your Business profile:
 
 - Go to **Deletion period** 
 - Click on the **Pen symbol**
