@@ -13,11 +13,10 @@ Whether your company signs with Skribble or is about to switch to e-signatures, 
 
 **Goog to know** 
 
-•	**How do I know which documents deletion period applies to?**
+**How do I know which documents deletion period applies to?**
 Check the description in your Business profile. It tells whether all or only completed documents are affected.
 
-
-•	**What happens to the pending signatures if a document gets deleted?**
+**What happens to the pending signatures if a document gets deleted?**
 Let's say the deletion period expires before all recipients have signed the document. In that case, pending signature invitations will be automatically cancelled. `Learn more`_
 
 .. _Learn more: https://help.skribble.com/de/en/invitation-cancelled
@@ -70,9 +69,6 @@ We'll remind your team members that their documents will be deleted:
 • **7 days before the deletion**
 • **on the day of deletion**
 
-If you set the deletion period to 5 days or choose a shorter one than your current deletion period, your team members will only receive one e-mail on the day of deletion for documents that have been longer on Skribble than the deletion period set.
-
-
 .. NOTE::
    The information below only applies to Enterprise customers who haven’t activated the deletion period for all documents.
 
@@ -80,7 +76,7 @@ If you set the deletion period to 5 days or choose a shorter one than your curre
 
 **Deletion period for completed documents**
    
-The deletion period only applies to completed documents, such as signed, declined or withdrawn if your haven'tactivated the deletion period for all documents. The count starts on the day a document is uploaded to Skribble.
+The deletion period only applies to completed documents, such as signed, declined or withdrawn, if you haven't activated the deletion period for all documents. The count starts on the day a document is uploaded to Skribble.
 
 Would you like to introduce the deletion period for all documents? Write us a message at support@skribble.com.
 
