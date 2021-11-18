@@ -37,13 +37,15 @@ Let's say the deletion period expires before all recipients have signed the docu
 
 - Click **Activate now**
 
-- Choose a deletion period and click **Activate** to confirm
+- Choose a deletion period
+
+- Click **Activate** to confirm
     
 Have you informed your team members? They may need to download the affected documents before they're deleted.
 
 **Changing deletion period**
 
-Let's say the deletion period was already activated for some time. Now that your company's policy changed, you need to set a new deletion period. From your Business profile:
+Let's say you activated the deletion period some time ago. Now that your company's policy changed, you need to set a new deletion period. From your Business profile:
 
 - Go to **Deletion period**
     
@@ -53,7 +55,7 @@ Let's say the deletion period was already activated for some time. Now that your
 
 - Click **Save** to confirm
 
-The new deletion period applies immediately unless you've picked a shorter period (see the note below).
+The new deletion period applies as of now unless you've picked a shorter one (see note below).
 
 .. NOTE::
    Documents that have been longer on Skribble than the new deletion period will be deleted the very next day. Your team members will only receive one e-mail reminder on the day of deletion.
@@ -62,7 +64,7 @@ The new deletion period applies immediately unless you've picked a shorter perio
 
 We'll remind your team members that their documents will be deleted:
 
-• **7 days before they're deleted**
+• **7 days before the deletion**
 • **on the day of deletion**
 
 Let's say you set the deletion period to **5 days** or choose a **shorter deletion period** than your current one. In that case, your team members will only receive one e-mail on the day of deletion (for documents that have been longer on Skribble than the new deletion period).
