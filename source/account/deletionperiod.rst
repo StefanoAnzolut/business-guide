@@ -13,6 +13,13 @@ Whether your company signs with Skribble or is about to switch to e-signatures, 
 
 **How do I know which documents deletion period applies to?** Check the description in your Business profile. It tells whether all or only completed documents are affected.
 
+**What happens to the pending signatures?**
+
+Let's say the deletion period expires before all recipients have signed the document. In that case, pending signature invitations will be automatically cancelled. `Learn more`_
+
+.. _Learn more: https://help.skribble.com/de/en/invitation-cancelled
+
+
 **Tip!** Before you activate the deletion period for your team members, be sure to:
 
 •	Inform them about the deletion period that applies in your company.
@@ -50,12 +57,6 @@ The new deletion period applies immediately unless you've picked a shorter perio
 
 .. NOTE::
    Documents that have been longer on Skribble than the new deletion period will be deleted the very next day. Your team members will only receive one e-mail reminder on the day of deletion.
-
-**What happens to the pending signatures?**
-
-Let's say the deletion period expires before all recipients have signed the document. In that case, pending signature invitations will be automatically cancelled. `Learn more`_
-
-.. _Learn more: https://help.skribble.com/de/en/invitation-cancelled
 
 **E-mail reminders for your team members**
 
