@@ -22,7 +22,7 @@ Whether your company signs with Skribble or is about to switch to e-signatures, 
 **Activating deletion period**
 
 .. NOTE::
-   The deletion period starts 7 days after you activate it.
+   The deletion period starts 7 days after activation. If you change an existing deletion period, the new one applies immediately.
 
 - Click **Business profile** in the lower left
     
@@ -46,7 +46,7 @@ Let's say the deletion period was already activated for some time. Now that your
 
 - Click **Save** to confirm
 
-The new deletion period starts immediately unless you've picked a shorter period (see the note below).
+The new deletion period applies immediately unless you've picked a shorter period (see the note below).
 
 .. NOTE::
    Documents that have been longer on Skribble than the new deletion period will be deleted the very next day. Your team members will only receive one e-mail reminder on the day of deletion.
