@@ -11,10 +11,10 @@ Whether your company signs with Skribble or is about to switch to e-signatures, 
 •	**all documents**, no matter whether they are signed or not – existing and new customers
 •	**completed documents**, such as signed, declined, withdrawn – selected Enterprise customers. :ref:`Learn more<completed-documents>`
 
-**How do I know which documents deletion period applies to?** Check the description in your Business profile. It tells whether all or only completed documents are affected.
+**How do I know which documents deletion period applies to?**
+Check the description in your Business profile. It tells whether all or only completed documents are affected.
 
 **What happens to the pending signatures?**
-
 Let's say the deletion period expires before all recipients have signed the document. In that case, pending signature invitations will be automatically cancelled. `Learn more`_
 
 .. _Learn more: https://help.skribble.com/de/en/invitation-cancelled
