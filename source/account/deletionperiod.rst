@@ -13,8 +13,8 @@ Depending on whether your company signs with Skribble or is about to switch to o
 
 **Good to know:** 
 
-**How do I know which documents deletion period applies to?**
-Check the description in your Business profile. It tells whether all or only completed documents are affected.
+**How do I know which documents are affected in my company?**
+Check the description in your Business profile. It tells whether all documents or only completed ones are affected.
 
 **What happens to the pending signatures if a document gets deleted?**
 Let's say the deletion period expires before all recipients have signed the document. In that case, pending signature invitations will be automatically cancelled. `Learn more`_
