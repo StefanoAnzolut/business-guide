@@ -4,7 +4,7 @@
 Setting a Document Deletion Period 🆕
 =====================================
 
-Is there a standard deletion period for documents in your company? As an admin, you can activate and set a deletion period for your team members’ documents on Skribble. After this period ends, their documents will be automatically deleted. The count starts on the day a document is uploaded to Skribble.
+Is there a standard deletion period for documents in your company? As an admin, you can activate a deletion period for your team members’ documents on Skribble. After this period ends, their documents will be automatically deleted. The count starts on the day a document is uploaded to Skribble.
 
 Depending on whether your company signs with Skribble or is about to switch to our e-signatures, the deletion period applies to one of the below cases:
 
