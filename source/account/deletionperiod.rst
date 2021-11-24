@@ -16,7 +16,7 @@ Check the description in your Business profile. It tells whether all documents o
 
 **In this article you'll also learn:**
 
-•	how to :ref:`activate the deletion period<activate-feature>` for your team
+•	how to :ref:`activate the deletion period<activating-deletion-period>` for your team
 •	what happens to pending signature invitations
 •	when e-mails reminders are sent to your team members
 
@@ -36,7 +36,7 @@ Let's say the deletion period expires before all recipients have signed the docu
 •	Inform them about the deletion period that applies in your company.
 •	Remind them to download the affected documents before they're deleted.
 
-.. _activate feature:
+.. _activating-deletion-period:
 
 **Activating deletion period**
 
