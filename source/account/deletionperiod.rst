@@ -16,11 +16,11 @@ Check the description in your `Business profile`_. It tells whether all document
 
 .. _Business profile: https://my.skribble.com/business/profile/deletion-period
 
-**In this article you'll also learn:**
+**In this article, you'll also learn:**
 
 •	how to :ref:`activate the deletion period<activating-deletion-period>` for your team
 •	what happens to :ref:`pending signatures<pending-signatures>`
-•	when :ref:`e-mail reminders<e-mail-reminders>` are sent to your team members
+•	what :ref:`e-mail reminders<e-mail-reminders>` are sent to your team members
 
 **Tip!** Before you activate the deletion period for your team members, be sure to:
 
