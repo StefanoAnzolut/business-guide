@@ -63,17 +63,17 @@ Let's say you activated the deletion period some time ago. Now that your company
    
  **Good to know**
    
-   .. _pending-signatures:
+.. _pending-signatures:
 
-•	**What happens to the pending signatures if a document gets deleted?**
+**What happens to the pending signatures if a document gets deleted?**
 
 Let's say the deletion period expires before all recipients have signed the document. In that case, pending signature invitations will be automatically cancelled. `Learn more`_
 
 .. _Learn more: https://help.skribble.com/de/en/invitation-cancelled
 
-   .. _email reminders:
+.. _email reminders:
    
-•	**E-mail reminders for your team members**
+**E-mail reminders for your team members**
 
 We'll remind your team members that their documents will be deleted:
 
