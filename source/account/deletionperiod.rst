@@ -20,7 +20,7 @@ Check the description in your `Business profile`_. It tells whether all document
 
 •	how to :ref:`activate the deletion period<activating-deletion-period>` for your team
 •	what happens to :ref:`pending signatures<pending-signatures>`
-•	when :ref:`e-mails reminders<email-reminders>` are sent to your team members
+•	when :ref:`e-mail reminders<e-mail-reminders>` are sent to your team members
 
 **Tip!** Before you activate the deletion period for your team members, be sure to:
 
@@ -71,7 +71,7 @@ Let's say the deletion period expires before all recipients have signed the docu
 
 .. _Learn more: https://help.skribble.com/de/en/invitation-cancelled
 
-.. _email reminders:
+.. _e-mail-reminders:
    
 **E-mail reminders for your team members**
 
