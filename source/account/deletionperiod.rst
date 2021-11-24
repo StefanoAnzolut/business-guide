@@ -11,6 +11,15 @@ Depending on whether your company signs with Skribble or is about to switch to o
 •	**all documents**, no matter whether they are signed or not – existing and new customers
 •	**completed documents**, such as signed, declined, withdrawn – some Enterprise customers. :ref:`Learn more<completed-documents>`
 
+**How do I know which documents are affected in my company?**
+Check the description in your Business profile. It tells whether all documents or only completed ones are affected.
+
+**In this article you'll also learn:**
+
+•	how to :ref:`activate the deletion period<activate-feature>` for your team
+•	what happens to pending signature invitations
+•	when e-mails reminders are sent to your team members
+
 **Good to know:** 
 
 **How do I know which documents are affected in my company?**
@@ -27,6 +36,7 @@ Let's say the deletion period expires before all recipients have signed the docu
 •	Inform them about the deletion period that applies in your company.
 •	Remind them to download the affected documents before they're deleted.
 
+.. _activate feature:
 
 **Activating deletion period**
 
@@ -70,10 +80,10 @@ We'll remind your team members that their documents will be deleted:
 .. NOTE::
    The information below only applies to Enterprise customers who haven’t activated the deletion period for all documents.
 
+**Deletion period for completed documents**
+
 .. _completed-documents:
 
-**Deletion period for completed documents**
-   
 The deletion period only applies to completed documents, such as signed, declined or withdrawn, if you haven't activated the deletion period for all documents. The count starts on the day a document is uploaded to Skribble.
 
 Would you like to introduce the deletion period for all documents? Write us a message at support@skribble.com.
