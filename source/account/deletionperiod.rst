@@ -17,19 +17,8 @@ Check the description in your Business profile. It tells whether all documents o
 **In this article you'll also learn:**
 
 •	how to :ref:`activate the deletion period<activating-deletion-period>` for your team
-•	what happens to pending signature invitations
-•	when e-mails reminders are sent to your team members
-
-**Good to know:** 
-
-**How do I know which documents are affected in my company?**
-Check the description in your Business profile. It tells whether all documents or only completed ones are affected.
-
-**What happens to the pending signatures if a document gets deleted?**
-Let's say the deletion period expires before all recipients have signed the document. In that case, pending signature invitations will be automatically cancelled. `Learn more`_
-
-.. _Learn more: https://help.skribble.com/de/en/invitation-cancelled
-
+•	what happens to :ref:`pending signatures<pending-signatures>`
+•	when :ref:`e-mails reminders<email-reminders>` are sent to your team members
 
 **Tip!** Before you activate the deletion period for your team members, be sure to:
 
@@ -69,8 +58,20 @@ Let's say you activated the deletion period some time ago. Now that your company
 
 .. NOTE::
    Documents that have been on Skribble longer than the new deletion period will be deleted the next day. Your team members will only receive an e-mail reminder on the day of deletion.
+   
+ **Good to know**
+   
+   .. _pending-signatures:
 
-**E-mail reminders for your team members**
+•	**What happens to the pending signatures if a document gets deleted?**
+
+Let's say the deletion period expires before all recipients have signed the document. In that case, pending signature invitations will be automatically cancelled. `Learn more`_
+
+.. _Learn more: https://help.skribble.com/de/en/invitation-cancelled
+
+   .. _email reminders:
+   
+•	**E-mail reminders for your team members**
 
 We'll remind your team members that their documents will be deleted:
 
