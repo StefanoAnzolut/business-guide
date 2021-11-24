@@ -12,7 +12,9 @@ Depending on whether your company signs with Skribble or is about to switch to o
 •	**completed documents**, such as signed, declined, withdrawn – some Enterprise customers. :ref:`Learn more<completed-documents>`
 
 **How do I know which documents are affected in my company?**
-Check the description in your Business profile. It tells whether all documents or only completed ones are affected.
+Check the description in your `Business profile`_. It tells whether all documents or only completed ones are affected.
+
+.. _Business profile: https://my.skribble.com/business/profile/deletion-period
 
 **In this article you'll also learn:**
 
