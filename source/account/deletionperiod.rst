@@ -59,13 +59,13 @@ Let's say you activated the deletion period some time ago. Now that your company
 - Click **Save** to confirm
 
 .. NOTE::
-   Documents that have been on Skribble longer than the new deletion period will be deleted the next day. Your team members will only receive an e-mail reminder on the day of deletion.
-   
- **Good to know**
+   Documents that have been on Skribble longer than the new deletion period will be deleted the next day. Your team members will only receive one e-mail reminder on the day of deletion.
+
+**Good to know**
    
 .. _pending-signatures:
 
-**What happens to the pending signatures if a document gets deleted?**
+• **What happens to the pending signatures if a document gets deleted?**
 
 Let's say the deletion period expires before all recipients have signed the document. In that case, pending signature invitations will be automatically cancelled. `Learn more`_
 
@@ -73,12 +73,14 @@ Let's say the deletion period expires before all recipients have signed the docu
 
 .. _e-mail-reminders:
    
-**E-mail reminders for your team members**
+• **E-mail reminders for your team members**
 
-We'll remind your team members that their documents will be deleted:
+We usually remind your team members that their documents are about to be deleted:
 
 • **7 days before the deletion**
 • **on the day of deletion**
+
+**Hint!** if you set the deletion period to 5 days or choose a shorter deletion period than your current one, your team members might only receive one e-mail reminder on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period.
 
 .. NOTE::
    The information below only applies to Enterprise customers who haven’t activated the deletion period for all documents.
