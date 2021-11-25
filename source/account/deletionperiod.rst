@@ -80,7 +80,7 @@ We usually remind your team members that their documents are about to be deleted
 • **7 days before the deletion**
 • **on the day of deletion**
 
-**Hint!** if you set the deletion period to 5 days or choose a shorter deletion period than your current one, your team members might only receive one e-mail reminder on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period.
+**Hint!** Let's say you set the deletion period to 5 days or choose a shorter deletion period than your current one. In that case, your team members might only receive one e-mail reminder on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period.
 
 ********************************************************************************************************************************************************************************
 
