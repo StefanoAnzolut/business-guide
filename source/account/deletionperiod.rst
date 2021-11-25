@@ -32,7 +32,7 @@ Check the description in your `Business profile`_. It tells whether all document
 **Activating deletion period**
 
 .. NOTE::
-   Are you activating the deletion period for the first time or after it has been deactivated in the past? Then it will apply after 7 days. 
+   The activation of the deletion period will take 7 days. It doesn't matter whether you activate the deletion period for the first time or reactivate it after some time.
 
 - Click **Business profile** in the lower left
     
