@@ -38,9 +38,9 @@ Check the description in your `Business profile`_. It tells whether all document
     
 - Go to **Deletion period**
 
-- Click **Activate now**
+- Click **Activate deletion period**
 
-- Choose a deletion period
+- Choose a deletion period for your team
 
 - Click **Activate** to confirm
     
@@ -97,9 +97,7 @@ Would you like to switch to the deletion period for all documents? Write us a me
 
 **Setting deletion period**
 
-You can set a deletion period that fits your company needs in a few easy steps. From your `Business profile`_:
-
-.. _Business profile: https://my.skribble.com/business/profile/
+You can set a deletion period that fits your company needs in a few easy steps. From your Business profile:
 
 - Go to **Deletion period**
 - Click on the **Pen symbol**
