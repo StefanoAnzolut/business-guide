@@ -40,7 +40,7 @@ Check the description in your `Business profile`_. It tells whether all document
 
 - Click **Activate deletion period**
 
-- Choose a deletion period for your team
+- Select the desired number of days
 
 - Click **Activate** to confirm
     
@@ -59,7 +59,7 @@ Let's say you activated the deletion period some time ago. Now that your company
 - Click **Save** to confirm
 
 .. NOTE::
-   Documents that have been on Skribble longer than the new deletion period will be deleted the next day. Your team members will only receive one e-mail reminder on the day of deletion.
+   Documents that have been on Skribble longer than the new deletion period set will be deleted the next day. Your team members will only receive one e-mail reminder on the day of deletion.
 
 **Good to know**
    
