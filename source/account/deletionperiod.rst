@@ -8,7 +8,7 @@ Is there a standard deletion period for documents in your company? As an admin, 
 
 Depending on whether your company signs with Skribble or is about to switch to our e-signature solution, the deletion period applies to one of the below cases:
 
-•	**all documents**, no matter whether they are signed or not → existing and new Business and Enterprise customers
+•	**all documents**, no matter whether signed or not → existing and new Business and Enterprise customers
 •	**completed documents** (signed, declined or withdrawn) → selected Enterprise customers (:ref:`Learn more<completed-documents>`)
 
 **How do I know which documents are affected in my company?**
