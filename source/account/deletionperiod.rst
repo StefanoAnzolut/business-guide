@@ -60,14 +60,14 @@ Let's say you activated the deletion period some time ago. Now that your company
 - Choose a new deletion period
 
 - Click **Save** to confirm
-
-.. NOTE::
-   Documents that have been on Skribble longer than the new deletion period set will be deleted the next day. Your team members will only receive one e-mail reminder on the day of deletion.
    
    
 .. image:: change-deletion-period-admin.png
     :class: with-shadow
     
+ **Shortening deletion period**
+ 
+If you shorten your current deletion period, your team members might only get 1 e-mail on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period set.
 
 **Good to know**
    
