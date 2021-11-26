@@ -65,7 +65,8 @@ Let's say you activated the deletion period some time ago. Now that your company
 .. image:: change-deletion-period-admin.png
     :class: with-shadow
     
- **Shortening deletion period**
+
+**Shortening deletion period**
  
 If you shorten your current deletion period, your team members might only get 1 e-mail on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period set.
 
