@@ -43,8 +43,8 @@ Check the description in your `Business profile`_. It tells whether all document
 - Select the desired number of days
 
 - Click **Activate** to confirm
-    
-Have you informed your team members? They may need to download the affected documents before they're deleted.
+
+- Be sure to remind your team members to download the affected documents before they're deleted
 
 **Changing deletion period**
 
