@@ -44,7 +44,12 @@ Check the description in your `Business profile`_. It tells whether all document
 
 - Click **Activate** to confirm
 
-- Be sure to remind your team members to download the affected documents before they're deleted
+- Be sure to inform your team members so they can download the affected documents if needed
+
+
+  .. image:: deletion-period-start-date.png
+    :class: with-shadow
+    
 
 **Changing deletion period**
 
