@@ -32,7 +32,7 @@ Check the description in your `Business profile`_. It tells whether all document
 **Activating deletion period**
 
 .. NOTE::
-   The activation of the deletion period will take 7 days. It doesn't matter whether you activate the deletion period for the first time or reactivate it after some time.
+   The activation of the deletion period will take 7 days. Be sure to remind your team members to download the affected documents before they're deleted.
 
 - Click **Business profile** in the lower left
     
@@ -43,8 +43,6 @@ Check the description in your `Business profile`_. It tells whether all document
 - Select the desired number of days
 
 - Click **Activate** to confirm
-
-- Be sure to inform your team members so they can download the affected documents if needed
 
 
   .. image:: deletion-period-start-date.png
@@ -65,6 +63,11 @@ Let's say you activated the deletion period some time ago. Now that your company
 
 .. NOTE::
    Documents that have been on Skribble longer than the new deletion period set will be deleted the next day. Your team members will only receive one e-mail reminder on the day of deletion.
+   
+   
+     .. image:: change-deletion-period-admin.png
+    :class: with-shadow
+    
 
 **Good to know**
    
