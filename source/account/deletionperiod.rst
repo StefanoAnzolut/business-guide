@@ -51,8 +51,6 @@ Check the description in your `Business profile`_. It tells whether all document
 
 **Changing deletion period**
 
-From your Business profile:
-
 - Go to **Deletion period**
     
 - Click on the **Pen symbol**
@@ -89,30 +87,29 @@ We usually remind your team members that their documents are about to be deleted
 • **7 days before the deletion**
 • **on the day of deletion**
 
-**Hint!** Let's say you set the deletion period to 5 days or choose a shorter deletion period than your current one. In that case, your team members might only receive one e-mail reminder on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period.
+**Hint!** Let's say you set the deletion period to 5 days or choose a shorter deletion period than your current one. In that case, your team members might only get one e-mail reminder on the day of deletion. This will apply to documents that have been on Skribble longer than the new deletion period.
 
 **Questions or need a hand?** Write us a message at `support@skribble.com`_. We'll be happy to help.
    
    .. _support@skribble.com: support@skribble.com
 
 
-**********************   **********************   **********************
+**********************   **********************   **********************   **********************   **********************
 
 .. NOTE::
-   The information below only applies to Enterprise customers who haven’t activated the deletion period for all documents.
+   The information below applies to Enterprise customers who haven’t activated the deletion period for all documents.
    
 **Deletion period for completed documents**
 
 .. _completed-documents:
 
-If you haven't activated the deletion period for all documents, it only applies to completed (signed, declined or withdrawn) documents.
-
-Would you like to switch to the deletion period for all documents? Write us a message at support@skribble.com.
+If you haven't activated the deletion period for all documents, it only applies to completed (signed, declined or withdrawn) documents. Would you like to switch to the deletion period for all documents? Write us a message at support@skribble.com.
 
 **Setting deletion period**
 
-You can set a deletion period that fits your company needs in a few easy steps. From your Business profile:
+You can set a document deletion period that fits your company needs in a few steps.
 
+- Click on **Business profile** in the lower left
 - Go to **Deletion period**
 - Click on the **Pen symbol**
 - Choose a new deletion period
