@@ -40,7 +40,7 @@ If you aren't authorised to sign these documents, please send them to the author
 
 - GlobalSign will contact you to verify your company details and whether you have full control of your company domain. This process might take a few more days. 
 
-**You must reply to GlobalSign to prove that you fully control your domain.** If you don't respond, we won't be able to start setting up AES for Business.
+**You must reply to GlobalSign to prove that you fully control your domain.** If you don't, we won't be able to start setting up AES for Business.
 
 - After GlobalSign has successfully verified your company details, we'll carry out the setup
 
