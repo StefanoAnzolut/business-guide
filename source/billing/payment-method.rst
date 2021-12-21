@@ -3,21 +3,17 @@
 =======================
 Updating Payment Method
 =======================
- 
- 
-.. NOTE::
-   Your credit card can be updated or replaced, but not removed. 
-   
+
+You'll need a credit card to set up Skribble Business for your company. However, if you don't have a company credit card, you can also pay by invoice. Get in touch with our support team at support@skribble.com to set this up.
    
 To update your credit card information:
 
-- Go to your **Business profile** if you’re not already there
+- Go to your **Business profile**
 
 - Click **Billing** 
 
 - Navigate to **Payment method**
 
-- Click the **pencil icon** to update the information
+- Click the **pencil icon** to update your credit card
 
 - Then click **Update** to confirm changes
-

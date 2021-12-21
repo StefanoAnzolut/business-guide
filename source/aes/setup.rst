@@ -40,7 +40,7 @@ If you aren't authorised to sign these documents, please send them to the author
 
 - GlobalSign will contact you to verify your company details and whether you have full control of your company domain. This process might take a few more days. 
 
-**You must reply to GlobalSign to prove that you fully control your domain.** If you don't respond, we won't be able to start setting up AES for Business.
+**You must reply to GlobalSign to prove that you fully control your domain.** If you don't, we won't be able to start setting up AES for Business.
 
 - After GlobalSign has successfully verified your company details, we'll carry out the setup
 
@@ -48,3 +48,7 @@ If you aren't authorised to sign these documents, please send them to the author
 
 - Once you've successfully signed it, AES for Business will be available to your Skribble Business members
 
+Cancelling AES for Business
+---------------------------
+
+Would you like to cancel AES for Business? Contact our support team at support@skribble.com, and we'll take care of it.
