@@ -14,6 +14,6 @@ You can change the credit card details associated with your Skribble Business in
 
 - Click the **pencil icon** to update your credit card
 
-- Then click **Update** to confirm changes
+- Then click **Update** to save changes
 
 Questions or need help? Get in touch with our support team at support@skribble.com.
