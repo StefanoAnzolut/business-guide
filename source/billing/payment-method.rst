@@ -4,7 +4,7 @@
 Updating Payment Method
 =======================
 
-You'll need a credit card to set up Skribble Business for your company. However, if you don't have a business credit card, please get in touch with our support team at support@skribble.com. We'll change the payment method for your business so you can pay by invoice.
+You'll need a credit card to set up Skribble Business for your company. However, if you don't have a business credit card, you can pay by invoice. Get in touch with our support team at support@skribble.com to set this up.
 
 .. NOTE::
    You can update your credit card but not remove it. 
