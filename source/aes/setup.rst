@@ -48,3 +48,7 @@ If you aren't authorised to sign these documents, please send them to the author
 
 - Once you've successfully signed it, AES for Business will be available to your Skribble Business members
 
+Cancelling AES for Business
+---------------------------
+
+Would you like to cancel AES for Business? Contact our support team at support@skribble.com, and we'll take care of it.
