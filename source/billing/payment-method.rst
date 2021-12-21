@@ -4,7 +4,7 @@
 Updating Payment Method
 =======================
    
-To update your credit card information:
+To update your credit card details:
 
 - Go to your **Business profile**
 
