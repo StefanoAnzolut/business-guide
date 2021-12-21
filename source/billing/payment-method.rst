@@ -6,11 +6,11 @@ Updating Payment Method
    
 You can change the credit card details associated with your Skribble Business in your Business profile. Here's how it works:
 
-- Select **Business profile** in the lower left
+- Click **Business profile** in the lower left
 
 - Go to **Billing**
 
-- Navigate to **Payment method**
+- Then go to **Payment method**
 
 - Click the **pencil icon** to update your credit card
 
