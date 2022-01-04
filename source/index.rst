@@ -40,6 +40,7 @@ This guide is intended to help company administrators set up and manage Skribble
    :caption: Managing Members:
 
    members/adding
+   members/searching
    members/removing
    members/assignadmin
    members/revokeadmin
