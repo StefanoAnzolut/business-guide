@@ -28,7 +28,7 @@ Adding members by domain
 We'll activate your domain once we've checked that it belongs to your company. You'll find the current status of the added domain next to its name:
 
   •	**Activated** — your domain is active
-  •	**Requested** — we'll need to check the domain manually (**this can take up to 48 hours**)
+  •	**Requested** — Requested — we’ll check your domain manually, which can take up to 48 hours
   
 We'll inform you by e-mail once it's done.
   
