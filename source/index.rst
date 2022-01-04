@@ -19,7 +19,6 @@ This guide is intended to help company administrators set up and manage Skribble
    quickstart/upgrade
    quickstart/cancel
    quickstart/onboard
-   quickstart/members
 
 
 .. toctree::
