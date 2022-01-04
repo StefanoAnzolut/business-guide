@@ -57,3 +57,14 @@
   to = "/business-admin/quickstart/cancel.html"
   status = 302
   
+    [[redirects]]
+  from = "/business-admin/quickstart/members"
+  to = "/business-admin/members/adding.html"
+  status = 302
+  
+      [[redirects]]
+  from = "/business-admin/quickstart/members.html"
+  to = "/business-admin/members/adding.html"
+  status = 302
+  
+  
