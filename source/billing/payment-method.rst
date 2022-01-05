@@ -4,11 +4,15 @@
 Updating Payment Method
 =======================
    
-You can change the credit card details associated with your Skribble Business in your Business profile. Here's how it works:
+You’ll need a credit card to set up Skribble Business for your company. We won't charge it during the free 30-day trial. You can switch to paying by invoice after the trial period. To set this up, get in touch with our support team at support@skribble.com **before** the trial ends.
 
-- Click **Business profile** in the lower left
+To update your credit card details:
 
-- Go to **Billing**
+- Click **Skribble Business** in the lower left 
+
+- Go to **Business profile**
+
+- Click **Billing**
 
 - Then go to **Payment method**
 
@@ -16,4 +20,3 @@ You can change the credit card details associated with your Skribble Business in
 
 - Then click **Update** to save changes
 
-Questions or need help? Get in touch with our support team at support@skribble.com.
