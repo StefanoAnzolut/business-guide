@@ -1,8 +1,8 @@
 .. _billing-payment-method:
 
-=======================
-Updating Payment Method
-=======================
+=============================
+Updating Credit Cards Details
+=============================
    
 You’ll need a credit card to set up Skribble Business for your company. We won't charge it during the free 30-day trial.
 
