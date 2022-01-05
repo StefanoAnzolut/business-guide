@@ -1,16 +1,17 @@
 .. _invoice-contact:
 
-==============================
-Changing Billing Email Address
-==============================
+===============================
+Changing Billing E-mail Address
+===============================
 
-Invoices are sent to the e-mail contact in your Business profile. 
+We'll send invoices to the e-mail address indicated in your Business profile. To change this e-mail address:
 
-To change the contact for invoices:
+- Click **Skribble Business** in the lower left 
 
-- Go to **Business profile**
+- Then go to **Business profile**
 
-- Click the pencil icon on the right of the e-mail field
+- Click the **pencil icon** next to **E-mail**
 
-- Enter the new e-mail address and click **Save**
+- Enter the **new e-mail address**
 
+- Click **Save** to confirm
