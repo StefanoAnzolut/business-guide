@@ -10,7 +10,7 @@ We'll send invoices to the e-mail address indicated in your Business profile. To
 
 - Then go to **Business profile**
 
-- Click the **pencil icon** next to **e-mail**
+- Click the **pencil icon** next to **E-mail**
 
 - Enter the **new e-mail address**
 
