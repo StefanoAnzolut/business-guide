@@ -1,13 +1,13 @@
 .. _billing-payment-method:
 
-====================
-Updating Credit Card
-====================
+=======================
+Updating Payment Method
+=======================
    
 You’ll need a credit card to set up Skribble Business for your company. We won't charge it during the free 30-day trial.
 
 .. NOTE::
-  You can switch to paying by invoice after the trial period. To set this up, get in touch with our support team at support@skribble.com **before** the trial ends.
+  If you want to pay by invoice after the free trial, get in touch with our support team at support@skribble.com. However, we only recommend this if you're sure you'll be using Skribble long-term, as switching to invoice is done manually.
 
 To update your credit card details:
 
