@@ -19,9 +19,7 @@ Here’s how to download a signature protocol:
 
 **Understanding signature protocol**
 
-What information you see in the protocol depends on whether a signature invitation was created on our platform or directly from your tools, or the e-signature standard used, and other factors.
-
-The information below should help you understand signature protocols.
+What information you see in the protocol depends on whether a signature invitation was created on our platform or directly from your tools, or the e-signature standard used, and other factors. The information below should help you understand signature protocols.
 
 •	**Document title**
 •	**Signature invitation ID**
@@ -31,6 +29,7 @@ The information below should help you understand signature protocols.
       • *Signed* – all recipients finished signing the document
       • *Declined* – one of the recipients declined to sign the document
       • *Withdrawn* – the person inviting to sign has withdrawn the invitation
+      
 •	**Participants and their details**
 Participants are all recipients of a signature invitation, including observers who aren't signing themselves and API users. You'll see their name, e-mail address, phone number, user ID, and business they belong to.
 •  **Activity details** (such as date, time, and IP address)
