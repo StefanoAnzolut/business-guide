@@ -32,6 +32,7 @@ What information you see in the protocol depends on whether a signature invitati
       
 •	**Participants and their details**
 Participants are all recipients of a signature invitation, including observers who aren't signing themselves and API users. You'll see their name, e-mail address, phone number, user ID, and business they belong to.
+
 •  **Activity details** (such as date, time, and IP address)
 You'll see when a document, signature or signature protocol was: created, viewed, updated, signed, assigned, declined, withdrawn, downloaded.
 •	**Observers**
