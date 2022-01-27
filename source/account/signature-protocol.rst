@@ -25,14 +25,12 @@ What information you see in the protocol depends on whether a signature invitati
 - **Signature invitation ID**
 - **Number of signatures**
 - **Document and signature invitation status**
-      • *Open* – some signatures are still pending
-      • *Signed* – all recipients finished signing the document
-      • *Declined* – one of the recipients declined to sign the document
-      • *Withdrawn* – the person inviting to sign has withdrawn the invitation
-      
+      • Open – some signatures are still pending
+      • Signed – all recipients finished signing the document
+      • Declined – one of the recipients declined to sign the document
+      • Withdrawn – the person inviting to sign has withdrawn the invitation
 - **Participants and their details**
 Participants are all recipients of a signature invitation, including observers who aren't signing themselves and API users. You'll see their name, e-mail address, phone number, user ID, and business they belong to.
-
 - **Activity details** (such as date, time, and IP address)
 You'll see when a document, signature or signature protocol was: created, viewed, updated, signed, assigned, declined, withdrawn, downloaded.
 - **Observers**
