@@ -30,13 +30,15 @@ What information you see in the protocol depends on whether a signature invitati
       • Declined – one of the recipients declined to sign the document
       • Withdrawn – the person inviting to sign has withdrawn the invitation
 - **Participants and their details**
-Participants are all recipients of a signature invitation, including observers who aren't signing themselves and API users. You'll see their name, e-mail address, phone number, user ID, and business they belong to.
 - **Activity details** (such as date, time, and IP address)
 You'll see when a document, signature or signature protocol was: created, viewed, updated, signed, assigned, declined, withdrawn, downloaded.
+
 - **Observers**
 Added or removed observers of a signature invitation
+
 - **Visual signature**
 If your company is using electronic seals, you'll see their visual representatiom in the protocol instead of a visual signature.
+
 - **Signature ID**
 - **E-signature standard used**
       • Simple electronic signature (SES)
