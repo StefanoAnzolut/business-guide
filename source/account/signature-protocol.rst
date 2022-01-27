@@ -7,7 +7,7 @@ Downloading Signature Protocol 🆕
 .. NOTE::
    This feature is only available to Skribble Enterprise customers.
 
-Think of a signature protocol as a history of the recipients' activities of a signature invitation. Need to know who viewed or signed the document with which e-signature standard or who declined to sign? Instead of logging into your account every time to check the information for each document one by one, you can download the signature protocol as a PDF and file it with the signed copy. This comes in handy for your compliance team or anyone else on your team if they ever need this information.
+Think of a signature protocol as a history of the recipients' activities of a signature invitation. Need to know who viewed or signed the document with which e-signature standard or who declined to sign? Instead of logging into your account to check the information for each document one by one, you can download the signature protocol as a PDF and file it with the signed copy. This comes in handy for your compliance team or anyone else on your team if they ever need this information.
 
 Here’s how to download a signature protocol:
 
@@ -44,7 +44,7 @@ Added or removed observers of a signature invitation
 
 - **Visual signature**
 
-If your company is using electronic seals, you'll see their visual representatiom in the protocol instead of a visual signature.
+If your company uses electronic seals, you'll see their visual representation in the protocol instead of a visual signature.
 
 - **Signature ID**
 
@@ -55,10 +55,10 @@ If your company is using electronic seals, you'll see their visual representatio
       
 - **Legislation**
       • eIDAS for European law
-      • ZertES for Swiss law)
+      • ZertES for Swiss law
       
 - **Digital certificate details**
 
-This includes certificate subject, issuer, serial number, and pseudonym.
+This includes certificate subject, issuer, and serial number.
 
 
