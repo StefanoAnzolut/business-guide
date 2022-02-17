@@ -60,17 +60,11 @@ We'll send you a confirmation link by e-mail to make sure we got your e-mail add
 Already have an account? This is how it works.
 ----------------------------------------------
 
-If you already have a Skribble account with your **business email address**, you can set up Skribble Business for your company directly from your account. This will make you the admin. You can add more admins later if you need.
+If you already have a Skribble account with your **business e-mail address**, you can set up Skribble Business for your company directly from your account. This will make you the admin. You can add more admins later if you need.
 
-- Click **Billing** on the left in your Skribble account
+- Click **My plan**, then **Plan details**
 
-- Navigate to **Skribble Business** and click **Test for free**
-
-
-.. image:: step2_setup_biz_trial2.png
-    :alt: pointer to menu button
-    :class: with-shadow
-    
+- Navigate to **Skribble Business** and click **Start your free 30-day trial**
 
 - Enter the exact **company name** and read our **General Terms & Conditions**
 
