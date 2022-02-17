@@ -66,12 +66,6 @@ If you already have a Skribble account with your **business e-mail address**, yo
 
 - Navigate to **Skribble Business** and click **Start your free 30-day trial**
 
-
-.. image:: step2_setup_biz_trial2.png
-    :alt: pointer to menu button
-    :class: with-shadow
-    
-
 - Enter the exact **company name** and read our **General Terms & Conditions**
 
 - Check the box and click **Next** if you agree with the terms
