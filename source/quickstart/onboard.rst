@@ -34,7 +34,7 @@ Your team members will need a mobile number or a verified company e-mail address
 
   - **Mobile phone number**
   
-Anyone with a mobile phone number can sign immediately with AES.
+Anyone with a mobile phone number can sign with AES without any further identification.
 
  - **Verified company e-mail address**
   
