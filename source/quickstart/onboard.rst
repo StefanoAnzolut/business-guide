@@ -20,7 +20,7 @@ You can add your team members by:
 
 - **Having team members’ identities verified**
 
-To sign documents electronically, employees in your company will need to have their identities verified. Skribble offers various identification options depending on your individual use case and the e-signature standard (or legal weight) required.
+To sign documents electronically, employees in your company will need to verify their identities. Skribble offers various identification options depending on your individual use case and the e-signature standard required.
 
 .. NOTE::
    You might find it helpful to consult our `e-signature standards page`_ for more information.
@@ -34,9 +34,9 @@ To sign with AES, employees in your company will need a mobile number or company
 
  - **Company e-mail address**
   
-By registering your company domain with Skribble, you will enable your entire company to sign with AES. Anyone who signs up with Skribble using an e-mail address of your company and is a member of your Skribble Business will be able to sign immediately with AES. More information on AES for Business available at `skribble.com`_.
+Registering your company domain with Skribble will enable your entire company to sign with AES. Anyone who creates a Skribble account using an e-mail address of your company and is a member of your Skribble Business will be able to sign with AES. `Learn more about AES for Business`_.
 
-   .. _skribble.com: https://www.skribble.com/identification/aes-for-business/
+   .. _Learn more about AES for Business: https://docs.skribble.com/business-admin/aes/setup.html
 
   - **Mobile phone number**
   
@@ -56,13 +56,13 @@ To enable your team members to sign documents electronically with QES, you can c
    
 Two options are available:
 
-- Anyone can make an appointment at one of our locations to have their identity verified.
+- Anyone can make an appointment at one of our locations to verify their identity.
 
 - To verify a stable team, our staff can come to your office and train one person who can then verify everyone else in your team.
 
-Do you plan to add new employees to your Skribble Business regularly? In this case, we recommend a one-time training for one employee in your company. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more on how it works`_.
+Do you plan to add new employees to your Skribble Business regularly? We recommend a one-time training for one employee in your company in this case. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more about how it works`_.
 
- .. _Learn more on how it works: https://www.skribble.com/identification/
+ .. _Learn more about how it works: https://www.skribble.com/identification/
 
 - **Via video call** (available for signing according to EU law only)
 
@@ -74,10 +74,10 @@ After successful identity verification, your team members will be ready to sign 
 
 
 .. NOTE::
-   Video identification is only permitted for signing with qualified electronic signature (QES) according to EU law. If you want to sign with QES according to Swiss law, you'll need to go through a `personal verification offered at various locations`_ in Switzerland.
+   Video identification is only permitted for signing with the qualified electronic signature (QES) under EU law. If you want to sign with QES under Swiss law, you'll need to go through a `personal verification offered at various locations`_ in Switzerland.
 
  .. _personal verification offered at various locations: https://trustservices.swisscom.com/en/srs-direct/
 
-Not sure what identification option is suitable for your company or need assistance with adding your team members to Skribble Business? Get in touch with our support team at `support@skribble.com`_. We'll be happy to assist you in finding the right solution.
+Not sure what identification option is suitable for your company or need help adding your team members to Skribble Business? Get in touch with our support team at `support@skribble.com`_. We'll be happy to help you in finding the right solution.
 
  .. _support@skribble.com: support@skribble.com
