@@ -20,7 +20,7 @@ You can add your team members by:
 
 - **Having team members’ identities verified**
 
-To sign documents electronically, your team members will need to verify their identities. Skribble offers various identification methods depending on your individual use case and the e-signature standard required.
+Your team members will need to verify their identities to sign documents electronically. Skribble offers various identification methods depending on your individual use case and the e-signature standard required.
 
 .. NOTE::
    You might find our `e-signature standards page`_ helpful.
@@ -30,7 +30,7 @@ To sign documents electronically, your team members will need to verify their id
    
 **Advanced electronic signature (AES)**
 
-To sign with AES, your team members will need a mobile number or a verfied company e-mail address.
+Your team members will need a mobile number or a verified company e-mail address to sign with AES.
 
   - **Mobile phone number**
   
