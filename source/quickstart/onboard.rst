@@ -45,20 +45,20 @@ Anyone with a mobile phone number can sign immediately with AES.
    
 **Qualified electronic signature (QES)**
 
-To enable your team members to sign documents electronically with QES, you can choose between `face-to-face identification`_ or online via `video call`_ (for signing according to EU law).
+To sign documents with the QES, your team members can choose between `face-to-face`_ or identification via `video call`_ (for signing according to EU law).
    
-   .. _face-to-face identification: https://www.skribble.com/identification/
+   .. _face-to-face: https://www.skribble.com/identification/
    
    .. _video call: https://www.videoident.me/ch/de/
    
    
 - **Face-to-face**
    
-Two options are available:
+You can choose between 2 options:
 
 - Anyone can make an appointment at one of our locations to verify their identity.
 
-- To verify a stable team, our staff can come to your office and train one person who can then verify everyone else in your team.
+- To verify your entire team, our staff can come to your office and train one person. They can then verify everyone else in your team. 
 
 Do you plan to add new employees to your Skribble Business regularly? We recommend a one-time training for one employee in your company in this case. After the training, this employee will be able to verify the identity of other employees, customers, or even suppliers independently using the ID app of Swisscom. `Learn more about how it works`_.
 
