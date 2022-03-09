@@ -32,11 +32,8 @@ Creating an API key
     :class: with-shadow
     
 
-- In the next step, you can view the API key (your password) and your username.
-
-
-.. NOTE::
-  The API key is your password and should be stored in a safe place. Unfortunately, we won't be able to recover it after you close the window.
+- You can view the API key (your password) and your username in the next step
+Be sure to store your password safely. Unfortunately, we won’t be able to recover it after you close the window.
 
 
 .. image:: create_api_keys_step3_success_close.png
