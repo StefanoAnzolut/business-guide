@@ -24,8 +24,9 @@ Creating an API key
 
 
 You can choose between 2 types of keys:
-  - **Demo API keys** are for testing and development purposes. Signatures requested by such keys don't have any legal weight and are free of charge. The signing process works without 2FA.
-  - **Production API keys** are used for live systems. Signatures requested by such keys will be invoiced. All costs of signature requests created with your API key will be charged to your company. 
+
+•	**Demo API keys** are for testing and development purposes. Signatures requested by such keys don't have any legal weight and are free of charge. The signing process works without 2FA.
+•	**Production API keys** are used for live systems. Signatures requested by such keys will be invoiced. All costs of signature requests created with your API key will be charged to your company. 
 
 - Select the key you need
 
@@ -56,11 +57,11 @@ You can add an API key description and reset or delete an API key. To do so:
 
 - Click the gearwheel icon on the right of the key, and a window with 3 options will open:
 
-  - **Add description**
+•	**Add description**
 If your company has several API keys in use, a short and meaningful description will work best. Think of what the keys is being used for or for what tool, when adding a description. Example: Testing OneDrive integration
-  - **Reset API key**
+•	**Reset API key**
 Resetting is irreversible and will disable all the existing integrations with this key until the new API key is in place. Clicking **Reset API key** will generate a new key.
-  - **Delete API key**
+•	**Delete API key**
 Deleting will remove all existing integrations irreversibly.
 
 
