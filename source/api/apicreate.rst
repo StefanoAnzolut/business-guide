@@ -31,9 +31,6 @@ You can choose between 2 types of keys:
 
 - Add an API key description (optional)
 
-If your company has several API keys in use, a short and meaningful description will work best. Think of what the keys is being used for or for what tool, when adding a description. Example: Testing OneDrive integration
-
-
 .. image:: create_api_key.png
     :class: with-shadow
 
@@ -50,23 +47,27 @@ In the next step, you can view the API key (this is your password) along with yo
 
 
 
-Resetting or deleting an API key
---------------------------------
+Managing API keys
+-----------------
 
-To reset or delete an API key:
+You can add an API key description and reset or delete an API key. To do so:
 
 - Go to **API keys**
 
-- Clicking the three vertical dots next to the API key will open a window with two options:
+- Click the gearwheel icon on the right of the key, and a window with 3 options will open:
 
-  - **Resetting the API key** is irreversible and will disable all the existing integrations with this key until the new API key is in place. Clicking **Reset API key** will generate a new key.
-  - **Deleting the API key** will remove all existing integrations irreversibly.
+  - **Add description**
+If your company has several API keys in use, a short and meaningful description will work best. Think of what the keys is being used for or for what tool, when adding a description. Example: Testing OneDrive integration
+  - **Reset API key**
+Resetting is irreversible and will disable all the existing integrations with this key until the new API key is in place. Clicking **Reset API key** will generate a new key.
+  - **Delete API key**
+Deleting will remove all existing integrations irreversibly.
 
 
-.. image:: reset_or_delete_api_key.png
+.. image:: manage_api_key.png
     :class: with-shadow
 
 
-Need help with generating or managing your API keys? Drop us an e-mail at `support@skribble.com`_.  
+Need help with generating or managing your API keys? Drop us an e-mail at `support@skribble.com`_. 
 
   .. _support@skribble.com: support@skribble.com
