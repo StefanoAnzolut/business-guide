@@ -1,13 +1,13 @@
 .. _account-signatureusage:
 
-==================================
-Downloading Signature Usage Report
-==================================
+========================
+Tracking signature usage
+========================
   
-As an admin, you can download a monthly signature usage report as CSV for more cost transparency. Signature reports help keep track of signatures made by your Skribble Business members and people they invite to sign.
+As an admin, you can download a monthly signature usage report as CSV for more cost transparency. In addition, signature reports help keep track of signatures made by your Skribble Business members and people they invite to sign.
   
 .. NOTE::
-  Signature report shows all Skribble Business members regardless of whether they've signed or not.
+  Signature reports show all Skribble Business members regardless of whether they've signed or not.
   
 To download the report:
 
