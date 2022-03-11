@@ -33,11 +33,11 @@ To download the report:
 
 The CSV document will contain the following information:
   - **User** – member's e-mail address (incl. API users)
-  - **Cost center** –  cost center within your organisation (available only to Skribble Enterprise customers with an active single sign-on). If not specified, this column will be left empty.
+  - **Cost center** – cost center within your organisation (available on request to Business and Enterprise customers with an active single sign-on). If not specified, this column will be left empty.
   - **Self SES, AES and QES** – number of signatures made by your members, where eIDAS stands for EU law and ZertES for Swiss law
   - **Invited SES, AES and QES** – number of signatures made by people who were invited to sign by your members, where eIDAS stands for EU law and ZertES for Swiss law
   - **Total** – number of signatures made by your members and people they've invited to sign
 
 .. NOTE::
-  Would you like to assign a cost center to a member of your business and display it in a CSV? Please contact our team at support@skribble.com. We'll be happy to help.
+  Would you like to assign a cost center to a member of your business and display it in a CSV? Get in touch with our team at support@skribble.com. We'll be happy to help.
   
