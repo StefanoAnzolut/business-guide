@@ -4,41 +4,37 @@
 Creating and Managing API Keys
 ==============================
 
-As a company, you can integrate Skribble with your existing infrastructure (e.g. CRM or SAP) via API. The API connection enables employees in your company to request and manage electronic signatures and documents directly from the systems they already use. They can invite external stakeholders or contracting parties to sign documents without creating a Skribble account. 
+Skribble integrates with your existing tools, such as OneDrive, SharePoint, Google Drive or your industry solution. Once integrated, your team members can sign and get documents signed from their favourite tools. They can also invite external stakeholders to sign documents without creating a Skribble account.   
 
-As a Skribble Business admin, you can generate and manage API keys for your company.  
-
-For more information on using API keys, please visit our `API documentation`_.
+For more information on integrating Skribble, please visit our `API documentation`_.
 
   .. _API documentation: https://api-doc.skribble.com/
   
+As an admin, you can generate and manage API keys for your company.
   
 Creating an API key
 -------------------
 
-- Navigate to **API keys** if you aren't already there and click **Create API key** at the top right
+- From your Business profile, go to **API keys** and click **Create API key** at the top right
+
+- You can choose between 2 types of keys:
+
+    •	**Demo API keys** are for testing and development purposes. Signatures requested by such keys don't have any legal weight and are free of charge. The signing process works without 2FA.
+
+    •	**Production API keys** are used for live systems. Signatures requested by such keys will be invoiced. All costs of signature requests created with your API key will be charged to your company.
+
+- Select the key you need
+
+- Add an API key description (optional)
 
 
-.. image:: API_keys_step1_create.png
+.. image:: create_api_key.png
     :class: with-shadow
+    
 
+- You can view the API key (your password) and your username in the next step
 
-You'll be able to choose between two types of keys:
-  - **Demo API keys** are for testing and development purposes. Signatures requested by such keys don't have any legal weight and are free of charge. The signing process works without 2FA.
-  - **Production API keys** are used for live systems. Signatures requested by such keys will be invoiced. All costs of signature requests created with your API key will be charged to your business. 
-
-- Select the key you want to create and click **Create API key**
-
-
-.. image:: Create_API_key_step2.png
-    :class: with-shadow
-
-
-In the next step, you will be able to view the API key (this is your password) along with your username.
-
-
-.. NOTE::
-  Please note that the API key is your password and should be stored in a safe place. Skribble won't be able to recover it after you've closed the window.
+- Be sure to store your password safely. Unfortunately, we won’t be able to recover it after you close the window.
 
 
 .. image:: create_api_keys_step3_success_close.png
@@ -46,27 +42,26 @@ In the next step, you will be able to view the API key (this is your password) a
 
 
 
-Resetting or deleting an API key
---------------------------------
+Managing API keys
+-----------------
 
-As a Skribble Business admin, you can reset or delete the existing API keys.
+You can add an API key description and reset or delete an API key. To do so:
 
-- Navigate to **API keys** if you aren't already there 
+- Go to **API keys**
+
+- Click the gearwheel icon on the right of the key, and a window with 3 options will open:
+
+    •	**Add description**: A short and meaningful description works best if your company has several API keys in use. When adding a description, think of what the key is used for or what tool. **Example:** Testing OneDrive integration
+
+    •	**Reset API key**: Resetting is irreversible and will disable all the existing integrations with this key until the new API key is in place. Clicking **Reset API key** will generate a new key.
+
+    •	**Delete API key**: Deleting will remove all existing integrations irreversibly.
 
 
-.. image:: manage_api_key_step1.png
+.. image:: manage_api_key.png
     :class: with-shadow
 
 
-Clicking the three vertical dots next to the API key will open a window with two options:
-  - **Resetting the API key** is irreversible and will disable all the existing integrations with this key until the new API key is in place. Clicking **Reset API key** will generate a new key.
-  - **Deleting the API key** will remove all existing integrations irreversibly.
-
-
-.. image:: reset_or_delete_api_key.png
-    :class: with-shadow
-
-
-If you have problems generating or managing your API keys just drop us an e-mail at `support@skribble.com`_.  
+Need help with generating or managing your API keys? Drop us an e-mail at `support@skribble.com`_. 
 
   .. _support@skribble.com: support@skribble.com
