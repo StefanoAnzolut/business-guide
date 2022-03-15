@@ -51,7 +51,7 @@ You can add an API key description and reset or delete an API key. To do so:
 
 - Click the gearwheel icon on the right of the key, and a window with 3 options will open:
 
-    •	**Add description**: A short and meaningful description will work best if your company has several API keys in use. When adding a description, think of what the key is used for or what tool. **Example:** Testing OneDrive integration
+    •	**Add description**: A short and meaningful description works best if your company has several API keys in use. When adding a description, think of what the key is used for or what tool. **Example:** Testing OneDrive integration
 
     •	**Reset API key**: Resetting is irreversible and will disable all the existing integrations with this key until the new API key is in place. Clicking **Reset API key** will generate a new key.
 
