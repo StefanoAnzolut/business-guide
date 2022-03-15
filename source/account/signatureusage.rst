@@ -22,7 +22,7 @@ To download the report:
     :class: with-shadow
 
 
-- Open the CSV document
+- Open the CSV document (feel free to convert it to the format that suits you best)
 
 
 .. image:: signature_usage_sample_company.png
@@ -32,10 +32,10 @@ To download the report:
 **Understanding the signature report**
 
 The CSV document will contain the following information:
-  - **User** – member's e-mail address, uncluding members who sign directly from OneDrive, Google Drive or SharePoint
+  - **User** – member's e-mail address, including members who sign directly from OneDrive, Google Drive or SharePoint
   - **Cost center** – cost center within your organisation (available on request to Business and Enterprise customers with an active single sign-on). If not specified, this column will be left empty.
   - **Self SES, AES and QES** – number of signatures made by your members, where eIDAS stands for EU law and ZertES for Swiss law
-  - **Invited SES, AES and QES** – number of signatures made by people who were invited to sign by your members, where eIDAS stands for EU law and ZertES for Swiss law
+  - **Invited SES, AES and QES** – number of signatures made by people invited to sign by your members, where eIDAS stands for EU law and ZertES for Swiss law
   - **Total** – number of signatures made by your members and people they've invited to sign
 
 .. NOTE::
