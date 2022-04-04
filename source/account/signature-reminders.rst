@@ -27,6 +27,6 @@ To activate signature reminders for your Skribble Business members:
 
 
 .. NOTE::
-  Is there a `document deletion period`_ set for your team? Keep in mind that we’ll send no reminders for deleted documents. Let’s say the deletion period is 5 days. If you choose to send signature reminders every 3 days, we’ll only send 1 reminder. 
+  Is there a document deletion period set for your team? Keep in mind that we’ll send no reminders for deleted documents. Let’s say the deletion period is 5 days. If you choose to send signature reminders every 3 days, we’ll only send 1 reminder.
   
-.. _document deletion period:ttps://my.skribble.com/business/profile/deletion-period
+  
