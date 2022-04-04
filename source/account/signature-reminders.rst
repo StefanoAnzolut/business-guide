@@ -7,7 +7,7 @@ Signature Reminders
 Your team no longer needs to follow up on pending signatures. As an admin, you can activate signature reminders for them, and we’ll send them by e-mail to everyone who hasn’t signed. Be sure to inform your team before activating signature reminders.
   
 .. NOTE::
-  We’ll start counting on the day the document is uploaded and not the day the signature invitation is sent.
+  We’ll start counting on the day the document is uploaded, not the day the signature invitation is sent.
   
 To activate signature reminders for your Skribble Business members:
 
@@ -17,5 +17,13 @@ To activate signature reminders for your Skribble Business members:
 
 - Choose **how often** reminders should be sent, and click **Save** to confirm
 
+- **Example:** Let’s say you want to send a signature reminder weekly. Here is how it works:
+
+•	1st reminder – 7 days after the document is uploaded
+•	2nd reminder – 14 days after the document is uploaded
+•	3rd reminder – 21 days after the document is uploaded, and so on.
+
+
 .. NOTE::
   Is there a document deletion period set for your team? Keep in mind that no reminders are sent for deleted documents. Let’s say the deletion period is set to 5 days. If you choose to send signature reminders every 3 days, only 1 reminder is sent.
+
