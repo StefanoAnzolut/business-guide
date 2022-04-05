@@ -17,7 +17,7 @@ To activate signature reminders for your Skribble Business members:
 
 - Go to **Signature reminders** and click **Get started**
 
-- Choose the **frequency** and click **Save** to confirm
+- Choose the **frequency** and click **Activate** to confirm
 
 
 .. image:: signature_reminders.png
