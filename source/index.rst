@@ -30,6 +30,7 @@ This guide is intended to help company administrators set up and manage Skribble
    account/inhouse-support
    account/branding
    account/deletionperiod
+   account/signature-reminders
    account/visualsignature
    account/signature-protocol
    account/seals
