@@ -9,7 +9,7 @@ Your team no longer needs to follow up on pending signatures manually. Instead, 
 .. _activate signature reminders: https://skribble.com/business/profile/signature-reminders
   
 .. NOTE::
-  We’ll start counting the day the document is uploaded, not the day the signature invitation is sent.
+  The timer goes off the day the document is uploaded, not the day the signature invitation is sent.
   
 To activate signature reminders for your Skribble Business members:
 
