@@ -17,9 +17,12 @@ To activate signature reminders for your Skribble Business members:
 
 - Go to **Signature reminders** and click **Get started**
 
-- Choose the **frequency** (every 3 days, weekly or every 2 weeks)
+- Choose the **frequency** and click **Save** to confirm
 
-- Click **Save** to confirm
+
+.. image:: signature_reminders.png
+    :class: with-shadow
+    
 
 **Example:** Let’s say you want to send signature reminders weekly, and your document is uploaded on Monday the 1st. Here is how reminders are sent:
 
