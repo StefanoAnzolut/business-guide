@@ -24,7 +24,7 @@ To activate signature reminders for your Skribble Business members:
 **Example:** Let’s say you want to send signature reminders weekly, and your document is uploaded on Monday the 1st. Here is how reminders are sent:
 
 •	**1st reminder** is sent on Monday the 8th
-•	**2nd reminder** is on Monday the 15th
+•	**2nd reminder** is sent on Monday the 15th
 •	**3rd reminder** is sent on Monday the 22nd, and so on.
 
 .. NOTE::
