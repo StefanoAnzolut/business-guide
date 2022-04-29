@@ -5,7 +5,7 @@ Setting up Skribble Business
 ============================
 
 .. NOTE::
- Whether you already have a Skribble account or not, there are two ways to set up Skribble for your company and start a free 30-day trial. Read on to find out how it works.
+ Whether you already have a Skribble account or not, there are two ways you can set up Skribble for your company and start a free 30-day trial. Read on to find out how it works.
 
 
 Skribble offers a free trial month to new Business customers. You won't be charged during the trial period, and you can cancel at any time.
@@ -41,20 +41,9 @@ We'll send you a confirmation link by e-mail to make sure we got your e-mail add
 
 - Enter the exact **company name**, **your first** and **last name** and read our **General Terms & Conditions**
 
-- Check the box and click **Next** if you agree with the terms
+- Check the box and click **Start free trial** if you agree with the terms
 
-- Enter your **company’s billing address** and click **Next**
-
-- Choose your preferred **billing period** (monthly or yearly) for payments after the trial
-
-- Enter your **credit card details** and click **Start your free 30-day trial**
-
-.. NOTE::
-   Your credit card won't be charged until the 30-day trial period expires. We need your card details for future payments after the trial period.
-
-**Note for Enterprise customers with an access code:** Click *Enterprise customer?* to get started with your free 30-day trial.
-
-- Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
+Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
 
 
 Already have an account? This is how it works.
@@ -70,16 +59,7 @@ If you already have a Skribble account with your **business e-mail address**, yo
 
 - Check the box and click **Next** if you agree with the terms
 
-- Enter your **company's billing address** and click **Next**
-
-- Choose your preferred **billing period** (monthly or yearly) for payments after the trial
-
-- Enter your **credit card details** and click **Start your free 30-day trial**
-
-.. NOTE::
-   Your credit card won't be charged until the 30-day trial period expires. We need your card details for future payments after the trial period.
-
-**Note for Enterprise customers with an access code:** Click *Enterprise customer?* to get started with your free 30-day trial.
+- Enter your **company's billing address** and click **Start free trial**
 
 Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
 
