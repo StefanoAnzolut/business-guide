@@ -19,9 +19,8 @@ To update your payment method:
 
 - Click the **pencil icon** to update your payment method
 
-- Choose between a **credit card** or **SEPA Direct Debit**
+- Choose if you want to pay by **credit card** or **SEPA Direct Debit**
 
-- Make sure your payment method is **valid** so that your company's billing can be done right
+- For the correct billing, make sure that your payment method is **valid**
 
 - Then click **Update** to save changes
-
