@@ -27,7 +27,7 @@ Setting up Skribble Business for your company will make you the admin. You can a
     :class: with-shadow
 
 
-- Check the box and click **Next** if you agree with the terms
+- Check the box and click **Get started** if you agree with the terms
 
 We'll send you a confirmation link by e-mail to make sure we got your e-mail address right.
 
@@ -41,7 +41,7 @@ We'll send you a confirmation link by e-mail to make sure we got your e-mail add
 
 - Enter the exact **company name**, **your first** and **last name** and read our **General Terms & Conditions**
 
-- Check the box and click **Start free trial** if you agree with the terms
+- Check the box and click **Start your free trial** if you agree with the terms
 
 Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
 
@@ -51,15 +51,13 @@ Already have an account? This is how it works.
 
 If you already have a Skribble account with your **business e-mail address**, you can set up Skribble Business for your company directly from your account. This will make you the admin. You can add more admins later if you need.
 
-- Click **My plan**, then **Plan details**
+- Click **My plan** and go to **Plan details**
 
-- Navigate to **Skribble Business** and click **Start your free 30-day trial**
+- Navigate to **Business** plan, then click **Test for free**
 
-- Enter the exact **company name** and read our **General Terms & Conditions**
+- Enter the exact **Company name** and read our **General Terms & Conditions**
 
-- Check the box and click **Next** if you agree with the terms
-
-- Enter your **company's billing address** and click **Start free trial**
+- If you agree with the terms, check the box and click **Start your free trial**
 
 Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
 
