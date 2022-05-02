@@ -75,12 +75,8 @@ Upgrading to the paid plan
 
 - Add your billing address, including a valid VAT number if applicable 
 
-- Choose your preferred payment method – credit card or SEPA Direct Debit*
-*SEPA Direct Debit is a common payment method in the EU. The abbreviation SEPA stands for Single Euro Payments Area.
+- Choose your preferred payment method – credit card or SEPA Direct Debit
+SEPA Direct Debit is a common payment method in the EU. The abbreviation SEPA stands for Single Euro Payments Area.
 
 - That's it! After adding your payment details, your Skribble Business will continue to run automatically after your free trial ends. 
-
-
-
-
 
