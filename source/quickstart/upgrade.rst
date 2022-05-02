@@ -22,7 +22,7 @@ Setting up Skribble Business for your company will make you the admin. You can a
 - Enter your **business e-mail address** and read our **Terms of Use**
 
 
-.. image:: step1_skribble_business_no_account.png
+.. image:: Skribble_free_30_day_trial.png
     :alt: pointer to menu button
     :class: with-shadow
 
