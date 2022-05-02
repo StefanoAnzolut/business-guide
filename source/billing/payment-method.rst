@@ -4,7 +4,7 @@
 Updating Payment Method
 =======================
 
-When setting up Skribble Business for your company, you can choose between a credit card or SEPA Direct Debit as a payment method. We won't charge it during the free 30-day trial, so you can get started with no strings attached.
+When setting up Skribble Business for your company, you can choose between a credit card or SEPA Direct Debit as a payment method. We won't charge it during the free 30-day trial so that you can get started with no strings attached.
 
 .. NOTE::
   If you want to pay by invoice after the free trial, get in touch with our support team at support@skribble.com. However, we only recommend this if you plan to use Skribble long-term, as switching to invoices is done manually.
@@ -15,6 +15,9 @@ To update your payment method:
 
 - Go to **Business profile**, then click **Billing**
 
+.. NOTE::
+  If you're paying by invoice, please keep in mind that you won't be able to see your credit card information even if you entered it in the past.
+  
 - Go to **Payment details**
 
 - Click the **pencil icon** to update your payment method
