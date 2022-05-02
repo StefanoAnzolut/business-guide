@@ -10,7 +10,7 @@ Good to know before you get started:
 
   - **No credit card needed, no strings attached**
   
-We won't ask for your credit card information to kick off your trial. Once you've tested Skribble and are convinced that our e-signature is what your team needs, you can add your payment details to upgrade to the paid plan.
+You don't need a credit card to start your free trial. However, if you want your team to keep using Skribble after the trial ends, you'll need to upgrade to the paid plan by adding your payment details. You can choose between a credit card and SEPA Direct Debit.
 
   - **Cancel at any time**
   
