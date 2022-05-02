@@ -21,13 +21,13 @@ Setting up Skribble Business for your company will make you the admin. You can a
 
 - Enter your **business e-mail address** and read our **Terms of Use**
 
+- Check the box and click **Get started** if you agree with the terms
+
 
 .. image:: Skribble_free_30_day_trial.png
     :alt: pointer to menu button
     :class: with-shadow
 
-
-- Check the box and click **Get started** if you agree with the terms
 
 We'll send you an e-mail to check that we got your e-mail address right.
 
@@ -49,7 +49,7 @@ Congratulations, you can now test Skribble Business for free for 30 days. What's
 Already have an account? This is how it works.
 ----------------------------------------------
 
-If you already have a Skribble account with your **business e-mail address**, you can set up Skribble Business for your company directly from your account. This will make you the admin. You can add more admins later if you need.
+Suppose you already have a Skribble account with your **business e-mail address**. In that case, you can set up Skribble Business for your company directly from your account. This will make you the admin. You can add more admins later if you need.
 
 - Click **My plan** and go to **Plan details**
 
@@ -65,7 +65,7 @@ Upgrading to the paid plan
 --------------------------
 
 .. NOTE::
- By adding your payment details, such as billing period, billing address, and payment method, you automatically upgrade to the paid plan. We won't charge your payment method until your 30-day trial ends.
+ Adding your payment details, such as billing period, billing address, and payment method will automatically upgrade your team to the paid plan. We won’t charge your payment method until your 30-day trial ends.
  
  To upgrade to the paid plan from your Skribble Business:
 
