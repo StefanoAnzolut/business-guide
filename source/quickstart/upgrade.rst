@@ -43,7 +43,7 @@ We'll send you an e-mail to check that we got your e-mail address right.
 
 - Check the box and click **Start your free trial** if you agree with the terms
 
-Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
+Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go.
 
 
 Already have an account? This is how it works.
@@ -59,7 +59,7 @@ If you already have a Skribble account with your **business e-mail address**, yo
 
 - If you agree with the terms, check the box and click **Start your free trial**
 
-Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
+Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go.
 
 Upgrading to the paid plan
 --------------------------
@@ -73,10 +73,11 @@ Upgrading to the paid plan
 
 - Choose your preferred billing period (monthly or yearly)
 
-- Add your billing address, including a valid VAT number if applicable 
+- Add your billing address, including a valid VAT number if applicable
 
 - Choose your preferred payment method – credit card or SEPA Direct Debit
+
 SEPA Direct Debit is a common payment method in the EU. The abbreviation SEPA stands for Single Euro Payments Area.
 
-- That's it! After adding your payment details, your Skribble Business will continue to run automatically after your free trial ends. 
+- That's it! After adding your payment details, your Skribble Business will continue to run automatically after your free trial ends.
 
