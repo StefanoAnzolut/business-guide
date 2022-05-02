@@ -5,19 +5,19 @@ Setting up Skribble Business
 ============================
 
 .. NOTE::
- Whether you already have a Skribble account or not, there are two ways you can set up Skribble for your company and start a free 30-day trial. Read on to find out how it works.
+ Skribble offers a free trial month to new Business customers. You don't need a credit card to get started, and you can cancel at any time. Setting up Skribble for your company will make you an admin.
 
-
-Skribble offers a free trial month to new Business customers. You won't be charged during the trial period, and you can cancel at any time.
+Whether you already have a Skribble account or not, there are 2 ways you can set up Skribble for your company. Read on to find out how it works.
 
 New to Skribble? This is how it works.
 --------------------------------------
 
 Setting up Skribble Business for your company will make you the admin. You can add more admins later if you need.
 
-- Go to `my.skribble.com/business/signup`_
+- Go to my.skribble.com/business/signup
 
 .. _my.skribble.com/business/signup: https://my.skribble.com/business/signup/
+
 - Enter your **business e-mail address** and read our **Terms of Use**
 
 - Check the box and click **Get started** if you agree with the terms
@@ -47,7 +47,8 @@ Congratulations, you can now test Skribble Business for free for 30 days. What's
 
 Already have an account? This is how it works.
 ----------------------------------------------
-Suppose you already have a Skribble account with your **business e-mail address**. In that case, you can set up Skribble Business for your company directly from your account. This will make you the admin. You can add more admins later if you need.
+
+If you already have a Skribble account with your **business e-mail address**, you can set up Skribble Business for your company in a few easy steps:
 
 - Click **My plan** and go to **Plan details**
 
@@ -73,9 +74,7 @@ To upgrade to the paid plan from your Skribble Business:
 
 - Add your billing address, including a valid VAT number if applicable
 
-- Choose your preferred payment method – credit card or SEPA Direct Debit
-
-SEPA Direct Debit is a common payment method in the EU. The abbreviation SEPA stands for Single Euro Payments Area.
+- Choose your preferred payment method – credit card or SEPA Direct Debit (a common payment method in the EU; the abbreviation SEPA stands for Single Euro Payments Area)
 
 - That's it! After adding your payment details, your Skribble Business will continue to run automatically after your free trial ends.
 
