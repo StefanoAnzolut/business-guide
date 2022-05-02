@@ -29,9 +29,9 @@ Setting up Skribble Business for your company will make you the admin. You can a
 
 - Check the box and click **Get started** if you agree with the terms
 
-We'll send you a confirmation link by e-mail to make sure we got your e-mail address right.
+We'll send you an e-mail to check that we got your e-mail address right.
 
-- Go to the e-mail and **follow the link** to **confirm your e-mail address**
+- Open this e-mail and **confirm your e-mail address**
 
 - Can't find the e-mail? Check your spam folder. If you didn't get it, check the spelling of your e-mail address before you click **Resend e-mail.**
 
@@ -60,4 +60,27 @@ If you already have a Skribble account with your **business e-mail address**, yo
 - If you agree with the terms, check the box and click **Start your free trial**
 
 Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go. 
+
+Upgrading to the paid plan
+--------------------------
+
+.. NOTE::
+ By adding your payment details, such as billing period, billing address, and payment method, you automatically upgrade to the paid plan. We won't charge your payment method until your 30-day trial ends.
+ 
+ To upgrade to the paid plan from your Skribble Business:
+
+- Click **Upgrade** in the box on the right or go directly to **Payment details**
+
+- Choose your preferred billing period (monthly or yearly)
+
+- Add your billing address, including a valid VAT number if applicable 
+
+- Choose your preferred payment method – credit card or SEPA Direct Debit*
+*SEPA Direct Debit is a common payment method in the EU. The abbreviation SEPA stands for Single Euro Payments Area.
+
+- That's it! After adding your payment details, your Skribble Business will continue to run automatically after your free trial ends. 
+
+
+
+
 
