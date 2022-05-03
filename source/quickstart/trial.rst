@@ -10,11 +10,11 @@ Good to know before you get started:
 
   - **No credit card needed, no strings attached**
   
-You don't need a credit card to start your free trial. However, if you want your team to keep using Skribble after the trial ends, you'll need to upgrade to the paid plan by adding your payment details. You can choose between a credit card and SEPA Direct Debit.
+You don't need a credit card to start your free trial. However, if you want your team to keep using Skribble after the trial ends, you'll need to upgrade to the paid plan by adding your payment details. You can do this any time during or after the trial ends. It's also up to you to decide if you want to pay by credit card or SEPA Direct Debit.
 
-  - **Cancel at any time**
+  - **What happens after the trial ends?**
   
-You only need to cancel your trial if you've added your payment details and no longer want to use Skribble. Skribble Business will continue to run automatically after the trial ends if you don't cancel. Your payment method will be charged with the monthly or yearly fee.
+If you've added your payment details, your Skribble Business will continue to run automatically after the trial ends, and your payment method will be charged with the monthly or yearly fee. If not, your trial will end automatically and your team will no longer be able to sign with Skribble. 
 
   - **50 signatures are on us**
   
