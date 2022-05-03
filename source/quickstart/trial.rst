@@ -14,7 +14,7 @@ You don't need a credit card to start your free trial. However, if you want your
 
   - **What happens after the trial ends?**
   
-If you've added your payment details, your Skribble Business will continue to run automatically after the trial ends, and your payment method will be charged with the monthly or yearly fee. If not, your trial will end automatically and your team will no longer be able to sign with Skribble. 
+If you add your payment details, your Skribble Business will continue to run after the trial ends, and your payment method will be charged with the monthly or yearly fee. If not, your trial will end after 30 days and your team will no longer be able to sign with Skribble. 
 
   - **50 signatures are on us**
   
