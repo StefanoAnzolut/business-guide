@@ -12,7 +12,7 @@ Whether you already have a Skribble account or not, there're 2 ways you can set 
 New to Skribble? This is how it works.
 --------------------------------------
 
-Setting up Skribble Business for your company will make you the admin. You can add more admins later if you need.
+Setting up Skribble Business for your company will make you an admin. You can make your team members admins later if you need to.
 
 - Go to my.skribble.com/business/signup
 
@@ -64,7 +64,7 @@ Upgrading to the paid plan
 --------------------------
 
 .. NOTE::
- Adding your payment details, such as billing period, billing address, and payment method will automatically upgrade your team to the paid plan. However, you won’t be charged until your 30-day trial ends.
+ Adding your payment details, such as billing period, billing address, and payment method will automatically upgrade your team to the paid plan. However, you won't be charged until your 30-day trial ends.
  
 To upgrade to the paid plan:
 
