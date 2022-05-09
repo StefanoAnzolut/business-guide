@@ -4,21 +4,21 @@
 Starting a Free 30-day Trial
 ============================
 
-Skribble offers a free trial month to new customers. You won’t be charged during the free trial, and you can cancel at any time.
+We offer a free trial month to new customers. You don't need a credit card to get started, and you won't be charged during the free trial. Cancelling is also possible at any time during the trial.
 
-Here’re some of the noteworthy things you should know about the trial period.
+Good to know before you get started:
 
-  - **50 signatures included**
+  - **No credit card needed, no strings attached**
   
-Your free trial includes 50 signatures that you can use free of charge during the trial period.
+You don't need a credit card to start your free trial. However, if you want your team to keep using Skribble after the trial ends, you'll need to upgrade to the paid plan by adding your payment details. You can do this any time during or after the trial ends. It's also up to you to decide if you want to pay by credit card or SEPA Direct Debit.
+
+  - **What happens after the trial ends?**
   
-  - **Cancel at any time**
+If you add your payment details, your Skribble Business will continue to run after the trial ends, and your payment method will be charged with the monthly or yearly fee. If not, your trial will end after 30 days and your team will no longer be able to sign with Skribble. 
+
+  - **50 signatures are on us**
   
-You can cancel the trial at any time. If you don’t, Skribble Business will continue to run automatically after the trial expires, and your credit card will be charged with the applicable monthly or yearly fee.
-  
-  - **A valid credit card is required to get started**
-  
-We’ll ask for your credit card information, but you won’t be charged until the trial ends. Having this information makes sure there won’t be any interruptions in case you decide to continue using Skribble after the trial period.
+Your free trial includes 50 signatures. You can use these to sign documents yourself or invite others to sign.
 
 Would you like to test Skribble for free for 30 days? Follow `this guide`_ to start your free trial.
 
@@ -29,39 +29,20 @@ Cancelling Free Trial
 ---------------------
 
 .. NOTE::
-  Cancelling your free trial will automatically delete Skribble Business and transfer all members to the **Skribble Free** plan. Your members will keep seeing their documents in their personal Skribble account.
+  You only need to cancel your trial if you've already added a payment method but no longer want to use Skribble. Cancelling will delete Skribble Business and transfer your members to the free plan. After that, they'll be able to download and save their documents if they need to.
 
 To cancel your free trial:
 
 - Click **Business profile** and go to **Billing**
-
-  
-  .. image:: step_1_billing.png
-    :class: with-shadow
-    
-  
   
 - Navigate to **Current plan** and click the **pencil** icon
 
-
-  .. image:: step_2_pencil2.png
-    :class: with-shadow
-    
-    
-    
-  
 - Click **Cancel free trial**
-
+    
+- Click **Cancel** to confirm that you really want to cancel the trial and delete Skribble Business
+  
 
   .. image:: step3_cancel_trial2.png
     :class: with-shadow
     
     
-    
-- Click **Yes, cancel free trial** to confirm that you really want to cancel the trial and delete Skribble Business
-  
-  
-  .. image:: step_4_confirm_cancel2.png
-    :class: with-shadow
-  
-  

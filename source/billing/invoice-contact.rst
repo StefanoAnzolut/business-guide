@@ -6,12 +6,10 @@ Changing Billing E-mail Address
 
 We'll send invoices to the e-mail address indicated in your Business profile. To change this e-mail address:
 
-- Click **Skribble Business** in the lower left 
+- Click **Skribble Business** in the lower left and select **Business profile**
 
-- Then go to **Business profile**
+- Go to **Billing**, then **Payment details**
 
-- Click the **pencil icon** next to **E-mail**
+- Navigate to **E-Mail** and click the **pencil icon**
 
-- Enter the **new e-mail address**
-
-- Click **Save** to confirm
+- Enter your new **billing e-mail address**, and click **Save** to confirm
