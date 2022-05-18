@@ -11,9 +11,9 @@ As an admin, you can download a monthly signature usage report as CSV for more c
   
 To download the report:
 
-- Click **Business profile** in the lower-left and go to **Invoices**
+- Click **Invoices** on the lef-hand side
 
-- Navigate to **Signature usage**
+- Then go to **Signature usage**
 
 - Click the **Download icon** on the right of a calendar month (the CSV will be downloaded to your computer)
 
