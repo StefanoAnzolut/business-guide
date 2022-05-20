@@ -24,7 +24,7 @@ To activate signature reminders for your Skribble Business members:
     :class: with-shadow
     
 
-**Example:** Let’s say you want to send signature reminders weekly, and the signature invitation is sent on Monday the 1st. Here is how reminders are sent:
+**Example:** Let’s say you want signature reminders to be sent once a week. Here is how it works if the signature invitation is sent on Monday the 1st:
 
 •	**1st reminder** is sent on Monday the 8th
 •	**2nd reminder** is sent on Monday the 15th
