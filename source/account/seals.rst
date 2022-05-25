@@ -17,7 +17,7 @@ To enable your Skribble Business members to seal documents, you will have to unl
 
 **Adding members or API keys**
 
-- From your **Business profile**, go to **Seals**
+- Click **Skribble Business** in the lower-left and go to **Seals**
 
 - Click on the **Pencil icon** next to the seal
 
