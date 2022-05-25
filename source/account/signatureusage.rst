@@ -15,7 +15,7 @@ To download the report:
 
 - Then go to **Signature usage**
 
-- Click the **Download icon** on the right of a calendar month (the CSV will be downloaded to your computer)
+- Click the **Download icon** on the right of a calendar month to download the CSV document
 
 
 .. image:: signature_usage_pick_month.png
