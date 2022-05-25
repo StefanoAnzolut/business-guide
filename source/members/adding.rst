@@ -21,7 +21,7 @@ Adding members by domain
 
 - Then click **Add domain**
 
-.. image:: adding_domains_for members.png
+.. image:: adding_domains_for_members.png
     :class: with-shadow
 
 - Enter the domain and click **Add**
