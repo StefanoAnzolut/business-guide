@@ -7,11 +7,11 @@ Searching Members
 As an admin, you can search your Skribble Business members by their name or e-mail address.
 
 - Click **Skribble Business** in the lower left
-- Navigate to the **Members** tab
+- Go to **Members** at the top left
 - Enter member's **name** or **e-mail address** in the search bar
 
 
-.. image:: searching_members.png
+.. image:: search_members_by_name_or_email.png
     :class: with-shadow
 
 
