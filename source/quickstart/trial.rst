@@ -33,9 +33,11 @@ Cancelling Free Trial
 
 To cancel your free trial:
 
-- Go to **Skribble Business**, then click **Billing**
-  
-- Navigate to **Current plan** and click the **pencil** icon
+- Go to **Skribble Business**
 
-- Click **Cancel free trial**
+- Then click **Billing** on the left in the menu
+
+- Navigate to **Current plan** and click the **Pencil icon**
+
+- Click **Cancel**, then click **Yes, cancel** to confirm
     
