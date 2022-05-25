@@ -15,7 +15,9 @@ As an admin, you can generate and manage API keys for your company.
 Creating an API key
 -------------------
 
-- From your Business profile, go to **API keys** and click **Create API key** at the top right
+- Click **Skribble Business** in the lower-loft 
+
+- Go to **API keys** and click **Create API key** at the top right
 
 - You can choose between 2 types of keys:
 
@@ -23,12 +25,12 @@ Creating an API key
 
     •	**Production API keys** are used for live systems. Signatures requested by such keys will be invoiced. All costs of signature requests created with your API key will be charged to your company.
 
-- Select the key you need
+- Select the API key you need
 
-- Add an API key description (optional)
+- Add an optional description, such as how the key is used or by which department
 
 
-.. image:: create_api_key.png
+.. image:: creating_api_keys.png
     :class: with-shadow
     
 
@@ -37,7 +39,7 @@ Creating an API key
 - Be sure to store your password safely. Unfortunately, we won’t be able to recover it after you close the window.
 
 
-.. image:: create_api_keys_step3_success_close.png
+.. image:: api_key_pwd_username.png
     :class: with-shadow
 
 
@@ -58,7 +60,7 @@ You can add an API key description and reset or delete an API key. To do so:
     •	**Delete API key**: Deleting will remove all existing integrations irreversibly.
 
 
-.. image:: manage_api_key.png
+.. image:: managing_api_keys.png
     :class: with-shadow
 
 
