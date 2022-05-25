@@ -18,14 +18,14 @@ To download the report:
 - Click the **Download icon** on the right of a calendar month (the CSV will be downloaded to your computer)
 
 
-.. image:: signature_usage_download_csv_step3.png
+.. image:: signature_usage_pick_month.png
     :class: with-shadow
 
 
 - Open the CSV document (feel free to convert it to the format that suits you best)
 
 
-.. image:: signature_usage_sample_company.png
+.. image:: signature_usage_csv.png
     :class: with-shadow
 
 
