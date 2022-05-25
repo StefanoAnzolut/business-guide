@@ -7,11 +7,16 @@ Monitoring Activity
 Need to know who of your members was made or removed as admin or who signed a document? On the activity overview page, you can track what's going on in your Skribble Business.
 
 .. NOTE::
-  By default, you'll see all activity during the current calendar month.
+  You'll see all activity during the current calendar month. Click the calendar icon to select the month you want.
 
--  Click **Activity** on the left-hand side 
+-  Click **Activity** on the left in the menu
 
-- To select a past month, click the calendar icon
+-  Click the **calendar icon** to select the month you want
+
+
+.. image:: monitoring_activity_skribble_business.png
+    :class: with-shadow
+    
 
 - To see all activity since setting up your Skribble Business, click the **X** next to the month/year
 
