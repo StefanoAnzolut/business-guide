@@ -108,7 +108,7 @@ If you haven't activated the deletion period for all documents, it only applies 
 
 **Setting deletion period**
 
-You can set a document deletion period that fits your company needs in a few steps.
+You can set a document deletion period that fits your company's needs in a few steps.
 
 - Click on **Business profile** in the lower left
 - Go to **Deletion period**
