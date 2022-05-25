@@ -34,19 +34,20 @@ Check the description in your `Business profile`_. It tells whether all document
 .. NOTE::
    The activation of the deletion period will take 7 days. Be sure to remind your team members to download the affected documents before they're deleted.
 
-- Click **Business profile** in the lower left
+- Click **Business profile** in the lower left and go to **Deletion period**
+
+  
+  .. image:: activate_deletion_period.png
+    :class: with-shadow
     
-- Go to **Deletion period**
 
 - Click **Activate deletion period**
 
-- Select the desired number of days
+- Select the number of days after which documents should be deleted
 
 - Click **Activate** to confirm
 
-
-  .. image:: deletion-period-start-date.png
-    :class: with-shadow
+- You'll then see your deletion period and activation date
     
 
 **Changing deletion period**
@@ -57,10 +58,10 @@ Check the description in your `Business profile`_. It tells whether all document
 
 - Choose a new deletion period
 
-- Click **Save** to confirm
+- Click **Save** to confirm 
    
    
-.. image:: change-deletion-period-admin.png
+.. image:: changing_deletion_period.png
     :class: with-shadow
     
 
@@ -87,14 +88,14 @@ We usually remind your team members that their documents are about to be deleted
 • **7 days before the deletion**
 • **on the day of deletion**
 
-**Hint!** Let's say you set the deletion period to 5 days or choose a shorter deletion period than your current one. In that case, your team members might only get one e-mail reminder on the day of deletion. This will apply to documents that have been on Skribble longer than the new deletion period.
+**Good to know!** Let's say you set the deletion period to 5 days or choose a shorter deletion period than your current one. In that case, your team members might only get one e-mail reminder on the day of deletion. This will apply to documents that have been on Skribble longer than the new deletion period.
 
 **Questions or need a hand?** Write us a message at `support@skribble.com`_. We'll be happy to help.
    
    .. _support@skribble.com: support@skribble.com
 
 
-**********************   **********************   **********************   **********************   **********************
+**********************   **********************   **********************
 
 .. NOTE::
    The information below applies to Enterprise customers who haven’t activated the deletion period for all documents.
