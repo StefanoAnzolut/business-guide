@@ -4,31 +4,18 @@
 Granting Admin Role
 ===================
 
-- Click **Members** if you aren't already there
+On the Members page in your Skribble Business, you can view and manage your members. To make someone an admin:
 
+- Go to **Members** at the top-left 
 
-.. image:: adding_members.png
-    :class: with-shadow
-
-
-On the **Members** page you will see a list of all members of your Skribble Business.
-
-- Click the three dots to the right of the member to see available actions
-
-
-.. image:: removing_members.png
-    :class: with-shadow
-
+- Click the **3 vertical dots** to the right of the member
 
 - Click **Assign admin role**
 
 
-.. image:: granting_options.png
+.. image:: making_members_admin.png
     :class: with-shadow
 
 
 This member will now have access to admin functions such as adding and removing members, monitoring the activity of other members, and granting or revoking the admin role.
 
-
-.. image:: granting_added.png
-    :class: with-shadow
