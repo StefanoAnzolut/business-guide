@@ -15,11 +15,10 @@ To update your payment method:
 
 - Go to **Payment details** under **Plan & Billing**
 
-- Click the **pencil icon** next to your payment method to update it
-
-
 .. NOTE::
-  If you're paying by invoice, please keep in mind that you won't be able to see your credit card information even if you entered it in the past.
+  If you're paying by invoice, please keep in mind that you won't be able to see the Billing page and your credit card information even if you entered it in the past.
+
+- Click the **pencil icon** next to your payment method to update it
 
    
 .. image:: changing_payment_method.png
