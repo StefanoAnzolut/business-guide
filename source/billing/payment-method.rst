@@ -13,17 +13,22 @@ To update your payment method:
 
 - Click **Skribble Business** in the lower left 
 
-- Go to **Business profile**, then click **Billing**
+- Go to **Payment details** under **Plan & Billing**
+
+- Click the **pencil icon** next to your payment method to update it
+
 
 .. NOTE::
   If you're paying by invoice, please keep in mind that you won't be able to see your credit card information even if you entered it in the past.
-  
-- Go to **Payment details**
 
-- Click the **pencil icon** to update your payment method
+   
+.. image:: changing_payment_method.png
+    :class: with-shadow
+    
 
 - Choose if you want to pay by **credit card** or **SEPA Direct Debit**
 
 - For the correct billing, make sure that your payment method is **valid**
 
 - Then click **Update** to save changes
+
