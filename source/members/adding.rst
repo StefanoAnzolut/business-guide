@@ -17,11 +17,12 @@ The simplest way to add members is by registering your company domain (@company.
 Adding members by domain
 -------------------------
 
-- Click **Members**
+- Click **Domains** on the left in the menu
 
-- Go to **Domains**
+- Then click **Add domain**
 
-- Click **Add domain**
+.. image:: adding_domains_for members.png
+    :class: with-shadow
 
 - Enter the domain and click **Add**
 
@@ -46,7 +47,7 @@ The other way to add members to your Skribble Business is by e-mail:
 .. NOTE::
    The person must already have a Skribble account before they can be added to your Skribble Business.
 
-- Go to **Members** if you aren't already there
+- Go to **Members**
 
 - Click **Add Member**
 
