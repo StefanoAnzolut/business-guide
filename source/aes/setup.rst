@@ -22,7 +22,7 @@ To request AES for Business:
 
 - Go to **AES for Business** and click **Start registration**
 
-.. image:: aes_register2.png
+.. image:: aes_for_business.png
     :class: with-shadow
 
 
