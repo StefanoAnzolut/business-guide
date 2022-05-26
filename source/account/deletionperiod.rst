@@ -54,7 +54,7 @@ Check the description in your `Business profile`_. It tells whether all document
 
 - Go to **Deletion period**
     
-- Click on the **Pen symbol**
+- Click on the **pencil symbol**
 
 - Choose a new deletion period
 
@@ -112,7 +112,7 @@ You can set a document deletion period that fits your company's needs in a few s
 
 - Click on **Business profile** in the lower left
 - Go to **Deletion period**
-- Click on the **Pen symbol**
+- Click on the **pencil symbol**
 - Choose a new deletion period
 - Click **Save** to confirm
 
