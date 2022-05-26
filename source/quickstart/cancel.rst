@@ -9,7 +9,9 @@ Cancelling Skribble Business
 
 To cancel your Skribble Business:
 
-- Go to **Skribble Business**, then click **Billing**
+- Go to **Skribble Business**
+
+- Then click **Billing** on the left in the menu
 
 - Navigate to **Current plan** and click the pencil icon
 

@@ -5,7 +5,7 @@ Adding an In-House Support Contact (First-Level Support) 🆕
 ============================================================
 
 .. NOTE::
-  Enterprise customers can add an in-house support contact for their members.
+  You need to be an Enterprise customer to be able to add an in-house support contact for your members.
 
 As an admin, you can add an e-mail address and a phone number that your Skribble Business members can contact if they need help. This is a great way to streamline your organization's support and enable your members to contact their trusted support team.
 
@@ -29,6 +29,6 @@ To add in-house support as the primary support contact:
 - Contact our support team by clicking on **Contact support** in your **Business profile**
 
 
-.. image:: 2nd_level_support_contact.png
+.. image:: first_level_support.png
     :class: with-shadow
 

@@ -20,7 +20,7 @@ To activate signature reminders for your Skribble Business members:
 - Choose **how often** reminders should be sent and click **Activate** to confirm
 
 
-.. image:: signature_reminders.png
+.. image:: activate_signature_reminders.png
     :class: with-shadow
     
 
