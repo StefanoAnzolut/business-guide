@@ -1,8 +1,8 @@
 .. _microsoft:
 
-===============================================
-Set Up Signing From OneDrive and SharePoint 🆕
-===============================================
+===========================================
+Set Up Signing From OneDrive and SharePoint
+===========================================
 
 .. NOTE::
  Skribble Electronic Signature plug-in is available with **Microsoft OneDrive for Business and Skribble Business**.
