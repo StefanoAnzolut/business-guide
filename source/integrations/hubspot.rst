@@ -5,8 +5,8 @@ Set Up Signing From Hubspot 🆕
 ==============================
 
 .. NOTE::
- Signing directly from the **Deals section** on Hubspot is possible with a plug-in available to **Skribble Business customers**.
-
+ Signing directly from the **Deals section** on Hubspot is currently available to selected customers.
+ 
 With the Skribble Electronic Signature plug-in, companies, departments, and teams can sign and track their status without leaving Hubspot. To connect Hubspot with Skribble Business, you’ll need:
 
 •	**Hubspot admin access**
@@ -18,7 +18,7 @@ We recommend that the Hubspot admin sets up the Skribble Electronic Signature pl
 **Step-by-step guide for Hubspot admins to connect it with Skribble:**
 
 .. NOTE::
- Before starting, make sure you have Skribble API credentials (username and API key) ready. You can get these from your company’s Skribble Business admin. `Learn more`_.
+ Before starting, make sure you have your Skribble API credentials ready. You can get these from your company’s Skribble Business admin. `Learn more`_.
 
   .. _Learn more: https://docs.skribble.com/business-admin/api/apicreate.html
 
