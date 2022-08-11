@@ -1,8 +1,8 @@
 .. _google:
 
-====================================
-Set Up Signing From Google Drive 🆕
-====================================
+================================
+Set Up Signing From Google Drive
+================================
 
 .. NOTE::
  Signing directly from Google Drive is possible with a plug-in that is available to Skribble Business customers. If you haven't set up Skribble for your company yet, check this `guide`_.
