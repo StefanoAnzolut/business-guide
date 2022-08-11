@@ -5,7 +5,7 @@ Set Up Signing From Hubspot 🆕
 ==============================
 
 .. NOTE::
- Signing directly from the **Deals section** on Hubspot is currently available to selected customers.
+ Signing from the **Deals section** on Hubspot is currently available to selected customers.
  
 With the Skribble Electronic Signature plug-in, companies, departments, and teams can sign and track their status without leaving Hubspot. To connect Hubspot with Skribble Business, you’ll need:
 
