@@ -59,11 +59,11 @@ This guide is intended to help company administrators set up and manage Skribble
    :maxdepth: 2
    :caption: Integrations:
 
+   integrations/hubspot
    integrations/google
    integrations/sign-google-drive
    integrations/microsoft
    integrations/sign-onedrive-sharepoint
-   integrations/hubspot
    
    
 .. toctree::
