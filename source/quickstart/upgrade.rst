@@ -64,13 +64,13 @@ Upgrading to the paid plan
 --------------------------
 
 .. NOTE::
- Adding your payment details, such as billing period, billing address, and payment method will automatically upgrade your team to the paid plan. However, you won't be charged until your 30-day trial ends.
+ Adding your payment details, such as billing period, billing address, and payment method will upgrade your team to the paid plan and end your free trial.
  
 To upgrade to the paid plan:
 
 - Log in to your **Skribble Business**
 
-- Go directly to **Payment details** or click **Upgrade** (look for the info window telling you how many days are left on the free trial)
+- Go directly to **Payment details** or click **Upgrade now**
 
 - Choose your preferred **Billing period** (monthly or yearly)
 
@@ -78,5 +78,5 @@ To upgrade to the paid plan:
 
 - Choose your preferred **Payment method** – credit card or SEPA Direct Debit (a common payment method in the EU)
 
-That's it! After adding your payment details, your Skribble Business will continue to run automatically after your free trial ends.
+That's it! After adding your payment details, you'll switch to the paid plan and activate your Skribble Business right away.
 
