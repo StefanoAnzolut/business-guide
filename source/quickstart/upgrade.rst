@@ -5,14 +5,14 @@ Setting up Skribble Business
 ============================
 
 .. NOTE::
- Skribble offers a free trial month to new Business customers. You don't need a credit card to get started, and you can cancel anytime. Setting up Skribble for your company will make you an admin.
+ We offer a free trial month to new Business customers. You don't need a credit card to get started, and you can cancel anytime. Setting up Skribble for your company will make you an admin.
 
 Whether you already have a Skribble account or not, there're 2 ways you can set up Skribble for your company. Read on to find out how it works.
 
 New to Skribble? This is how it works.
 --------------------------------------
 
-Setting up Skribble Business for your company will make you an admin. You can make your team members admins later if you need to.
+Setting up Skribble Business for your company will make you an admin. You can make your team members admins if you need to.
 
 - Go to my.skribble.com/business/signup
 
@@ -42,7 +42,7 @@ We'll send you an e-mail to check that we got your e-mail address right.
 
 - Check the box and click **Start your free trial** if you agree with the terms
 
-Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go.
+Congratulations, you can now test Skribble Business for free for up to 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go.
 
 
 Already have an account? This is how it works.
@@ -58,7 +58,7 @@ Have a Skribble account with your **business e-mail address**? Then you can set 
 
 - If you agree with the terms, check the box and click **Start your free trial**
 
-Congratulations, you can now test Skribble Business for free for 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go.
+Congratulations, you can now test Skribble Business for free for up to 30 days. What's next? To get the most out of your trial, add your team members and make sure they give Skribble a go.
 
 Upgrading to the paid plan
 --------------------------
@@ -78,5 +78,5 @@ To upgrade to the paid plan:
 
 - Choose your preferred **Payment method** – credit card or SEPA Direct Debit (a common payment method in the EU)
 
-That's it! After adding your payment details, you'll switch to the paid plan and activate your Skribble Business.
+That's it! By adding your payment details, you've switched to the paid plan and activated your Skribble Business.
 
