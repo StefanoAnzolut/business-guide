@@ -4,7 +4,7 @@
 Getting Started
 ===============
 
-Now that you’ve set up Skribble Business for your company, we recommend that you start with adding your team members to enable them to sign electronically. Here’s a quick guide on how to do it.
+Now that you’ve set up Skribble Business for your company, we recommend that you start by adding your team members so that they can also sign electronically. Here’s a quick guide on how to do it.
 
 - **Adding team members to Skribble Business**
 
@@ -34,11 +34,11 @@ Your team members will need a mobile number or a verified company e-mail address
 
   - **Mobile phone number**
   
-Anyone with a mobile phone number can sign with AES without any further identification.
+Anyone with a mobile phone can sign with AES without further identification.
 
  - **Verified company e-mail address**
   
-Registering your company e-mail domain with Skribble will enable your entire company to sign with AES. Anyone who creates a Skribble account using a company e-mail address and is a member of your Skribble Business will be able to sign with AES right away. `Learn more about AES for Business`_.
+Registering your company e-mail domain with Skribble will enable your entire company to sign with AES. Anyone who creates a Skribble account with a company e-mail address and is a member of your Skribble Business will be able to sign with the AES right away.  `Learn more about AES for Business`_.
 
    .. _Learn more about AES for Business: https://docs.skribble.com/business-admin/aes/setup.html
    
@@ -52,11 +52,11 @@ To sign documents with the QES, your team members can choose between the identif
    
 You can choose between 2 options:
 
-- Your team members can make an appointment at one of our partner locations to verify their identity.
+- Your team members can make appointments at our partner locations to verify their identity.
 
 - To verify your entire team, our staff can come to your office and train one person. They can then verify everyone else in your team. 
 
-Do you plan to add new members to your Skribble Business regularly? We recommend a one-time training for one employee in this case. After the training, they will be able to verify other employees, customers, or even suppliers independently using the RA app of Swisscom. `Learn more about how it works`_.
+Do you plan to add new members to your Skribble Business regularly? In this case, we recommend one-time training for one employee. After the training, they can verify other employees, customers, or suppliers independently using Swisscom's RA app. `Learn more about how it works`_.
 
  .. _Learn more about how it works: https://www.skribble.com/identification/
 
@@ -64,9 +64,9 @@ Do you plan to add new members to your Skribble Business regularly? We recommend
 
 Identification via live video call or mobile app allows employees in your company to verify their identity online from their Skribble account. It takes less than 5 minutes and can be done anytime, anywhere.
 
-After successful identification, your team members will be ready to sign with QES under EU law or Swiss law or both.
+After successful identification, your team members will be ready to sign with QES under EU law, Swiss law, or both.
 
 
-Not sure what identification method fits your company best or need help adding your team members to Skribble Business? Get in touch with our support team at `support@skribble.com`_. We'll be happy to help you in finding the right solution.
+Not sure what identification method fits your company best, or need help adding your team members to Skribble Business? Get in touch with our support team at `support@skribble.com`_. We'll be happy to help you in finding the right solution.
 
  .. _support@skribble.com: support@skribble.com
