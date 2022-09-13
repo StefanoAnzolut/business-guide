@@ -5,7 +5,7 @@ Setting up Skribble Business
 ============================
 
 .. NOTE::
- We offer a free 14-day trial to new Business customers. So, you don't need a credit card to start, and you can cancel anytime. Setting up Skribble for your company will make you an admin.
+ We offer a free 14-day trial to new Business customers. You don't need a credit card to get started, and you can cancel anytime. Setting up Skribble for your company will make you an admin.
 
 Whether you already have a Skribble account or not, there're 2 ways you can set up Skribble for your company. Read on to find out how it works.
 
