@@ -45,11 +45,7 @@ Registering your company e-mail domain with Skribble will enable your entire com
    
 **Qualified electronic signature (QES)**
 
-To sign documents with the QES, your team members can choose between `face-to-face identification`_ or identification via `video call`_ (to sign under EU law).
-   
-   .. _face-to-face identification: https://www.skribble.com/identification/
-   
-   .. _video call: https://www.videoident.me/ch/de/
+To sign documents with the QES, your team members can choose between the identification via video call, mobile app and face-to-face on site (if you're based in Switzerland).
    
    
 - **Face-to-face**
@@ -64,19 +60,12 @@ Do you plan to add new members to your Skribble Business regularly? We recommend
 
  .. _Learn more about how it works: https://www.skribble.com/identification/
 
-- **Via video call** (to sign under EU law only)
+- **Live video call or mobile app**
 
-Video identification allows employees in your company to do the identity check online. It takes less than 5 minutes and can be done anytime, anywhere. `Learn more about video identification here`_ (in German only).
+Identification via live video call or mobile app allows employees in your company to verify their identity online from their Skribble account. It takes less than 5 minutes and can be done anytime, anywhere.
 
- .. _Learn more about video identification here: https://www.videoident.me/ch/de/
+After successful identification, your team members will be ready to sign with QES under EU law or Swiss law or both.
 
-After successful identification, your team members will be ready to sign with QES under EU law.
-
-
-.. NOTE::
-   Video identification is only permitted for signing with the qualified electronic signature (QES) under EU law. If you want to sign with QES under Swiss law, you'll need to go through a `face-to-face identification offered at our partner locations`_ in Switzerland.
-
- .. _face-to-face identification offered at our partner locations: https://trustservices.swisscom.com/en/srs-direct/
 
 Not sure what identification method fits your company best or need help adding your team members to Skribble Business? Get in touch with our support team at `support@skribble.com`_. We'll be happy to help you in finding the right solution.
 
