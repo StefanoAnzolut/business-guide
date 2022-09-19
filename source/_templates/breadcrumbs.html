@@ -1,0 +1,14 @@
+{% extends "!breadcrumbs.html" %}
+
+{%- block breadcrumbs_aside %}
+<li class="wy-breadcrumbs-aside"></li>
+{%- endblock %}
+
+{%- block breadcrumbs %}
+  <li><a href="{{ pathto(master_doc) }}" class="icon icon-home"></a><li class="breadcrumb-item active"></li> &raquo;</li>
+    {%- for doc in parents %}
+      <li><a href="{{ doc.link|e }}">{{ doc.title }}</a> &raquo;</li>
+    {%- endfor %}
+    <li>{{ title }}</li>
+{%- endblock %}
+
