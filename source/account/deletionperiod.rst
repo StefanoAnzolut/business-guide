@@ -91,7 +91,7 @@ We usually remind your team members that their documents are about to be deleted
    The information below applies to Enterprise customers who haven’t activated the deletion period for all documents.
    
 Deletion period for completed documents
---------------------------------------
+---------------------------------------
 
 .. _completed-documents:
 
