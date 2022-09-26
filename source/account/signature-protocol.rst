@@ -24,7 +24,7 @@ As an admin, you can decide if protocols of signed documents should be sent by e
 - If you want to let your members decide, slide the switch to the right. They'll see a checkbox when setting up a signature invitation, and can decide for each document if any attachments should be sent.
 
 
-.. image:: settings_attachments.png
+.. image:: settings_attachments_protocol.png
     :class: with-shadow
     
 
