@@ -1,23 +1,21 @@
 .. _signature-reminders:
 
-==============================
-Activating Signature Reminders
-==============================
+===================
+Signature Reminders
+===================
 
-Your team no longer needs to follow up on pending signatures manually. Instead, you can `activate signature reminders`_, and we’ll send an e-mail to everyone who hasn’t signed. Be sure to inform your team if you decide to activate reminders for them.
+Your team no longer needs to follow up on pending signatures manually. Instead, you can set `signature reminders`_, and we’ll send an e-mail to everyone who hasn’t signed. Be sure to inform your team before doing so.
   
-.. _activate signature reminders: https://my.skribble.com/business/profile/signature-reminders
+.. _signature reminders: https://my.skribble.com/business/profile/
   
 .. NOTE::
-  The timer goes off the day the signature invitation is sent.
+  We start counting on the day your team members send the signature invitation.
   
-To activate signature reminders for your Skribble Business members:
+Here's how you can set how often reminders should be sent:
 
-- Click **Business profile** in the lower-left
+- From your Skribble Business, click **Settings** and go to **Reminders**
 
-- Go to **Signature reminders** and click **Get started**
-
-- Choose **how often** reminders should be sent and click **Activate** to confirm
+- Choose **how often** reminders should be sent and click **Save changes** to confirm
 
 
 .. image:: activate_signature_reminders.png
@@ -33,5 +31,5 @@ To activate signature reminders for your Skribble Business members:
 .. NOTE::
   Is there a `document deletion period`_ set for your team? Keep in mind that we’ll send no reminders for deleted documents. Let’s say the deletion period is 5 days. If you choose to send signature reminders every 3 days, we’ll only send 1 reminder.
   
-.. _document deletion period: https://my.skribble.com/business/profile/deletion-period
+.. _document deletion period: https://my.skribble.com/business/profile/
   
