@@ -30,7 +30,7 @@ Check the description in your `Business profile`_. It tells whether all document
 .. _activating-deletion-period:
 
 Activating deletion period
-------
+--------------------------
 
 .. NOTE::
    The activation of the deletion period will take 7 days. Be sure to remind your team members to download the affected documents before they're deleted.
@@ -49,22 +49,16 @@ Activating deletion period
 - Select the **number of days** after which documents should be deleted
 
 - Click **Save changes** at the bottom of the page
-    
-    
-Changing deletion period
-------
 
-- Click **Settings** and go to **Deletion period**
-
-- Choose a new deletion period and click **Save changes** to confirm
+- If you need to change this at some point, choose a new deletion period and click **Save changes**
 
 Shortening deletion period
-------
+--------------------------
  
 If you shorten your current deletion period, your team members might only get one e-mail reminder on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period set.
 
 Good to know
-------
+------------
    
 .. _pending-signatures:
 
@@ -77,7 +71,7 @@ Let's say the deletion period expires before all recipients have signed the docu
 .. _e-mail-reminders:
    
 E-mail reminders for your team members
-------
+--------------------------------------
 
 We usually remind your team members that their documents are about to be deleted:
 
@@ -96,7 +90,8 @@ We usually remind your team members that their documents are about to be deleted
 .. NOTE::
    The information below applies to Enterprise customers who haven’t activated the deletion period for all documents.
    
-**Deletion period for completed documents**
+Deletion period for completed documents
+--------------------------------------
 
 .. _completed-documents:
 
