@@ -18,7 +18,7 @@ Here's how you can set how often reminders should be sent:
 - Choose **how often** reminders should be sent and click **Save changes** to confirm
 
 
-.. image:: activate_signature_reminders.png
+.. image:: settings_reminders.png
     :class: with-shadow
     
 
