@@ -13,18 +13,20 @@ Think of a signature protocol as a history of all recipients' activities. Need t
 
 **Attaching signature protocols to the confirmation e-mail**
 
-As an admin, you can decide if protocols of signed documents should be sent by e-mail to all recipients after everyone has signed. Or, let your team members decide this themselves for each document. Here's how it works:
+As an admin, you can decide if protocols of signed documents should be sent by e-mail to all recipients after everyone has signed. You can also let your team members decide. Depending on your settings, they'll see a checkbox when setting up a signature invitation. Here's how it works:
 
-- From your Skribble Business, click **Settings** in the lower left
+- From your Skribble Business, click **Settings** on the left 
 
--  Go to **Attachments to confirmation e-mails**
+-  Go to **Attachments to the confirmation e-mail**
 
-- Check the box next to **Signed document** or **Signature protocol** or both
+- Check the box next to **Signed document**, **Signature protocol** or both
 
-- If you want your members to decide this themselves, slide the switch to the right
+- If you want to let your members decide, slide the switch to the right. They'll see a checkbox when setting up a signature invitation, and can decide for each document if any attachments should be sent.
 
-- Depending on your choice, your members can decide if they want to attach these documents to the e-mail sent to all recipients after signing.
 
+.. image:: settings_attachments.png
+    :class: with-shadow
+    
 
 **Here’s how your members can download a signature protocol:**
 
