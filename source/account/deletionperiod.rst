@@ -1,10 +1,10 @@
 .. _account-deletionperiod:
 
-=====================================
-Setting a Document Deletion Period 🆕
-=====================================
+===================================
+Setting a Document Deletion Period
+==================================
 
-As an admin, you can set a deletion period for your team members’ documents on Skribble. After this period, their documents will be automatically deleted. The count starts on the day a document is uploaded to Skribble.
+As an admin, you can set a deletion period for your team members’ documents. After their documents have been on Skribble for a while, they will be automatically deleted. We start counting on the day documents are uploaded to Skribble.
 
 Whether your company signs with Skribble or is about to switch to our e-signature solution, the deletion period applies to one of the below cases:
 
@@ -34,32 +34,30 @@ Check the description in your `Business profile`_. It tells whether all document
 .. NOTE::
    The activation of the deletion period will take 7 days. Be sure to remind your team members to download the affected documents before they're deleted.
 
-- Click **Business profile** in the lower left and go to **Deletion period**
+- Click **Settings** in the lower left and go to **Deletion period**
 
   
   .. image:: activate_deletion_period.png
     :class: with-shadow
     
 
-- Click **Activate deletion period**
+- After you click **Activate**, you'll see the activation date
 
-- Select the number of days after which documents should be deleted
+- Click **Activate** once again to confirm
 
-- Click **Activate** to confirm
+- Select the **number of days** after which documents should be deleted
 
-- You'll then see your deletion period and activation date
+- Click **Save changes** at the bottom of the page
+
+- You'll then see the deletion period and activation date
     
 
 **Changing deletion period**
 
-- Go to **Deletion period**
-    
-- Click on the **pencil symbol**
+- Click **Settings** and go to **Deletion period**
 
-- Choose a new deletion period
+- Choose a new deletion period and click **Save changes** to confirm
 
-- Click **Save** to confirm 
-   
    
 .. image:: changing_deletion_period.png
     :class: with-shadow
