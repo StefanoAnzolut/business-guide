@@ -1,15 +1,32 @@
 .. _signature-protocol:
 
-=================================
-Downloading Signature Protocol 🆕
-=================================
+==================
+Signature Protocol
+==================
 
 .. NOTE::
-   This feature is only available to Skribble Enterprise customers.
+   Signature protocols are available to Skribble Enterprise customers. You can have them sent by e-mail to all recipients after everyone has signed.
 
-Think of a signature protocol as a history of the recipients' activities of a signature invitation. Need to know who viewed or signed the document with which e-signature standard or who declined to sign? Instead of logging into your account to check the information for each document one by one, you can download the signature protocol as a PDF and file it with the signed copy. This comes in handy for your compliance team or anyone else on your team if they ever need this information.
+**What is a signature protocol?**
 
-Here’s how to download a signature protocol:
+Think of a signature protocol as a history of all recipients' activities. Need to know who viewed or signed the document with which e-signature standard or who declined to sign? Instead of checking each document in your account, your members can download the signature protocol as a PDF and archive it with the signed copy. This way, the compliance team or other stakeholders can easily access this information.
+
+**Attaching signature protocols to the confirmation e-mail**
+
+As an admin, you can decide if protocols of signed documents should be sent by e-mail to all recipients after everyone has signed. Or, let your team members decide this themselves for each document. Here's how it works:
+
+- From your Skribble Business, click **Settings** in the lower left
+
+-  Go to **Attachments to confirmation e-mails**
+
+- Check the box next to **Signed document** or **Signature protocol** or both
+
+- If you want your members to decide this themselves, slide the switch to the right
+
+- Depending on your choice, your members can decide if they want to attach these documents to the e-mail sent to all recipients after signing.
+
+
+**Here’s how your members can download a signature protocol:**
 
 - Go to **Documents** and open the document you want
 - Click on the **3 dots** at the top-right
@@ -19,7 +36,7 @@ Here’s how to download a signature protocol:
 
 **Understanding signature protocol**
 
-What information you see in the protocol depends on whether a signature invitation was created on our platform or directly from your tools, or the e-signature standard used, and other factors. The information below should help you understand signature protocols.
+The information in the protocol depends on whether a signature invitation was created on our platform or directly from your tools, the e-signature standard used, and other things. The following information should help you understand signature protocols:
 
 - **Document title**
 - **Signature invitation ID**
@@ -28,7 +45,7 @@ What information you see in the protocol depends on whether a signature invitati
       • Open – some signatures are still pending
       • Signed – all recipients finished signing the document
       • Declined – one of the recipients declined to sign the document
-      • Withdrawn – the person inviting to sign has withdrawn the invitation
+      • Withdrawn – the person who sent the invitation has withdrawn it
       
 - **Participants and their details**
 
@@ -36,7 +53,7 @@ Participants are all recipients of a signature invitation, including observers w
 
 - **Activity details** (such as date, time, and IP address)
 
-You'll see when a document, signature or signature protocol was: created, viewed, updated, signed, assigned, declined, withdrawn, downloaded.
+You'll see when a document, signature or signature protocol was: created, viewed, updated, signed, assigned, declined, withdrawn, or downloaded.
 
 - **Observers**
 
@@ -60,5 +77,3 @@ If your company uses electronic seals, you'll see their visual representation in
 - **Digital certificate details**
 
 This includes certificate subject, issuer, and serial number.
-
-
