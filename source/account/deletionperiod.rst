@@ -34,22 +34,20 @@ Check the description in your `Business profile`_. It tells whether all document
 .. NOTE::
    The activation of the deletion period will take 7 days. Be sure to remind your team members to download the affected documents before they're deleted.
 
-- Click **Settings** in the lower left and go to **Deletion period**
+- Click **Settings** on the left in your Admin area
+
+- Then go to **Deletion period** and click **Activate** (you'll see the activation date)
 
   
-  .. image:: activate_deletion_period.png
+  .. image::settings_deletion_period.png
     :class: with-shadow
-    
-
-- After you click **Activate**, you'll see the activation date
+   
 
 - Click **Activate** once again to confirm
 
 - Select the **number of days** after which documents should be deleted
 
 - Click **Save changes** at the bottom of the page
-
-- You'll then see the deletion period and activation date
     
 
 **Changing deletion period**
@@ -58,10 +56,6 @@ Check the description in your `Business profile`_. It tells whether all document
 
 - Choose a new deletion period and click **Save changes** to confirm
 
-   
-.. image:: changing_deletion_period.png
-    :class: with-shadow
-    
 
 **Shortening deletion period**
  
