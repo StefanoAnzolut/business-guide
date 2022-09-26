@@ -25,6 +25,7 @@ This guide is intended to help company administrators set up and manage Skribble
    :maxdepth: 2
    :caption: Managing Skribble Business:
 
+   account/settings
    account/usage
    account/signatureusage
    account/inhouse-support
