@@ -63,7 +63,8 @@ Shortening deletion period
  
 If you shorten your current deletion period, your team members might only get one e-mail reminder on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period set.
 
-**Good to know**
+Good to know
+------
    
 .. _pending-signatures:
 
@@ -99,16 +100,20 @@ We usually remind your team members that their documents are about to be deleted
 
 .. _completed-documents:
 
-If you haven't activated the deletion period for all documents, it only applies to completed (signed, declined or withdrawn) documents. Would you like to switch to the deletion period for all documents? Write us a message at support@skribble.com.
+If you haven't activated the deletion period for all documents, it only applies to the ones that are completed (signed, declined or withdrawn). Would you like to switch to the deletion period for all documents? Write us a message at support@skribble.com.
 
-**Setting deletion period**
+Here's how it works:
 
-You can set a document deletion period that fits your company's needs in a few steps.
+- Go to **Settings** in your Admin area
 
-- Click on **Business profile** in the lower left
-- Go to **Deletion period**
-- Click on the **pencil symbol**
-- Choose a new deletion period
-- Click **Save** to confirm
+- Then go to **Deletion period** and click **Activate**
+
+- The message that appears informs you about the activation date and that the deletion period only applies to completed documents
+    
+- Click **Activate** once again to confirm
+
+- Select the **number of days** after which documents should be deleted
+
+- Click **Save changes** at the bottom of the page
 
 It may take a few minutes until the new deletion period shows in your profile.
