@@ -37,12 +37,12 @@ Check the description in your `Business profile`_. It tells whether all document
 - Click **Settings** on the left in your Admin area
 
 - Then go to **Deletion period** and click **Activate** (you'll see the activation date)
-
-  
-  .. image::settings_deletion_period.png
-    :class: with-shadow
    
 
+.. image:: settings_deletion_period.png
+    :class: with-shadow
+    
+    
 - Click **Activate** once again to confirm
 
 - Select the **number of days** after which documents should be deleted
@@ -99,6 +99,9 @@ We usually remind your team members that their documents are about to be deleted
 If you haven't activated the deletion period for all documents, it only applies to completed (signed, declined or withdrawn) documents. Would you like to switch to the deletion period for all documents? Write us a message at support@skribble.com.
 
 **Setting deletion period**
+
+Setting deletion period
+------
 
 You can set a document deletion period that fits your company's needs in a few steps.
 
