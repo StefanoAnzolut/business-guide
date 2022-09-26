@@ -52,10 +52,6 @@ Activating deletion period
 
 - If you need to change this at some point, choose a new deletion period and click **Save changes**
 
-Shortening deletion period
---------------------------
- 
-If you shorten your current deletion period, your team members might only get one e-mail reminder on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period set.
 
 Good to know
 ------------
@@ -69,9 +65,8 @@ Let's say the deletion period expires before all recipients have signed the docu
 .. _Learn more: https://help.skribble.com/de/en/invitation-cancelled
 
 .. _e-mail-reminders:
-   
-E-mail reminders for your team members
---------------------------------------
+
+• E-mail reminders for your team members
 
 We usually remind your team members that their documents are about to be deleted:
 
@@ -83,6 +78,10 @@ We usually remind your team members that their documents are about to be deleted
 **Questions or need a hand?** Write us a message at `support@skribble.com`_. We'll be happy to help.
    
    .. _support@skribble.com: support@skribble.com
+   
+• Shortening deletion period
+ 
+If you shorten your current deletion period, your team members might only get one e-mail reminder on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period set.
 
 
 **********************   **********************   **********************
