@@ -66,7 +66,7 @@ Let's say the deletion period expires before all recipients have signed the docu
 
 .. _e-mail-reminders:
 
-• E-mail reminders for your team members
+• **E-mail reminders for your team members**
 
 We usually remind your team members that their documents are about to be deleted:
 
@@ -79,7 +79,7 @@ We usually remind your team members that their documents are about to be deleted
    
    .. _support@skribble.com: support@skribble.com
    
-• Shortening deletion period
+• **Shortening deletion period**
  
 If you shorten your current deletion period, your team members might only get one e-mail reminder on the day of deletion. This will be the case for documents that have been on Skribble longer than the new deletion period set.
 
