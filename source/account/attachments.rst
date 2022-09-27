@@ -1,8 +1,8 @@
 .. _account-attachments:
 
-======================================
-Attachments to the Confirmation E-Mail
-======================================
+===============================
+Attachments to the Final E-Mail
+===============================
 
 After all invited parties have signed a document, they receive a final confirmation e-mail. This e-mail contains a link to the signed document. As an admin, you can set if the following documents should also be attached to the e-mail: 
 
@@ -24,6 +24,6 @@ Here is how it works:
 
 - When they set up a signature invitation, they can check the box to apply your settings 
 
-- **Example 1:** Let's say you select both signed document and signature protocol in your admin settings and tick the box to let your members choose. In this case, your members can choose if they want to send along both documents. They can't choose which ones. 
-
-- **Example 2:** Let's say you select only the signed document and don't tick the box to let your members decide. In this case, recipients will get the signed document with the confirmation e-mail. Your members won't be able to change this. 
+      •	**Example 1:** Let's say you select both signed document and signature protocol in your admin settings and tick the box to let your members choose. In this case, your members can choose if they want to send along both documents. They can't choose which ones. 
+      
+      •	**Example 2:** Let's say you select only the signed document and don't tick the box to let your members decide. In this case, recipients will get the signed document with the confirmation e-mail. Your members won't be able to change this. 
