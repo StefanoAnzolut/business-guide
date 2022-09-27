@@ -1,15 +1,18 @@
 .. _signature-protocol:
 
-=================================
-Downloading Signature Protocol 🆕
-=================================
+==================
+Signature Protocol
+==================
 
 .. NOTE::
-   This feature is only available to Skribble Enterprise customers.
+   Signature protocols are available to Skribble Enterprise customers. You can have them sent by e-mail to all recipients after everyone has signed.
 
-Think of a signature protocol as a history of the recipients' activities of a signature invitation. Need to know who viewed or signed the document with which e-signature standard or who declined to sign? Instead of logging into your account to check the information for each document one by one, you can download the signature protocol as a PDF and file it with the signed copy. This comes in handy for your compliance team or anyone else on your team if they ever need this information.
+**What is a signature protocol?**
 
-Here’s how to download a signature protocol:
+Think of a signature protocol as a history of all recipients' activities. Need to know who viewed or signed the document with which e-signature standard or who declined to sign? Instead of checking each document in your account, your members can download the signature protocol as a PDF and archive it with the signed copy. This way, the compliance team or other stakeholders can easily access this information.
+
+
+Here’s how your members can download a signature protocol:
 
 - Go to **Documents** and open the document you want
 - Click on the **3 dots** at the top-right
@@ -17,9 +20,10 @@ Here’s how to download a signature protocol:
 - **Alternative:** Click on the **tooltip i** at the top-right of the document. Then select an **icon** that looks like a document and says **Signature protocol** when you hover over it.
 - Open the downloaded signature protocol, and file it with the signed copy of a document if you need
 
-**Understanding signature protocol**
+Understanding signature protocol
+--------------------------------
 
-What information you see in the protocol depends on whether a signature invitation was created on our platform or directly from your tools, or the e-signature standard used, and other factors. The information below should help you understand signature protocols.
+The information in the protocol depends on whether a signature invitation was created on our platform or directly from your tools, the e-signature standard used, and other things. The following information should help you understand signature protocols:
 
 - **Document title**
 - **Signature invitation ID**
@@ -28,7 +32,7 @@ What information you see in the protocol depends on whether a signature invitati
       • Open – some signatures are still pending
       • Signed – all recipients finished signing the document
       • Declined – one of the recipients declined to sign the document
-      • Withdrawn – the person inviting to sign has withdrawn the invitation
+      • Withdrawn – the person who sent the invitation has withdrawn it
       
 - **Participants and their details**
 
@@ -36,7 +40,7 @@ Participants are all recipients of a signature invitation, including observers w
 
 - **Activity details** (such as date, time, and IP address)
 
-You'll see when a document, signature or signature protocol was: created, viewed, updated, signed, assigned, declined, withdrawn, downloaded.
+You'll see when a document, signature or signature protocol was: created, viewed, updated, signed, assigned, declined, withdrawn, or downloaded.
 
 - **Observers**
 
@@ -61,4 +65,22 @@ If your company uses electronic seals, you'll see their visual representation in
 
 This includes certificate subject, issuer, and serial number.
 
+
+Attaching signature protocols to the confirmation e-mail
+--------------------------------------------------------
+
+As an admin, you can set for your team if protocols of signed documents should be sent by e-mail to all recipients after everyone has signed. You can also let your team members decide themselves. Depending on your settings, they'll see a checkbox when setting up a signature invitation. Here's how it works:
+
+- From your Skribble Business, click **Settings** on the left 
+
+-  Go to **Attachments to the confirmation e-mail**
+
+- Check the box next to **Signed document**, **Signature protocol** or both
+
+- If you want to let your members decide, slide the switch to the right. They'll see a checkbox when setting up a signature invitation, and can decide for each document if any attachments should be sent.
+
+
+.. image:: settings_attachments_protocol.png
+    :class: with-shadow
+    
 
