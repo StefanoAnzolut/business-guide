@@ -20,7 +20,11 @@ Here is how it works:
 
 - Then navigate to **Attachments to the final e-mail**
 
-- Select the signed document, signature protocol (for Enterprise customers) or both to be attached to the e-mail
+- Select the documents that should be attached
+
+•	Signed document
+•	Signature protocol (for Enterprise customers) 
+•	Both, signed document and signature protocol
 
 - If you also slide the switch below the selected documents to the right, your members will be able to decide themselves when setting up a signature invitation
 
