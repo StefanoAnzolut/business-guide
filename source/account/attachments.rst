@@ -22,9 +22,9 @@ Here is how it works:
 
 - Select the documents that should be attached
 
-•	Signed document
-•	Signature protocol (for Enterprise customers) 
-•	Both, signed document and signature protocol
+   •	Signed document
+   •	Signature protocol (for Enterprise customers) 
+   •	Both, signed document and signature protocol
 
 - If you also slide the switch below the selected documents to the right, your members will be able to decide themselves when setting up a signature invitation
 
