@@ -18,7 +18,7 @@ Here is how it works:
 
 .. _Admin area: https://my.skribble.com/business/settings
 
-- Then navigate to **Attachments to the final e-mail**
+- Then navigate to **Attachments to the confirmation e-mail**
 
 - **Select the documents** that should be attached
 
