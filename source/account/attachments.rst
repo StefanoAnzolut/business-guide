@@ -14,7 +14,9 @@ After all invited parties have signed a document, they receive a final confirmat
 
 Here is how it works:
 
-- Go to **Settings** in your admin area
+- Click **Settings** on the right in your `Admin area`_
+
+.. _Admin area: https://my.skribble.com/business/settings
 
 - Then navigate to **Attachments to the final e-mail**
 
