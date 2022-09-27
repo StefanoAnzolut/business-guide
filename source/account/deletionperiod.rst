@@ -12,9 +12,9 @@ Whether your company signs with Skribble or is about to switch to our e-signatur
 •	**completed documents only** (signed, declined or withdrawn) → selected Enterprise customers (:ref:`Learn more<completed-documents>`)
 
 **How do I know which documents are affected in my company?**
-Check the description in your `Business profile`_. It tells whether all documents or only completed ones are affected.
+Check the description under `Settings`_ in your Business profile. It tells whether all documents or only completed ones are affected.
 
-.. _Business profile: https://my.skribble.com/business/profile/deletion-period
+.. _Settings: https://my.skribble.com/business/settings
 
 **In this article, you'll also learn:**
 
@@ -33,7 +33,7 @@ Activating deletion period
 --------------------------
 
 .. NOTE::
-   The activation of the deletion period will take 7 days. Be sure to remind your team members to download the affected documents before they're deleted.
+   The activation of the deletion period will take 7 days. Don't forget to remind your team members to download the affected documents before they're deleted.
 
 - Click **Settings** on the left in your Admin area
 
@@ -75,9 +75,8 @@ We usually remind your team members that their documents are about to be deleted
 
 **Good to know!** Let's say you set the deletion period to 5 days or choose a shorter deletion period than your current one. In that case, your team members might only get one e-mail reminder on the day of deletion. This will apply to documents that have been on Skribble longer than the new deletion period.
 
-**Questions or need a hand?** Write us a message at `support@skribble.com`_. We'll be happy to help.
+**Questions or need a hand?** Write us a message at support@skribble.com. We'll be happy to help.
    
-   .. _support@skribble.com: support@skribble.com
    
 • **Shortening deletion period**
  
@@ -94,11 +93,11 @@ Deletion period for completed documents
 
 .. _completed-documents:
 
-If you haven't activated the deletion period for all documents, it only applies to the ones that are completed (signed, declined or withdrawn). Would you like to switch to the deletion period for all documents? Write us a message at support@skribble.com.
+Let's say you haven't activated the deletion period for all documents. In this case, it only applies to the ones completes ones (signed, declined or withdrawn). Would you like to switch to the deletion period for all documents? Write us a message at support@skribble.com.
 
 Here's how it works:
 
-- Go to **Settings** in your Admin area
+- Click **Settings** on the left in your Admin area
 
 - Then go to **Deletion period** and click **Activate**
 
