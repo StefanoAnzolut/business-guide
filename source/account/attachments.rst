@@ -22,7 +22,7 @@ Here is how it works:
 
 - Slide the switch below the selected documents to the right if you want your members to choose when to add attachments 
 
-- When they set up a signature invitation, they can check the box to apply your settings 
+- When setting up a signature invitation, they'll need to tick the box to attach the documents
 
       •	**Example 1:** Let's say you select both signed document and signature protocol in your admin settings and tick the box to let your members choose. In this case, your members can choose if they want to send along both documents. They can't choose which ones. 
       
