@@ -1,16 +1,16 @@
 .. _account-attachments:
 
-===============================
-Confirmation E-Mail Attachments
-===============================
+======================================
+Attachments to the Confirmation E-Mail
+======================================
 
-After all invited parties have signed a document, they receive a confirmation e-mail. This e-mail contains a link to the signed document. As an admin, you can set if any of the following documents should also be attached to this e-mail:
+After all invited parties have signed a document, they receive a final confirmation e-mail. This e-mail contains a link to the signed document. As an admin, you can set if the following documents should also be attached to the e-mail: 
 
 •	**Signed document**
 •	**Signature protocol** (for Enterprise customers)
 
 .. NOTE::
-   You can set this for all documents or let your members decide for each document.
+   You can let your members choose if they want to send these documents with the confirmation e-mail. If you do so, they can only say yes or no, but they can't attach only one document, for example.
 
 Here is how it works:
 
@@ -18,8 +18,12 @@ Here is how it works:
 
 - Then navigate to **Attachments to the final e-mail**
 
-- Choose if only the signed document, signature protocol (for Enterprise customers) or both should be attached to the e-mail
+- Select the signed document, signature protocol (for Enterprise customers) or both to be attached to the e-mail
 
-- Want your members decide? Slide the switch below the documents to the right. 
+- Slide the switch below the selected documents to the right if you want your members to choose when to add attachments 
 
-- They will then see a checkbox when setting up a signature invitation and will be able to decide this for each document. 
+- When they set up a signature invitation, they can check the box to apply your settings 
+
+- **Example 1:** Let's say you select both signed document and signature protocol in your admin settings and tick the box to let your members choose. In this case, your members can choose if they want to send along both documents. They can't choose which ones. 
+
+- **Example 2:** Let's say you select only the signed document and don't tick the box to let your members decide. In this case, recipients will get the signed document with the confirmation e-mail. Your members won't be able to change this. 
