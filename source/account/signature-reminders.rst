@@ -4,9 +4,9 @@
 Signature Reminders
 ===================
 
-Your team no longer needs to follow up on pending signatures manually. Instead, you can set `signature reminders`_, and we’ll send an e-mail to everyone who hasn’t signed. Be sure to inform your team before doing so.
+Your team no longer needs to follow up on pending signatures manually. Instead, you can set `signature reminders`_, and we’ll send an e-mail to everyone who hasn’t signed. Don't forget to inform your team before doing so.
   
-.. _signature reminders: https://my.skribble.com/business/profile/
+.. _signature reminders: https://my.skribble.com/business/settings
   
 .. NOTE::
   We start counting on the day your team members send the signature invitation.
@@ -29,7 +29,7 @@ Here's how you can set how often reminders should be sent:
 •	**3rd reminder** is sent on Monday the 22nd, and so on.
 
 .. NOTE::
-  Is there a `document deletion period`_ set for your team? Keep in mind that we’ll send no reminders for deleted documents. Let’s say the deletion period is 5 days. If you choose to send signature reminders every 3 days, we’ll only send 1 reminder.
+  Is there a `document deletion period`_ set for your team? Keep in mind that no reminders are sent for deleted documents. Let’s say the deletion period is 5 days. If you choose to send signature reminders every 3 days, we’ll only send 1 reminder.
   
-.. _document deletion period: https://my.skribble.com/business/profile/
+.. _document deletion period: https://my.skribble.com/business/settings
   
