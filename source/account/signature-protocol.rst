@@ -11,24 +11,8 @@ Signature Protocol
 
 Think of a signature protocol as a history of all recipients' activities. Need to know who viewed or signed the document with which e-signature standard or who declined to sign? Instead of checking each document in your account, your members can download the signature protocol as a PDF and archive it with the signed copy. This way, the compliance team or other stakeholders can easily access this information.
 
-**Attaching signature protocols to the confirmation e-mail**
 
-As an admin, you can decide if protocols of signed documents should be sent by e-mail to all recipients after everyone has signed. You can also let your team members decide. Depending on your settings, they'll see a checkbox when setting up a signature invitation. Here's how it works:
-
-- From your Skribble Business, click **Settings** on the left 
-
--  Go to **Attachments to the confirmation e-mail**
-
-- Check the box next to **Signed document**, **Signature protocol** or both
-
-- If you want to let your members decide, slide the switch to the right. They'll see a checkbox when setting up a signature invitation, and can decide for each document if any attachments should be sent.
-
-
-.. image:: settings_attachments_protocol.png
-    :class: with-shadow
-    
-
-**Here’s how your members can download a signature protocol:**
+Here’s how your members can download a signature protocol:
 
 - Go to **Documents** and open the document you want
 - Click on the **3 dots** at the top-right
@@ -36,7 +20,8 @@ As an admin, you can decide if protocols of signed documents should be sent by e
 - **Alternative:** Click on the **tooltip i** at the top-right of the document. Then select an **icon** that looks like a document and says **Signature protocol** when you hover over it.
 - Open the downloaded signature protocol, and file it with the signed copy of a document if you need
 
-**Understanding signature protocol**
+Understanding signature protocol
+--------------------------------
 
 The information in the protocol depends on whether a signature invitation was created on our platform or directly from your tools, the e-signature standard used, and other things. The following information should help you understand signature protocols:
 
@@ -79,3 +64,23 @@ If your company uses electronic seals, you'll see their visual representation in
 - **Digital certificate details**
 
 This includes certificate subject, issuer, and serial number.
+
+
+Attaching signature protocols to the confirmation e-mail
+--------------------------------------------------------
+
+As an admin, you can set for your team if protocols of signed documents should be sent by e-mail to all recipients after everyone has signed. You can also let your team members decide themselves. Depending on your settings, they'll see a checkbox when setting up a signature invitation. Here's how it works:
+
+- From your Skribble Business, click **Settings** on the left 
+
+-  Go to **Attachments to the confirmation e-mail**
+
+- Check the box next to **Signed document**, **Signature protocol** or both
+
+- If you want to let your members decide, slide the switch to the right. They'll see a checkbox when setting up a signature invitation, and can decide for each document if any attachments should be sent.
+
+
+.. image:: settings_attachments_protocol.png
+    :class: with-shadow
+    
+
