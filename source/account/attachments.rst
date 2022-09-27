@@ -1,8 +1,8 @@
 .. _account-attachments:
 
-===============================
-Attachments to the Final E-Mail
-===============================
+==================================
+Attachments to the Final E-Mail 🆕
+==================================
 
 After all invited parties have signed a document, they receive a final confirmation e-mail. This e-mail contains a link to the signed document. As an admin, you can set if the following documents should also be attached: 
 
