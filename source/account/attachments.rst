@@ -10,7 +10,7 @@ After all invited parties have signed a document, they receive a final confirmat
 •	**Signature protocol** (for Enterprise customers)
 
 .. NOTE::
-   You can let your members decide if they want to send these documents with the confirmation e-mail. If you do so, they can only say yes or no, but they can't attach only one document, for example.
+   Additionally, You can let your members decide if they want to send these documents with the confirmation e-mail or not. If you do so, they can only say yes or no, but they can't attach only one document, for example.
 
 Here is how it works:
 
@@ -22,10 +22,8 @@ Here is how it works:
 
 - Select the signed document, signature protocol (for Enterprise customers) or both to be attached to the e-mail
 
-- Slide the switch below the selected documents to the right if you want your members to decide when to add attachments 
+- If you also slide the switch below the selected documents to the right, your members will be able to decide themselves when setting up a signature invitation
 
-- When setting up a signature invitation, they'll need to tick the box to attach the documents
-
-      •	**Example 1:** Let's say you select both signed document and signature protocol in your admin settings and tick the box to let your members decide. In this case, your members can decide if they want to send along both documents. They can't choose which ones. 
+      •	**Example 1:** Let's say you select both the signed document and signature protocol in your admin settings and slide the switch to the right to let your members decide. In this case, your members can untick the checkbox not to attach these documents to the e-mail. They can't choose only one document.
       
-      •	**Example 2:** Let's say you select only the signed document and don't tick the box to let your members decide. In this case, recipients will get the signed document with the confirmation e-mail. Your members won't be able to change this. 
+      •	**Example 2:** Let's say you select only the signed document and don't slide the switch to the right. In this case, the signed document will be attached to the e-mail. Your members won't be able to change this. 
