@@ -10,7 +10,7 @@ After all invited parties have signed a document, they receive a final confirmat
 •	**Signature protocol** (for Enterprise customers)
 
 .. NOTE::
-   Additionally, You can let your members decide if they want to send these documents with the confirmation e-mail or not. If you do so, they can only say yes or no, but they can't attach only one document, for example.
+   Additionally, you can let your members decide if they want to attach these documents to the e-mail or not. If you do so, they can only say yes or no, but they can't select only one document, for example.
 
 Here is how it works:
 
