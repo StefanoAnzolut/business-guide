@@ -27,7 +27,7 @@ Here is how it works:
    •	Both signed document and signature protocol
    
    
-   .. image:: attachments_settings.png
+.. image:: attachments_settings.png
     :class: with-shadow
     
 
