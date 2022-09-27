@@ -25,6 +25,11 @@ Here is how it works:
    •	Signed document
    •	Signature protocol (for Enterprise customers) 
    •	Both signed document and signature protocol
+   
+   
+   .. image:: attachments_settings.png
+    :class: with-shadow
+    
 
 - If you also slide the switch below the selected documents to the right, your members will be able to decide if they want to attach these documents when setting up a signature invitation
 
