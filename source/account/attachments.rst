@@ -33,10 +33,10 @@ Here is how it works:
 
 - If you also activate the switch below the documents, your members will be able to decide if they want to attach them when setting up a signature invitation
 
-What your members will see
---------------------------
+What your members see
+---------------------
 
-- Your members can uncheck the preselected checkbox they only see if you activate the switch
+- Your members can uncheck the preselected checkbox they can see **only** if you activate the switch
 
 
 .. image:: settings_attachments_members_view.png
