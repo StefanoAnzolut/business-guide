@@ -40,7 +40,7 @@ Here is how it works:
 - Your members will see a preselected checkbox if you allow them to decide and will be able to uncheck it
 
 
-.. image:: attachments_settings_members_view.png
+.. image:: settings_attachments_members_view.png
     :class: with-shadow
     
    
