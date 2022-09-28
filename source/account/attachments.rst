@@ -10,7 +10,7 @@ After all invited parties have signed a document, they receive a final confirmat
 •	**Signature protocol** (for Enterprise customers)
 
 .. NOTE::
-   Additionally, you can let your members decide if they want to attach these documents or not. If you do so, they can say yes or no, but they can't choose which documents.
+   You can also let your members decide if they want to attach these documents or not. If you do so, they can say yes or no, but they can't choose which documents to attach.
 
 Here is how it works:
 
@@ -36,7 +36,7 @@ Here is how it works:
 What your members will see
 --------------------------
 
-- Your members will see a preselected checkbox if you activate the switch and will be able to uncheck it
+- Your members can uncheck the preselected checkbox they see if you activate the switch
 
 
 .. image:: settings_attachments_members_view.png
@@ -45,7 +45,8 @@ What your members will see
   
 - Here are a few examples of how it works
 
-      •	**Example 1:** Let's say you select both the signed document and signature protocol in your admin settings and slide the switch to the right to let your members decide. In this case, your members can untick the checkbox if they don't want to attach these documents to the e-mail. 
+      •	**Example 1:** Let's say you select both the signed document and signature protocol in your admin settings and slide the switch to the right to let your members decide. In this case, your members can untick the checkbox if they don't want to attach these documents to the e-mail.
+
       
       •	**Example 2:** Let's say you select only the signed document and don't slide the switch to the right. In this case, the signed document will be attached to the e-mail. Your members won't be able to change this as they won't see the preselected checkbox.
       
