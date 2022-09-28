@@ -36,7 +36,7 @@ Here is how it works:
 What your members see
 ---------------------
 
-- Your members can uncheck the preselected checkbox they can see **only** if you activate the switch
+- Your members can uncheck the preselected checkbox they see **only** if you activate the switch
 
 
 .. image:: settings_attachments_members_view.png
